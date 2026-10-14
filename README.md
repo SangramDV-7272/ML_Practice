@@ -1,7 +1,5 @@
 # ML_Practice
 
-# ML_Practice
-
 A hands-on repository for practicing Machine Learning concepts and building an end-to-end understanding of the ML workflow.
 
 ## Topics Covered
