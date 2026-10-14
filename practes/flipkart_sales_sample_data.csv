@@ -1,0 +1,2001 @@
+Customer_ID,Customer_Name,Product,Category,Price,Quantity,Revenue,Rating,Region,Month
+C10000,Myra Reddy,Saree,Clothing,4879.0,4,19516.0,,South,March
+C10001,Fatima Patel,Wrist Watch,Accessories,6239.0,2,12478.0,,West,August
+C10002,Neha Kumar,Wired Earphones,Electronics,344.0,1,344.0,4.2,South,December
+C10003,Tara Chowdhury,Smartphone,Electronics,28384.0,3,85152.0,4.1,Central,December
+C10004,Imran Das,Power Bank,Electronics,2073.0,4,8292.0,3.7,East,December
+C10005,Fatima Chowdhury,Novel Book,Books,474.0,1,474.0,3.4,Central,March
+C10006,Aanya Das,Saree,Clothing,1436.0,4,5744.0,2.4,South,May
+C10007,Ishaan Singh,,Electronics,90002.0,4,360008.0,4.9,West,July
+C10008,Sai Khan,Face Cream,Beauty,817.0,4,3268.0,3.7,South,August
+C10009,Ishaan Joshi,Bluetooth Speaker,Electronics,3355.0,3,10065.0,3.1,South,April
+C10010,Aarav Mehta,,Home,1616.0,1,,,West,September
+C10011,Imran Singh,Running Shoes,Footwear,6019.0,2,12038.0,3.9,South,May
+C10012,Neha Joshi,Shampoo,Beauty,197.0,4,788.0,2.5,East,March
+C10013,Reyansh Khan,,Electronics,2633.0,1,2633.0,2.9,North,November
+C10014,Aishaan Sharma,T-Shirt,Clothing,1403.0,1,,2.8,Central,March
+C10015,Aditya Bose,Face Cream,Beauty,1009.0,1,1009.0,4.9,East,January
+C10016,Pari Singh,Wired Earphones,Electronics,562.0,3,1686.0,4.4,East,September
+C10017,Sai Chowdhury,Basmati Rice 5kg,Grocery,606.0,1,606.0,4.6,West,March
+C10018,Karan Patel,Saree,Clothing,3113.0,2,6226.0,4.7,Central,November
+C10019,Arjun Das,Bluetooth Speaker,Electronics,8530.0,4,,,East,March
+C10020,Neha Khan,Laptop,Electronics,84313.0,3,252939.0,4.7,West,December
+C10021,Vivaan Sharma,Face Cream,Beauty,,3,2133.0,4.3,East,October
+C10022,Riya Joshi,Saree,Clothing,5486.0,1,5486.0,3.7,West,September
+C10023,Tara Kumar,Wired Earphones,Electronics,314.0,5,,2.8,East,September
+C10024,Imran Iyer,T-Shirt,Clothing,1099.0,1,1099.0,4.4,North,April
+C10025,Karan Patel,Power Bank,Electronics,,1,693.0,3.9,West,December
+C10026,Aarav Kumar,Saree,Clothing,3233.0,1,3233.0,3.6,North,January
+C10027,Imran Sharma,Mixer Grinder,Home,5242.0,2,10484.0,3.9,West,October
+C10028,Aryan Reddy,Jeans,Clothing,1300.0,2,,3.8,North,June
+C10029,Arjun Verma,T-Shirt,Clothing,1020.0,3,3060.0,3.4,East,January
+C10030,Arjun Verma,Sneakers,Footwear,3497.0,3,10491.0,4.6,West,November
+C10031,Neha Reddy,Bluetooth Speaker,Electronics,935.0,1,935.0,4.3,East,April
+C10032,Neha Verma,Saree,Clothing,1458.0,1,1458.0,4.3,North,November
+C10033,Aishaan Nair,Bedsheet,Home,1870.0,3,5610.0,2.0,South,March
+C10034,Karan Sheikh,Saree,Clothing,4128.0,1,4128.0,4.0,North,February
+C10035,Aditya Jha,Smartphone,Electronics,14237.0,2,28474.0,4.3,Central,May
+C10036,Kavya Pandey,Sneakers,Footwear,3157.0,1,3157.0,,North,August
+C10037,Aryan Patel,Novel Book,Books,195.0,5,975.0,4.2,West,June
+C10038,Diya Pillai,Running Shoes,Footwear,4519.0,1,4519.0,4.5,North,February
+C10039,Riya Joshi,Cooking Oil 5L,Grocery,861.0,3,,3.9,East,September
+C10040,Meera Mehta,Bluetooth Speaker,Electronics,6638.0,1,6638.0,2.9,East,January
+C10041,Karan Bose,Smartphone,Electronics,44350.0,1,44350.0,4.0,East,June
+C10042,Saanvi Patel,Cooking Oil 5L,Grocery,892.0,3,2676.0,4.7,East,November
+C10043,Pari Chowdhury,Laptop,Electronics,58257.0,1,58257.0,3.8,West,January
+C10044,Tara Pillai,T-Shirt,Clothing,498.0,5,2490.0,3.1,West,May
+C10045,Aishaan Patel,Jeans,Clothing,1672.0,1,1672.0,4.4,Central,August
+C10046,Riya Reddy,Power Bank,Electronics,2157.0,4,8628.0,3.3,,March
+C10047,Diya Das,Bedsheet,Home,1245.0,4,4980.0,2.8,South,March
+C10048,Aisha Mehta,Running Shoes,Footwear,1142.0,1,1142.0,4.0,South,October
+C10049,Myra Rao,Power Bank,Electronics,3045.0,1,3045.0,3.1,East,June
+C10050,Kavya Kumar,Tablet,Electronics,,1,34429.0,4.4,North,August
+C10051,Arjun Joshi,Shampoo,Beauty,156.0,4,624.0,4.4,North,April
+C10052,Saanvi Pillai,Shampoo,Beauty,234.0,5,1170.0,4.8,West,March
+C10053,Meera Das,Basmati Rice 5kg,Grocery,575.0,1,575.0,4.5,East,September
+C10054,,Power Bank,Electronics,611.0,3,1833.0,4.3,Central,January
+C10055,Aryan Singh,Running Shoes,Footwear,5549.0,2,11098.0,2.5,West,May
+C10056,,Saree,Clothing,968.0,2,1936.0,3.7,East,July
+C10057,Aishaan Kumar,Running Shoes,Footwear,5273.0,2,10546.0,3.0,South,December
+C10058,Sneha Iyer,Backpack,Accessories,1238.0,1,1238.0,3.0,South,July
+C10059,,T-Shirt,Clothing,438.0,3,1314.0,2.4,North,December
+C10060,Sai Bose,Smartphone,Electronics,19610.0,1,19610.0,2.8,North,August
+C10061,Karan Sharma,Shampoo,Beauty,294.0,5,1470.0,3.7,Central,July
+C10062,Tara Gupta,T-Shirt,Clothing,994.0,4,3976.0,4.1,East,May
+C10063,Saanvi Singh,Cooking Oil 5L,Grocery,518.0,4,2072.0,3.5,North,April
+C10064,Rohan Gupta,T-Shirt,Clothing,815.0,1,815.0,4.6,West,January
+C10065,,T-Shirt,Clothing,717.0,1,717.0,4.5,Central,April
+C10066,Pari Sheikh,Laptop,Electronics,49784.0,1,49784.0,,North,August
+C10067,Meera Singh,T-Shirt,Clothing,1088.0,5,5440.0,5.0,South,January
+C10068,Aanya Sheikh,Novel Book,Books,465.0,1,465.0,3.2,Central,March
+C10069,Reyansh Pillai,Wrist Watch,Accessories,12267.0,1,12267.0,4.2,North,January
+C10070,Sneha Joshi,Running Shoes,Footwear,6402.0,2,12804.0,3.3,South,March
+C10071,Karan Das,Bedsheet,Home,1460.0,1,1460.0,3.4,South,August
+C10072,Tara Pillai,Backpack,Accessories,459.0,1,,4.0,South,May
+C10073,Reyansh Bose,Bedsheet,Home,1368.0,2,2736.0,2.6,West,September
+C10074,Imran Reddy,Bluetooth Speaker,Electronics,2254.0,1,2254.0,5.0,East,April
+C10075,Aishaan Joshi,Bedsheet,Home,724.0,5,3620.0,5.0,Central,December
+C10076,Karan Mehta,Power Bank,Electronics,2538.0,4,10152.0,3.7,North,January
+C10077,Krishna Verma,Novel Book,Books,603.0,3,,4.2,Central,November
+C10078,Aryan Mehta,Mixer Grinder,Home,3639.0,2,7278.0,4.3,West,March
+C10079,Tara Jha,Basmati Rice 5kg,Grocery,399.0,2,798.0,3.9,East,December
+C10080,Imran Joshi,Novel Book,Books,518.0,2,1036.0,5.0,West,September
+C10081,Saanvi Rao,Backpack,Accessories,2575.0,1,2575.0,4.3,Central,June
+C10082,Sai Kumar,Saree,Clothing,2842.0,5,14210.0,,Central,June
+C10083,Aryan Bose,Mixer Grinder,Home,4696.0,2,9392.0,,North,June
+C10084,Krishna Pillai,Novel Book,Books,279.0,4,,3.4,Central,December
+C10085,Diya Pandey,Saree,Clothing,2832.0,1,2832.0,3.8,East,July
+C10086,Tara Khan,Wired Earphones,Electronics,857.0,1,857.0,3.5,West,August
+C10087,Reyansh Patel,Sneakers,Footwear,6927.0,1,6927.0,4.0,Central,December
+C10088,Ananya Sharma,Power Bank,Electronics,747.0,1,747.0,4.2,Central,April
+C10089,Aryan Verma,Wired Earphones,Electronics,1828.0,1,,4.0,South,September
+C10090,Ananya Das,Power Bank,Electronics,2586.0,4,10344.0,5.0,East,December
+C10091,Mohammed Chowdhury,Backpack,Accessories,2870.0,5,14350.0,,West,August
+C10092,Ananya Bose,Running Shoes,Footwear,,2,3534.0,2.3,South,December
+C10093,Aanya Sharma,,Clothing,1465.0,5,7325.0,3.6,East,June
+C10094,Aditya Khan,Power Bank,Electronics,1338.0,2,2676.0,4.5,Central,March
+C10095,Imran Singh,Jeans,Clothing,3353.0,5,16765.0,4.8,Central,September
+C10096,Kavya Bose,Laptop,Electronics,32861.0,3,98583.0,3.9,North,February
+C10097,Karan Rao,Basmati Rice 5kg,Grocery,440.0,2,880.0,3.8,South,September
+C10098,Aryan Mehta,Power Bank,Electronics,3013.0,1,3013.0,4.3,Central,June
+C10099,Vivaan Chowdhury,Wired Earphones,Electronics,1520.0,2,3040.0,5.0,Central,May
+C10100,Riya Khan,Backpack,Accessories,2608.0,1,2608.0,3.4,North,March
+C10101,Fatima Sheikh,Shampoo,Beauty,,3,1569.0,3.5,North,January
+C10102,Pari Verma,Running Shoes,Footwear,4593.0,2,9186.0,1.2,East,November
+C10103,Aryan Jha,Bedsheet,Home,1747.0,3,5241.0,3.8,West,May
+C10104,Kavya Sharma,Power Bank,Electronics,,4,,5.0,South,November
+C10105,Ananya Iyer,Mixer Grinder,Home,6466.0,5,32330.0,3.7,West,February
+C10106,Mohammed Das,Jeans,Clothing,2362.0,1,2362.0,3.1,South,April
+C10107,Imran Verma,Jeans,Clothing,,4,7624.0,2.4,West,July
+C10108,Sai Joshi,Backpack,Accessories,2641.0,2,5282.0,3.8,North,October
+C10109,Neha Iyer,Power Bank,Electronics,1273.0,5,6365.0,5.0,Central,February
+C10110,Tara Kumar,Jeans,Clothing,2027.0,2,4054.0,4.3,East,March
+C10111,Sneha Pillai,Basmati Rice 5kg,Grocery,427.0,4,1708.0,2.9,East,June
+C10112,Aarav Pandey,Tablet,Electronics,38480.0,5,192400.0,3.4,East,November
+C10113,Ishaan Joshi,Bedsheet,Home,1322.0,1,1322.0,5.0,East,May
+C10114,Riya Sharma,T-Shirt,Clothing,647.0,1,647.0,3.9,South,February
+C10115,Saanvi Bose,Power Bank,Electronics,2009.0,2,4018.0,3.2,East,September
+C10116,Pari Gupta,Basmati Rice 5kg,Grocery,726.0,4,2904.0,3.0,Central,January
+C10117,Riya Mehta,Bluetooth Speaker,Electronics,7409.0,1,7409.0,4.0,East,April
+C10118,Reyansh Khan,Basmati Rice 5kg,Grocery,671.0,5,3355.0,5.0,South,October
+C10119,Karan Mehta,Cooking Oil 5L,Grocery,560.0,1,560.0,3.8,East,July
+C10120,Aanya Sharma,Cooking Oil 5L,Grocery,1012.0,2,2024.0,3.9,East,March
+C10121,Rohan Reddy,Basmati Rice 5kg,Grocery,412.0,4,1648.0,3.2,Central,December
+C10122,Reyansh Mehta,Backpack,Accessories,1865.0,1,1865.0,3.5,West,September
+C10123,Meera Sheikh,Power Bank,Electronics,1527.0,1,1527.0,3.1,West,October
+C10124,Meera Chowdhury,Wired Earphones,Electronics,1726.0,1,1726.0,4.1,,August
+C10125,Aanya Khan,Running Shoes,Footwear,3418.0,1,3418.0,3.3,South,September
+C10126,Ishaan Pillai,T-Shirt,Clothing,671.0,1,671.0,2.9,,June
+C10127,Aisha Pandey,T-Shirt,Clothing,1412.0,2,2824.0,4.5,Central,June
+C10128,Riya Chowdhury,Jeans,Clothing,1312.0,2,2624.0,,North,August
+C10129,Myra Rao,Jeans,Clothing,2538.0,1,2538.0,4.1,South,November
+C10130,Neha Bose,Running Shoes,Footwear,3701.0,2,7402.0,3.5,West,March
+C10131,Ananya Patel,,Books,428.0,1,428.0,4.5,West,January
+C10132,Ishaan Sheikh,Cooking Oil 5L,Grocery,666.0,2,1332.0,4.6,Central,November
+C10133,Aanya Sharma,Wired Earphones,Electronics,413.0,1,413.0,4.0,South,May
+C10134,Vivaan Mehta,Backpack,Accessories,2972.0,2,5944.0,3.5,Central,September
+C10135,Aishaan Reddy,Power Bank,Electronics,849.0,4,3396.0,4.2,East,January
+C10136,Krishna Sheikh,T-Shirt,Clothing,1278.0,2,2556.0,4.5,East,September
+C10137,Meera Chowdhury,Laptop,Electronics,42217.0,1,42217.0,3.9,North,August
+C10138,Saanvi Mehta,Running Shoes,Footwear,5915.0,2,11830.0,3.6,Central,May
+C10139,Saanvi Khan,T-Shirt,Clothing,505.0,3,1515.0,3.7,South,April
+C10140,Sneha Sharma,,Beauty,510.0,1,510.0,,East,June
+C10141,Tara Mehta,Smartphone,Electronics,58089.0,4,232356.0,5.0,North,September
+C10142,Vivaan Das,Power Bank,Electronics,3197.0,4,12788.0,3.4,East,July
+C10143,Mohammed Verma,Mixer Grinder,Home,3872.0,1,3872.0,4.0,East,August
+C10144,Myra Gupta,Backpack,Accessories,761.0,4,3044.0,4.0,East,April
+C10145,Saanvi Reddy,Jeans,Clothing,2780.0,2,5560.0,4.8,Central,November
+C10146,Saanvi Mehta,Smartphone,Electronics,10246.0,3,30738.0,4.0,South,January
+C10147,Sneha Pandey,Jeans,Clothing,2154.0,4,8616.0,5.0,West,August
+C10148,Zara Pandey,Novel Book,Books,367.0,2,734.0,3.2,West,December
+C10149,Fatima Pandey,Shampoo,Beauty,603.0,4,2412.0,5.0,East,March
+C10150,Reyansh Kumar,Bluetooth Speaker,Electronics,5249.0,1,5249.0,4.9,South,August
+C10151,Imran Nair,Jeans,Clothing,,4,5032.0,4.3,South,November
+C10152,Reyansh Singh,Face Cream,Beauty,1380.0,5,6900.0,5.0,West,November
+C10153,Meera Khan,Face Cream,Beauty,286.0,5,,4.1,West,May
+C10154,Aanya Chowdhury,T-Shirt,Clothing,1118.0,1,1118.0,3.5,North,June
+C10155,Sai Chowdhury,Mixer Grinder,Home,5549.0,5,27745.0,5.0,North,June
+C10156,Krishna Rao,,Accessories,6134.0,3,18402.0,3.5,West,June
+C10157,Aditya Joshi,Smartphone,Electronics,66283.0,4,265132.0,3.6,East,August
+C10158,Faiz Khan,Basmati Rice 5kg,Grocery,589.0,1,589.0,3.4,,May
+C10159,Pari Nair,Sneakers,Footwear,1824.0,2,3648.0,4.5,North,October
+C10160,Rohan Bose,Wrist Watch,Accessories,12036.0,4,48144.0,5.0,North,November
+C10161,Saanvi Kumar,Face Cream,Beauty,1381.0,3,4143.0,3.3,North,July
+C10162,Pari Singh,Novel Book,Books,379.0,5,1895.0,4.8,East,June
+C10163,Aditya Nair,Bedsheet,Home,1427.0,4,5708.0,,North,April
+C10164,,Sneakers,Footwear,2103.0,3,6309.0,4.1,North,July
+C10165,Pari Bose,Smartphone,Electronics,28765.0,3,86295.0,4.9,East,November
+C10166,Arjun Pillai,Mixer Grinder,Home,3420.0,3,10260.0,5.0,South,January
+C10167,Mohammed Sharma,Cooking Oil 5L,Grocery,985.0,1,985.0,,South,June
+C10168,Arjun Singh,Power Bank,Electronics,1701.0,3,5103.0,3.7,Central,July
+C10169,Mohammed Sharma,Saree,Clothing,4641.0,1,4641.0,4.2,South,March
+C10170,Mohammed Verma,Cooking Oil 5L,Grocery,844.0,1,,4.7,North,September
+C10171,Aryan Gupta,Wired Earphones,Electronics,807.0,1,807.0,5.0,Central,August
+C10172,Diya Pillai,Basmati Rice 5kg,Grocery,691.0,1,691.0,3.0,South,March
+C10173,Diya Reddy,Cooking Oil 5L,Grocery,902.0,3,2706.0,,East,April
+C10174,Rohan Rao,Novel Book,Books,516.0,2,1032.0,2.6,South,July
+C10175,Diya Kumar,Backpack,Accessories,621.0,4,2484.0,3.3,Central,March
+C10176,Aryan Kumar,Tablet,Electronics,17346.0,2,34692.0,5.0,North,May
+C10177,Aryan Jha,Novel Book,Books,333.0,4,1332.0,4.8,South,March
+C10178,Ishaan Rao,Face Cream,Beauty,1270.0,2,2540.0,5.0,South,May
+C10179,Kavya Patel,Face Cream,Beauty,445.0,1,445.0,2.3,West,August
+C10180,Sneha Verma,Power Bank,Electronics,3104.0,5,15520.0,4.0,North,February
+C10181,Rohan Pillai,Mixer Grinder,Home,4317.0,1,4317.0,4.3,South,September
+C10182,Aanya Pandey,Saree,Clothing,1698.0,3,5094.0,3.0,Central,November
+C10183,Aishaan Sheikh,Jeans,Clothing,3250.0,2,6500.0,4.1,South,April
+C10184,Aisha Kumar,Sneakers,Footwear,3118.0,1,3118.0,3.9,West,
+C10185,Aarav Das,Backpack,Accessories,763.0,1,763.0,1.9,North,June
+C10186,Ananya Joshi,Running Shoes,Footwear,2278.0,2,4556.0,3.2,Central,January
+C10187,Sneha Gupta,Cooking Oil 5L,Grocery,485.0,2,970.0,4.4,East,January
+C10188,Arjun Sharma,Mixer Grinder,Home,1995.0,1,1995.0,3.5,East,April
+C10189,Aisha Sheikh,Power Bank,Electronics,2663.0,5,13315.0,,East,June
+C10190,Diya Verma,Laptop,Electronics,62681.0,5,313405.0,4.1,North,October
+C10191,Reyansh Nair,Bluetooth Speaker,Electronics,5225.0,1,5225.0,,East,April
+C10192,Faiz Khan,Wrist Watch,Accessories,11079.0,1,11079.0,2.6,South,
+C10193,Karan Jha,Sneakers,Footwear,1507.0,1,1507.0,4.8,North,September
+C10194,,Wrist Watch,Accessories,7977.0,1,7977.0,4.6,Central,December
+C10195,Mohammed Gupta,Face Cream,Beauty,1455.0,3,4365.0,3.6,South,December
+C10196,,Mixer Grinder,Home,3229.0,1,3229.0,,,August
+C10197,Aisha Khan,Mixer Grinder,Home,,2,11052.0,4.5,North,July
+C10198,Aanya Sharma,T-Shirt,Clothing,1098.0,3,3294.0,5.0,North,October
+C10199,Aisha Rao,Basmati Rice 5kg,Grocery,376.0,5,1880.0,4.8,North,July
+C10200,Aditya Patel,,Clothing,685.0,2,1370.0,3.3,South,November
+C10201,Karan Pillai,Bedsheet,Home,1565.0,2,3130.0,4.5,East,February
+C10202,Mohammed Rao,Backpack,Accessories,2074.0,3,6222.0,2.9,West,February
+C10203,Krishna Bose,Wired Earphones,Electronics,1830.0,5,9150.0,4.4,South,July
+C10204,Karan Bose,Face Cream,Beauty,921.0,5,4605.0,5.0,North,February
+C10205,Sai Das,Smartphone,Electronics,67360.0,1,67360.0,4.2,West,February
+C10206,Saanvi Gupta,Wired Earphones,Electronics,2213.0,3,6639.0,4.5,East,July
+C10207,Sai Nair,Cooking Oil 5L,Grocery,713.0,3,2139.0,3.9,North,May
+C10208,Aishaan Pillai,Face Cream,Beauty,996.0,5,4980.0,3.5,North,July
+C10209,Arjun Nair,Novel Book,Books,554.0,3,1662.0,2.8,North,March
+C10210,Kavya Chowdhury,Shampoo,Beauty,347.0,3,,,Central,September
+C10211,Pari Reddy,Tablet,Electronics,9822.0,3,29466.0,4.6,North,January
+C10212,Neha Pandey,Bluetooth Speaker,Electronics,2588.0,1,2588.0,3.5,West,June
+C10213,Saanvi Nair,Saree,Clothing,5334.0,3,16002.0,4.6,East,February
+C10214,Fatima Chowdhury,Saree,Clothing,5950.0,1,5950.0,4.9,Central,March
+C10215,,Shampoo,Beauty,183.0,1,183.0,3.7,South,September
+C10216,Zara Mehta,Sneakers,Footwear,2409.0,1,2409.0,4.4,North,September
+C10217,Aisha Gupta,Wired Earphones,Electronics,1613.0,1,1613.0,4.4,Central,November
+C10218,Riya Bose,Backpack,Accessories,,1,1738.0,3.3,East,June
+C10219,Neha Gupta,Shampoo,Beauty,255.0,4,1020.0,4.4,North,September
+C10220,Kavya Iyer,Bluetooth Speaker,Electronics,5555.0,1,5555.0,2.2,East,December
+C10221,Sai Patel,Sneakers,Footwear,1258.0,1,1258.0,,West,October
+C10222,Sai Das,Sneakers,Footwear,3564.0,1,3564.0,3.3,West,June
+C10223,Ishaan Iyer,Running Shoes,Footwear,,5,25410.0,,South,February
+C10224,Aisha Khan,Jeans,Clothing,3389.0,5,16945.0,3.6,North,February
+C10225,Aditya Kumar,Running Shoes,Footwear,6261.0,3,18783.0,4.2,Central,March
+C10226,Zara Iyer,Wired Earphones,Electronics,1064.0,1,1064.0,4.9,North,June
+C10227,Rohan Reddy,Mixer Grinder,Home,6273.0,2,12546.0,4.1,North,November
+C10228,Aarav Sheikh,Tablet,Electronics,41584.0,1,41584.0,4.3,West,July
+C10229,Imran Khan,T-Shirt,Clothing,1344.0,1,1344.0,3.5,North,March
+C10230,Sneha Khan,Backpack,Accessories,734.0,1,734.0,4.2,South,April
+C10231,Aanya Pandey,Laptop,Electronics,104052.0,2,208104.0,3.9,West,July
+C10232,Aarav Gupta,Laptop,Electronics,52268.0,3,156804.0,4.5,South,December
+C10233,Mohammed Pillai,Shampoo,Beauty,644.0,3,1932.0,2.5,East,July
+C10234,Mohammed Sheikh,Backpack,Accessories,1522.0,1,1522.0,5.0,Central,June
+C10235,Aanya Sharma,Bluetooth Speaker,Electronics,2223.0,2,4446.0,2.8,,April
+C10236,Aarav Gupta,,Electronics,2811.0,1,2811.0,2.6,South,August
+C10237,Arjun Bose,Bedsheet,Home,1780.0,5,8900.0,4.8,Central,December
+C10238,Arjun Singh,Bluetooth Speaker,Electronics,6109.0,2,12218.0,5.0,South,July
+C10239,Ananya Jha,Laptop,Electronics,50994.0,2,101988.0,3.9,West,January
+C10240,Diya Mehta,Wired Earphones,Electronics,1292.0,4,5168.0,5.0,East,April
+C10241,Aryan Reddy,Laptop,Electronics,98418.0,2,196836.0,4.1,East,November
+C10242,Aditya Kumar,Wired Earphones,Electronics,2390.0,2,4780.0,2.5,South,December
+C10243,Karan Iyer,Jeans,Clothing,1265.0,2,2530.0,3.5,East,January
+C10244,Aisha Das,Face Cream,Beauty,908.0,2,1816.0,4.4,North,January
+C10245,Krishna Sheikh,Running Shoes,Footwear,5555.0,3,16665.0,4.0,South,April
+C10246,,Saree,Clothing,3943.0,5,19715.0,4.4,South,March
+C10247,Faiz Reddy,Novel Book,Books,587.0,1,,3.8,North,December
+C10248,Pari Patel,Novel Book,Books,385.0,3,1155.0,3.5,Central,May
+C10249,Riya Chowdhury,Laptop,Electronics,100768.0,1,100768.0,3.6,Central,January
+C10250,Tara Joshi,Running Shoes,Footwear,3625.0,3,10875.0,3.6,East,September
+C10251,Sai Khan,Smartphone,Electronics,71827.0,1,71827.0,2.1,East,June
+C10252,Rohan Sharma,Mixer Grinder,Home,2076.0,1,,,West,April
+C10253,Tara Kumar,Smartphone,Electronics,45496.0,5,227480.0,,South,December
+C10254,Diya Nair,Smartphone,Electronics,42686.0,1,42686.0,3.6,South,June
+C10255,Saanvi Verma,Saree,Clothing,1603.0,1,1603.0,4.9,South,February
+C10256,Aryan Sheikh,Backpack,Accessories,834.0,1,834.0,4.2,North,July
+C10257,Fatima Singh,Sneakers,Footwear,6642.0,5,33210.0,4.7,South,December
+C10258,Diya Nair,Novel Book,Books,335.0,1,335.0,5.0,West,June
+C10259,Fatima Reddy,Wired Earphones,Electronics,388.0,2,776.0,3.8,South,November
+C10260,Meera Sharma,Bedsheet,Home,401.0,4,1604.0,3.8,East,October
+C10261,Faiz Gupta,Mixer Grinder,Home,6866.0,2,13732.0,5.0,Central,August
+C10262,Aanya Rao,Mixer Grinder,Home,2388.0,3,7164.0,,North,November
+C10263,Arjun Verma,Wired Earphones,Electronics,478.0,1,478.0,,East,June
+C10264,Krishna Kumar,Basmati Rice 5kg,Grocery,504.0,2,1008.0,4.9,Central,April
+C10265,Riya Khan,Face Cream,Beauty,1185.0,2,2370.0,3.8,South,January
+C10266,Sai Sharma,Mixer Grinder,Home,4681.0,2,9362.0,3.9,West,February
+C10267,Kavya Bose,Basmati Rice 5kg,Grocery,890.0,3,2670.0,3.7,South,
+C10268,Krishna Sheikh,Mixer Grinder,Home,3060.0,2,6120.0,4.4,Central,January
+C10269,Aditya Chowdhury,Wired Earphones,Electronics,2006.0,2,4012.0,3.0,South,December
+C10270,Pari Gupta,Cooking Oil 5L,Grocery,1178.0,4,4712.0,3.4,North,
+C10271,Rohan Rao,Basmati Rice 5kg,Grocery,705.0,4,2820.0,3.9,North,April
+C10272,Tara Bose,Laptop,Electronics,34049.0,1,34049.0,4.3,South,March
+C10273,Aisha Kumar,T-Shirt,Clothing,210.0,1,210.0,3.9,West,August
+C10274,Kavya Pillai,Bluetooth Speaker,Electronics,8751.0,4,35004.0,,South,October
+C10275,Ananya Verma,Face Cream,Beauty,1267.0,1,1267.0,3.8,Central,April
+C10276,Aarav Verma,Running Shoes,Footwear,4587.0,1,4587.0,3.4,West,September
+C10277,Zara Kumar,Wrist Watch,Accessories,9704.0,2,19408.0,,West,May
+C10278,Aisha Reddy,Power Bank,Electronics,3031.0,2,,4.9,West,November
+C10279,Aanya Pillai,Novel Book,Books,297.0,1,,3.9,North,May
+C10280,Faiz Mehta,,Books,,1,177.0,3.9,Central,November
+C10281,Vivaan Das,T-Shirt,Clothing,333.0,1,333.0,3.2,West,October
+C10282,Imran Chowdhury,Novel Book,Books,691.0,5,,2.8,East,February
+C10283,,Face Cream,Beauty,867.0,4,3468.0,4.4,Central,April
+C10284,Pari Chowdhury,Tablet,Electronics,52231.0,2,104462.0,4.2,Central,June
+C10285,Aanya Joshi,Basmati Rice 5kg,Grocery,765.0,4,3060.0,,South,November
+C10286,Fatima Chowdhury,Backpack,Accessories,444.0,1,,4.8,North,December
+C10287,Ananya Singh,Running Shoes,Footwear,5710.0,2,,,North,January
+C10288,Fatima Gupta,Mixer Grinder,Home,6673.0,3,20019.0,5.0,South,December
+C10289,Kavya Pandey,Laptop,Electronics,119944.0,3,359832.0,3.1,North,January
+C10290,Diya Nair,Sneakers,Footwear,8945.0,2,17890.0,4.3,North,November
+C10291,Sneha Sheikh,Bluetooth Speaker,Electronics,6133.0,3,18399.0,5.0,West,June
+C10292,Sai Mehta,Mixer Grinder,Home,5942.0,1,5942.0,3.7,Central,November
+C10293,Reyansh Patel,Smartphone,Electronics,16054.0,3,48162.0,4.6,North,May
+C10294,Ananya Nair,Basmati Rice 5kg,Grocery,728.0,1,728.0,5.0,West,September
+C10295,Zara Kumar,Smartphone,Electronics,23915.0,1,23915.0,3.3,,December
+C10296,Aarav Iyer,Jeans,Clothing,811.0,1,811.0,4.4,South,September
+C10297,Saanvi Pillai,Wired Earphones,Electronics,,5,7460.0,3.2,South,June
+C10298,,Face Cream,Beauty,350.0,5,1750.0,4.8,East,July
+C10299,Saanvi Rao,Jeans,Clothing,2764.0,2,5528.0,5.0,East,November
+C10300,Aarav Sharma,Shampoo,Beauty,674.0,1,674.0,3.8,East,March
+C10301,Faiz Mehta,Basmati Rice 5kg,Grocery,468.0,2,936.0,4.3,East,February
+C10302,Diya Verma,Cooking Oil 5L,Grocery,814.0,5,4070.0,5.0,Central,December
+C10303,Aarav Kumar,Wired Earphones,Electronics,1577.0,1,1577.0,4.2,,February
+C10304,Krishna Khan,Laptop,Electronics,50899.0,2,101798.0,4.1,West,October
+C10305,Arjun Singh,Saree,Clothing,3387.0,4,13548.0,5.0,North,October
+C10306,Imran Reddy,Backpack,Accessories,2785.0,2,5570.0,5.0,North,December
+C10307,Aishaan Das,Shampoo,Beauty,542.0,1,542.0,3.9,Central,July
+C10308,Aisha Chowdhury,Sneakers,Footwear,7328.0,4,29312.0,,Central,October
+C10309,Imran Bose,Running Shoes,Footwear,5549.0,1,5549.0,5.0,South,November
+C10310,,T-Shirt,Clothing,591.0,5,2955.0,3.8,South,September
+C10311,Aisha Gupta,Bedsheet,Home,1602.0,1,1602.0,5.0,North,July
+C10312,Aryan Joshi,Bedsheet,Home,559.0,1,559.0,4.5,Central,January
+C10313,Mohammed Iyer,Tablet,Electronics,23364.0,1,23364.0,4.3,West,July
+C10314,Sneha Verma,Wrist Watch,Accessories,3398.0,3,10194.0,3.6,North,February
+C10315,Reyansh Joshi,,Electronics,1612.0,1,1612.0,4.1,East,October
+C10316,Sneha Pandey,Saree,Clothing,4483.0,1,4483.0,4.2,South,July
+C10317,Ananya Sheikh,Shampoo,Beauty,154.0,5,770.0,3.6,Central,January
+C10318,Imran Chowdhury,Bluetooth Speaker,Electronics,2372.0,5,11860.0,2.9,West,January
+C10319,Sneha Gupta,Laptop,Electronics,88612.0,2,177224.0,3.0,East,May
+C10320,Rohan Rao,Running Shoes,Footwear,6243.0,1,6243.0,3.1,South,March
+C10321,Myra Nair,Jeans,Clothing,750.0,2,1500.0,4.6,South,June
+C10322,Faiz Das,Power Bank,Electronics,,4,13940.0,3.4,West,October
+C10323,Neha Pandey,Bluetooth Speaker,Electronics,8684.0,2,17368.0,4.0,North,July
+C10324,Vivaan Rao,Tablet,Electronics,27835.0,3,83505.0,,North,December
+C10325,Aryan Sharma,Running Shoes,Footwear,,5,28550.0,3.8,Central,July
+C10326,Mohammed Jha,Mixer Grinder,Home,2337.0,2,4674.0,4.7,North,September
+C10327,Ishaan Reddy,Novel Book,Books,491.0,1,491.0,4.6,North,May
+C10328,Meera Joshi,Tablet,Electronics,32314.0,2,64628.0,3.1,South,September
+C10329,Sai Sharma,Laptop,Electronics,114010.0,1,114010.0,3.3,North,
+C10330,Reyansh Gupta,Wired Earphones,Electronics,1172.0,4,4688.0,4.4,West,May
+C10331,Myra Bose,Novel Book,Books,263.0,4,,3.6,,October
+C10332,Faiz Mehta,,Clothing,2969.0,1,2969.0,4.3,East,July
+C10333,Mohammed Iyer,Novel Book,Books,599.0,4,2396.0,5.0,Central,March
+C10334,Rohan Mehta,Laptop,Electronics,39610.0,1,39610.0,4.0,South,September
+C10335,Imran Kumar,Laptop,Electronics,37589.0,3,112767.0,4.0,North,April
+C10336,Zara Patel,Cooking Oil 5L,Grocery,554.0,5,2770.0,3.5,East,March
+C10337,Myra Jha,Sneakers,Footwear,7583.0,2,15166.0,4.4,Central,February
+C10338,Ishaan Khan,Running Shoes,Footwear,3711.0,2,7422.0,4.4,West,April
+C10339,Riya Singh,Bedsheet,Home,771.0,4,3084.0,4.0,Central,November
+C10340,Ishaan Rao,Laptop,Electronics,,1,86769.0,4.9,South,October
+C10341,Riya Gupta,Laptop,Electronics,71037.0,1,71037.0,2.4,Central,August
+C10342,Ishaan Reddy,Basmati Rice 5kg,Grocery,940.0,1,940.0,3.4,West,January
+C10343,Aditya Nair,Bluetooth Speaker,Electronics,5991.0,5,29955.0,4.7,North,May
+C10344,Ananya Sharma,Saree,Clothing,1713.0,2,3426.0,4.4,South,May
+C10345,Aryan Patel,Novel Book,Books,371.0,5,1855.0,5.0,Central,March
+C10346,Diya Pillai,Saree,Clothing,3389.0,3,10167.0,4.4,Central,July
+C10347,Aisha Pillai,Laptop,Electronics,37711.0,2,75422.0,4.6,Central,October
+C10348,,Saree,Clothing,3903.0,2,7806.0,4.0,East,January
+C10349,Aishaan Joshi,Wrist Watch,Accessories,,2,,4.5,Central,October
+C10350,Zara Iyer,Bluetooth Speaker,Electronics,7889.0,5,39445.0,3.9,North,April
+C10351,Aishaan Sharma,,Clothing,1736.0,1,1736.0,5.0,Central,January
+C10352,Aryan Rao,Sneakers,Footwear,1726.0,5,8630.0,4.9,West,January
+C10353,Arjun Nair,Backpack,Accessories,2817.0,5,14085.0,3.1,,August
+C10354,Aarav Rao,Wrist Watch,Accessories,6692.0,5,33460.0,4.2,North,December
+C10355,,Shampoo,Beauty,204.0,5,1020.0,4.6,West,January
+C10356,Ishaan Kumar,T-Shirt,Clothing,,5,1305.0,4.2,Central,March
+C10357,Aditya Jha,Wired Earphones,Electronics,325.0,2,650.0,3.6,West,May
+C10358,Faiz Joshi,Running Shoes,Footwear,2924.0,3,8772.0,3.1,Central,June
+C10359,Mohammed Gupta,Running Shoes,Footwear,2368.0,3,7104.0,2.6,West,January
+C10360,Ishaan Nair,Running Shoes,Footwear,5545.0,1,5545.0,3.8,North,October
+C10361,Ishaan Pandey,Bedsheet,Home,846.0,2,1692.0,3.9,West,November
+C10362,Tara Bose,Running Shoes,Footwear,1416.0,2,2832.0,5.0,West,February
+C10363,Arjun Sharma,,Accessories,1045.0,1,1045.0,4.4,South,July
+C10364,Kavya Bose,Sneakers,Footwear,3913.0,1,3913.0,2.3,South,June
+C10365,Mohammed Jha,Novel Book,Books,281.0,2,562.0,4.8,West,March
+C10366,Reyansh Patel,Cooking Oil 5L,Grocery,459.0,2,918.0,,North,December
+C10367,Myra Das,Sneakers,Footwear,5305.0,2,10610.0,3.5,Central,May
+C10368,Sai Das,Running Shoes,Footwear,5412.0,3,16236.0,4.5,East,June
+C10369,Vivaan Gupta,,Accessories,,2,7730.0,4.9,,February
+C10370,Pari Mehta,Laptop,Electronics,37514.0,4,150056.0,3.0,West,June
+C10371,Ananya Das,Wrist Watch,Accessories,9976.0,1,9976.0,4.0,East,June
+C10372,Aryan Mehta,Mixer Grinder,Home,2332.0,3,6996.0,4.3,Central,August
+C10373,Aarav Iyer,Backpack,Accessories,1849.0,5,9245.0,4.7,,December
+C10374,Karan Sheikh,T-Shirt,Clothing,1344.0,2,2688.0,3.8,South,February
+C10375,Vivaan Mehta,Wrist Watch,Accessories,4385.0,2,8770.0,3.3,East,November
+C10376,Sai Verma,Laptop,Electronics,58761.0,2,117522.0,5.0,South,October
+C10377,Karan Chowdhury,Face Cream,Beauty,1155.0,3,3465.0,5.0,,February
+C10378,Aditya Bose,Novel Book,Books,328.0,1,328.0,3.9,East,May
+C10379,Diya Verma,Bluetooth Speaker,Electronics,3959.0,2,7918.0,5.0,West,October
+C10380,Aditya Sheikh,Wired Earphones,Electronics,602.0,3,1806.0,5.0,Central,October
+C10381,,Jeans,Clothing,1082.0,2,2164.0,3.4,North,April
+C10382,Aishaan Singh,Power Bank,Electronics,2263.0,2,4526.0,5.0,Central,October
+C10383,Kavya Chowdhury,Novel Book,Books,457.0,3,1371.0,4.1,South,February
+C10384,Faiz Sheikh,Mixer Grinder,Home,2983.0,2,5966.0,,East,June
+C10385,Faiz Khan,Shampoo,Beauty,621.0,1,621.0,2.9,Central,April
+C10386,Riya Nair,Mixer Grinder,Home,3920.0,2,7840.0,4.3,North,February
+C10387,Sneha Kumar,Novel Book,Books,183.0,2,,3.5,East,November
+C10388,Tara Gupta,Shampoo,Beauty,220.0,3,660.0,5.0,East,June
+C10389,Faiz Reddy,Basmati Rice 5kg,Grocery,853.0,1,853.0,4.5,North,October
+C10390,Pari Verma,Tablet,Electronics,18335.0,2,36670.0,2.9,Central,November
+C10391,Ishaan Jha,Power Bank,Electronics,2256.0,3,6768.0,3.1,Central,June
+C10392,Aarav Sheikh,Power Bank,Electronics,3287.0,1,3287.0,4.8,Central,May
+C10393,,Novel Book,Books,590.0,1,590.0,3.8,Central,April
+C10394,Riya Bose,Jeans,Clothing,2429.0,3,7287.0,4.0,North,August
+C10395,Aarav Jha,Bluetooth Speaker,Electronics,7076.0,3,21228.0,5.0,West,December
+C10396,Diya Jha,Novel Book,Books,510.0,2,1020.0,3.2,South,June
+C10397,,Backpack,Accessories,2595.0,3,7785.0,3.2,West,September
+C10398,Kavya Sharma,Shampoo,Beauty,696.0,1,696.0,4.1,North,November
+C10399,Fatima Joshi,Saree,Clothing,974.0,4,3896.0,,South,August
+C10400,Ananya Khan,,Accessories,12541.0,4,50164.0,3.8,South,December
+C10401,Pari Pandey,Cooking Oil 5L,Grocery,998.0,1,998.0,,Central,February
+C10402,,T-Shirt,Clothing,1049.0,1,1049.0,3.6,East,September
+C10403,Aisha Jha,Face Cream,Beauty,620.0,1,620.0,,North,February
+C10404,Aanya Pillai,Bluetooth Speaker,Electronics,4226.0,1,4226.0,4.2,North,August
+C10405,Aryan Joshi,Laptop,Electronics,63377.0,1,63377.0,4.9,North,July
+C10406,Diya Sharma,Power Bank,Electronics,2129.0,3,,4.4,South,May
+C10407,,T-Shirt,Clothing,1428.0,5,7140.0,3.7,North,February
+C10408,Ishaan Khan,Backpack,Accessories,1600.0,5,,5.0,West,August
+C10409,Pari Nair,Basmati Rice 5kg,Grocery,657.0,2,1314.0,3.8,East,October
+C10410,Aisha Kumar,Wired Earphones,Electronics,413.0,4,1652.0,2.3,Central,April
+C10411,Pari Jha,Bluetooth Speaker,Electronics,7004.0,3,21012.0,4.0,Central,June
+C10412,Sneha Khan,Novel Book,Books,627.0,1,627.0,4.1,West,October
+C10413,Aditya Sheikh,Power Bank,Electronics,580.0,1,580.0,4.5,East,August
+C10414,Zara Verma,Face Cream,Beauty,876.0,2,1752.0,3.6,North,November
+C10415,Pari Gupta,Bedsheet,Home,457.0,2,914.0,5.0,East,November
+C10416,Kavya Pillai,Face Cream,Beauty,855.0,5,4275.0,5.0,Central,May
+C10417,Karan Khan,Running Shoes,Footwear,5725.0,4,22900.0,3.4,South,October
+C10418,Sai Rao,Novel Book,Books,455.0,1,455.0,4.7,East,November
+C10419,Saanvi Reddy,Bedsheet,Home,586.0,3,1758.0,3.7,North,December
+C10420,Riya Nair,,Electronics,10236.0,5,51180.0,4.2,East,May
+C10421,Mohammed Kumar,Bluetooth Speaker,Electronics,7347.0,3,22041.0,4.6,East,September
+C10422,Ananya Verma,Face Cream,Beauty,1147.0,4,4588.0,3.9,Central,May
+C10423,Aisha Sharma,Shampoo,Beauty,325.0,2,650.0,4.4,South,November
+C10424,Myra Rao,T-Shirt,Clothing,926.0,1,926.0,3.6,East,December
+C10425,Diya Kumar,Sneakers,Footwear,7533.0,1,7533.0,3.0,East,December
+C10426,Diya Verma,Face Cream,Beauty,1482.0,1,1482.0,3.9,Central,August
+C10427,Reyansh Sharma,Laptop,Electronics,102829.0,2,205658.0,5.0,West,October
+C10428,Krishna Jha,Tablet,Electronics,41752.0,5,208760.0,4.2,East,April
+C10429,Tara Pandey,Laptop,Electronics,58054.0,4,232216.0,3.6,South,October
+C10430,Riya Verma,Wrist Watch,Accessories,8638.0,5,43190.0,5.0,West,
+C10431,Saanvi Iyer,Basmati Rice 5kg,Grocery,502.0,1,,4.4,West,February
+C10432,Aanya Khan,Laptop,Electronics,54917.0,5,274585.0,3.7,East,April
+C10433,Rohan Gupta,Basmati Rice 5kg,Grocery,533.0,4,2132.0,4.4,Central,March
+C10434,Ishaan Sheikh,Cooking Oil 5L,Grocery,1019.0,2,2038.0,4.3,East,December
+C10435,Myra Rao,Shampoo,Beauty,728.0,1,728.0,4.4,North,June
+C10436,,Laptop,Electronics,67470.0,3,,3.5,East,March
+C10437,Fatima Das,Cooking Oil 5L,Grocery,809.0,1,809.0,2.9,North,August
+C10438,Sneha Kumar,Cooking Oil 5L,Grocery,,4,4552.0,4.3,East,
+C10439,Aanya Bose,Backpack,Accessories,2217.0,2,4434.0,3.4,West,July
+C10440,Aishaan Nair,Cooking Oil 5L,Grocery,995.0,1,995.0,4.5,East,April
+C10441,Meera Das,Cooking Oil 5L,Grocery,613.0,2,1226.0,5.0,Central,April
+C10442,Krishna Sheikh,Running Shoes,Footwear,2357.0,1,2357.0,4.0,North,November
+C10443,Pari Sharma,Wired Earphones,Electronics,796.0,3,2388.0,3.8,North,April
+C10444,Imran Sharma,Bluetooth Speaker,Electronics,7992.0,1,7992.0,4.8,North,August
+C10445,Ishaan Sharma,Tablet,Electronics,20017.0,1,20017.0,5.0,West,March
+C10446,Aishaan Patel,Wrist Watch,Accessories,12941.0,1,12941.0,5.0,West,May
+C10447,Aisha Khan,Wired Earphones,Electronics,1373.0,2,2746.0,4.7,Central,September
+C10448,Mohammed Sharma,Sneakers,Footwear,6319.0,1,6319.0,3.1,East,October
+C10449,Aishaan Das,Novel Book,Books,392.0,5,1960.0,3.9,Central,March
+C10450,Faiz Gupta,Jeans,Clothing,2314.0,2,,5.0,West,December
+C10451,Krishna Gupta,Bluetooth Speaker,Electronics,3951.0,2,7902.0,4.9,East,June
+C10452,Riya Sheikh,Face Cream,Beauty,1432.0,1,1432.0,4.3,North,February
+C10453,Ananya Rao,Power Bank,Electronics,618.0,3,1854.0,4.0,South,November
+C10454,Faiz Reddy,Running Shoes,Footwear,2203.0,1,2203.0,2.9,East,April
+C10455,Fatima Pillai,Power Bank,Electronics,2048.0,3,6144.0,3.9,North,January
+C10456,Mohammed Sheikh,Running Shoes,Footwear,930.0,2,1860.0,3.8,Central,January
+C10457,Ishaan Pandey,Backpack,Accessories,1162.0,3,3486.0,2.6,North,September
+C10458,Imran Chowdhury,T-Shirt,Clothing,568.0,1,568.0,3.7,North,July
+C10459,,Shampoo,Beauty,571.0,3,1713.0,3.4,East,November
+C10460,Ishaan Kumar,Shampoo,Beauty,749.0,2,1498.0,,West,August
+C10461,Kavya Patel,Running Shoes,Footwear,4925.0,2,9850.0,2.5,West,January
+C10462,Riya Sharma,Shampoo,Beauty,601.0,2,1202.0,3.6,Central,July
+C10463,Aryan Bose,Power Bank,Electronics,2310.0,1,2310.0,4.1,South,February
+C10464,Fatima Rao,Bluetooth Speaker,Electronics,3946.0,4,15784.0,3.5,West,August
+C10465,Zara Khan,Novel Book,Books,644.0,2,1288.0,4.2,South,March
+C10466,,Basmati Rice 5kg,Grocery,799.0,1,799.0,5.0,South,March
+C10467,Mohammed Khan,Wrist Watch,Accessories,7982.0,3,23946.0,4.9,South,March
+C10468,Myra Chowdhury,Sneakers,Footwear,5860.0,2,11720.0,4.4,Central,February
+C10469,Aanya Patel,Jeans,Clothing,3003.0,3,9009.0,3.1,South,January
+C10470,Aditya Jha,Sneakers,Footwear,,1,4317.0,3.3,South,May
+C10471,,Power Bank,Electronics,1147.0,1,1147.0,3.9,North,June
+C10472,Aditya Sharma,Wrist Watch,Accessories,5873.0,1,5873.0,4.1,South,December
+C10473,Rohan Singh,Face Cream,Beauty,1226.0,1,1226.0,3.4,East,December
+C10474,Diya Sharma,Face Cream,Beauty,1386.0,4,5544.0,3.9,South,August
+C10475,Aryan Mehta,T-Shirt,Clothing,1038.0,2,2076.0,3.7,North,January
+C10476,Vivaan Chowdhury,,Grocery,442.0,2,884.0,2.1,East,November
+C10477,Kavya Patel,Basmati Rice 5kg,Grocery,393.0,3,1179.0,,East,January
+C10478,Aanya Gupta,Power Bank,Electronics,2530.0,2,5060.0,5.0,West,June
+C10479,Aisha Sheikh,Smartphone,Electronics,15052.0,1,15052.0,4.1,Central,February
+C10480,Krishna Iyer,T-Shirt,Clothing,496.0,5,2480.0,4.4,West,October
+C10481,Pari Chowdhury,Cooking Oil 5L,Grocery,473.0,5,2365.0,4.0,East,October
+C10482,Pari Kumar,Mixer Grinder,Home,1627.0,1,1627.0,4.0,South,May
+C10483,Meera Iyer,T-Shirt,Clothing,,2,2882.0,,East,July
+C10484,Ananya Joshi,Jeans,Clothing,2347.0,2,4694.0,3.3,East,April
+C10485,Rohan Bose,Power Bank,Electronics,1655.0,5,8275.0,,West,May
+C10486,Aanya Chowdhury,T-Shirt,Clothing,820.0,2,1640.0,5.0,East,July
+C10487,Fatima Patel,Mixer Grinder,Home,3458.0,1,3458.0,4.2,Central,March
+C10488,Myra Iyer,Power Bank,Electronics,2021.0,4,8084.0,2.4,West,August
+C10489,Vivaan Iyer,Wired Earphones,Electronics,630.0,1,630.0,4.6,East,April
+C10490,Aanya Khan,Mixer Grinder,Home,5802.0,1,5802.0,4.2,North,August
+C10491,Aishaan Joshi,Mixer Grinder,Home,2606.0,2,5212.0,4.7,West,May
+C10492,Sneha Das,Power Bank,Electronics,2631.0,3,7893.0,4.2,Central,December
+C10493,Diya Khan,Wrist Watch,Accessories,7365.0,2,14730.0,4.4,North,August
+C10494,Fatima Das,Novel Book,Books,,1,405.0,4.3,West,April
+C10495,Imran Reddy,Jeans,Clothing,2306.0,1,2306.0,4.0,West,June
+C10496,Mohammed Khan,Wrist Watch,Accessories,3039.0,5,15195.0,5.0,North,March
+C10497,Reyansh Iyer,Bedsheet,Home,1532.0,2,3064.0,3.1,East,February
+C10498,Saanvi Joshi,Mixer Grinder,Home,4810.0,4,19240.0,,North,August
+C10499,Neha Patel,Novel Book,Books,150.0,1,150.0,4.1,North,January
+C10500,Saanvi Singh,Running Shoes,Footwear,1092.0,3,3276.0,4.7,Central,June
+C10501,Sneha Sheikh,Wrist Watch,Accessories,,1,11399.0,4.6,South,May
+C10502,Saanvi Gupta,Tablet,Electronics,46710.0,1,46710.0,3.3,North,March
+C10503,Riya Nair,Mixer Grinder,Home,,1,,3.5,North,August
+C10504,,Saree,Clothing,511.0,1,511.0,,,May
+C10505,Sai Rao,Shampoo,Beauty,626.0,2,1252.0,4.4,West,September
+C10506,Sneha Jha,Smartphone,Electronics,64676.0,1,64676.0,3.8,South,April
+C10507,Rohan Reddy,Jeans,Clothing,,5,7430.0,3.3,East,December
+C10508,Kavya Verma,Shampoo,Beauty,762.0,1,762.0,4.3,North,July
+C10509,Arjun Chowdhury,Laptop,Electronics,100478.0,5,502390.0,4.6,West,February
+C10510,Arjun Sheikh,Laptop,Electronics,92460.0,5,462300.0,3.2,East,August
+C10511,Krishna Kumar,Cooking Oil 5L,Grocery,564.0,4,2256.0,3.4,East,June
+C10512,Vivaan Rao,Saree,Clothing,3119.0,1,3119.0,2.8,Central,May
+C10513,Aryan Jha,Mixer Grinder,Home,3466.0,1,3466.0,,North,June
+C10514,Krishna Reddy,Power Bank,Electronics,2658.0,5,13290.0,5.0,West,April
+C10515,,Bedsheet,Home,710.0,2,1420.0,3.0,West,May
+C10516,Sai Mehta,Basmati Rice 5kg,Grocery,681.0,4,2724.0,3.4,South,February
+C10517,Neha Das,Laptop,Electronics,93563.0,1,93563.0,,West,January
+C10518,Aditya Pillai,Basmati Rice 5kg,Grocery,411.0,1,411.0,3.5,North,July
+C10519,Tara Das,Bedsheet,Home,1092.0,3,3276.0,4.0,Central,December
+C10520,Aisha Patel,Wrist Watch,Accessories,10832.0,1,10832.0,4.6,West,April
+C10521,Meera Gupta,Bluetooth Speaker,Electronics,8238.0,1,8238.0,3.6,Central,March
+C10522,Vivaan Bose,Power Bank,Electronics,1630.0,5,8150.0,3.9,North,December
+C10523,Diya Bose,Backpack,Accessories,760.0,2,1520.0,5.0,Central,November
+C10524,Faiz Mehta,Shampoo,Beauty,226.0,5,1130.0,3.2,Central,April
+C10525,Ishaan Iyer,Mixer Grinder,Home,4987.0,2,9974.0,4.8,South,January
+C10526,Myra Pillai,T-Shirt,Clothing,847.0,4,3388.0,1.7,South,March
+C10527,Fatima Reddy,Face Cream,Beauty,152.0,4,608.0,4.0,North,February
+C10528,Faiz Reddy,T-Shirt,Clothing,1267.0,4,5068.0,3.3,East,June
+C10529,Reyansh Reddy,Smartphone,Electronics,61348.0,4,245392.0,5.0,Central,February
+C10530,Myra Khan,Sneakers,Footwear,2005.0,4,8020.0,4.3,West,December
+C10531,Ananya Gupta,Running Shoes,Footwear,3648.0,1,3648.0,3.5,West,May
+C10532,Aryan Reddy,Wrist Watch,Accessories,5096.0,1,5096.0,4.4,Central,December
+C10533,Pari Rao,Basmati Rice 5kg,Grocery,851.0,3,2553.0,4.5,Central,May
+C10534,Sneha Kumar,Jeans,Clothing,1577.0,3,4731.0,4.1,East,September
+C10535,Mohammed Chowdhury,Wired Earphones,Electronics,1188.0,1,1188.0,4.1,West,June
+C10536,,Novel Book,Books,154.0,1,154.0,5.0,West,January
+C10537,Myra Das,Running Shoes,Footwear,1527.0,2,,3.6,East,June
+C10538,Ishaan Singh,Backpack,Accessories,2401.0,3,7203.0,3.1,Central,September
+C10539,Ananya Rao,Smartphone,Electronics,57514.0,4,230056.0,,West,September
+C10540,Zara Chowdhury,Face Cream,Beauty,150.0,1,150.0,4.5,West,March
+C10541,Riya Singh,Sneakers,Footwear,5329.0,5,26645.0,5.0,North,July
+C10542,Tara Pandey,Running Shoes,Footwear,2003.0,1,2003.0,3.7,North,February
+C10543,Krishna Reddy,,Electronics,70987.0,4,283948.0,3.9,West,July
+C10544,Myra Chowdhury,,Beauty,227.0,1,227.0,5.0,East,December
+C10545,Ishaan Iyer,Sneakers,Footwear,2559.0,1,2559.0,4.3,West,July
+C10546,Arjun Jha,Backpack,Accessories,2728.0,1,2728.0,4.3,East,May
+C10547,Diya Reddy,Running Shoes,Footwear,4705.0,4,18820.0,5.0,West,November
+C10548,Riya Gupta,Wrist Watch,Accessories,,4,42488.0,3.8,West,September
+C10549,Aanya Das,Basmati Rice 5kg,Grocery,,3,1158.0,4.4,South,October
+C10550,Ananya Das,Power Bank,Electronics,3290.0,2,6580.0,3.3,North,February
+C10551,Aditya Mehta,Jeans,Clothing,2135.0,4,8540.0,5.0,Central,October
+C10552,Reyansh Singh,Cooking Oil 5L,Grocery,507.0,3,1521.0,3.0,East,June
+C10553,Rohan Sharma,Running Shoes,Footwear,2016.0,1,,4.2,West,January
+C10554,Ishaan Jha,Power Bank,Electronics,3442.0,2,6884.0,2.1,West,June
+C10555,Ishaan Mehta,Sneakers,Footwear,2494.0,1,2494.0,4.5,,August
+C10556,Reyansh Khan,Face Cream,Beauty,499.0,1,499.0,3.3,North,November
+C10557,Faiz Verma,Wrist Watch,Accessories,7017.0,1,7017.0,5.0,South,July
+C10558,Meera Iyer,Running Shoes,Footwear,1717.0,5,8585.0,3.4,North,November
+C10559,Aisha Jha,Saree,Clothing,4796.0,2,9592.0,4.8,South,June
+C10560,Fatima Chowdhury,Face Cream,Beauty,165.0,1,165.0,3.6,West,October
+C10561,Imran Patel,Wrist Watch,Accessories,1074.0,1,1074.0,,West,August
+C10562,,Laptop,Electronics,73894.0,5,,3.9,North,March
+C10563,Faiz Singh,Face Cream,Beauty,1043.0,1,1043.0,3.3,West,
+C10564,Meera Bose,Laptop,Electronics,119359.0,5,596795.0,1.7,East,April
+C10565,Aishaan Gupta,Novel Book,Books,563.0,1,563.0,5.0,East,January
+C10566,Ishaan Mehta,Saree,Clothing,3673.0,3,11019.0,5.0,South,April
+C10567,Arjun Chowdhury,Smartphone,Electronics,,1,24106.0,2.5,South,April
+C10568,Kavya Sharma,Novel Book,Books,164.0,1,,3.7,Central,April
+C10569,Myra Joshi,T-Shirt,Clothing,1133.0,5,5665.0,4.5,East,May
+C10570,Aanya Reddy,Wired Earphones,Electronics,1016.0,1,1016.0,3.3,South,August
+C10571,Myra Pillai,,Clothing,744.0,2,1488.0,2.9,South,April
+C10572,Diya Bose,Basmati Rice 5kg,Grocery,676.0,2,1352.0,,,July
+C10573,Arjun Khan,Cooking Oil 5L,Grocery,605.0,1,605.0,4.3,East,April
+C10574,Sneha Sharma,Basmati Rice 5kg,Grocery,877.0,1,877.0,5.0,Central,April
+C10575,Saanvi Chowdhury,Laptop,Electronics,98521.0,5,492605.0,3.7,South,April
+C10576,Diya Patel,Wired Earphones,Electronics,1433.0,1,1433.0,2.6,Central,May
+C10577,Kavya Khan,Sneakers,Footwear,899.0,1,899.0,4.3,West,June
+C10578,Ananya Jha,Jeans,Clothing,757.0,1,757.0,3.5,Central,April
+C10579,Fatima Gupta,Wired Earphones,Electronics,2241.0,3,,3.5,West,December
+C10580,Mohammed Iyer,Face Cream,Beauty,451.0,4,1804.0,3.1,Central,July
+C10581,Aishaan Sheikh,Bedsheet,Home,,2,3644.0,5.0,North,November
+C10582,Ishaan Singh,Mixer Grinder,Home,2497.0,3,7491.0,2.9,Central,June
+C10583,Myra Patel,Running Shoes,Footwear,4863.0,1,,3.6,South,October
+C10584,Ananya Bose,,Electronics,99160.0,1,99160.0,4.6,,January
+C10585,Fatima Chowdhury,Bluetooth Speaker,Electronics,8582.0,4,34328.0,2.9,North,November
+C10586,Ananya Bose,T-Shirt,Clothing,332.0,1,332.0,3.3,North,September
+C10587,Rohan Das,Laptop,Electronics,91234.0,5,456170.0,4.4,East,June
+C10588,Krishna Kumar,Smartphone,Electronics,16176.0,1,16176.0,,North,February
+C10589,Mohammed Das,Sneakers,Footwear,2480.0,2,4960.0,,West,April
+C10590,Riya Sharma,Wired Earphones,Electronics,560.0,1,,4.4,North,January
+C10591,Fatima Patel,Wired Earphones,Electronics,1360.0,2,2720.0,5.0,West,February
+C10592,Aryan Nair,Power Bank,Electronics,574.0,2,1148.0,4.2,North,February
+C10593,Imran Verma,Bluetooth Speaker,Electronics,5382.0,2,10764.0,3.7,East,June
+C10594,Rohan Rao,Smartphone,Electronics,72791.0,1,72791.0,2.6,Central,March
+C10595,Myra Chowdhury,Mixer Grinder,Home,3680.0,1,3680.0,3.5,East,October
+C10596,Riya Kumar,Novel Book,Books,,2,1042.0,4.6,East,September
+C10597,Diya Khan,T-Shirt,Clothing,291.0,3,873.0,3.7,East,February
+C10598,Krishna Verma,Tablet,Electronics,54167.0,1,54167.0,4.1,Central,November
+C10599,Saanvi Das,T-Shirt,Clothing,657.0,1,657.0,3.5,North,May
+C10600,Zara Mehta,Cooking Oil 5L,Grocery,904.0,5,4520.0,,North,March
+C10601,,T-Shirt,Clothing,292.0,3,876.0,,West,January
+C10602,Tara Verma,Shampoo,Beauty,648.0,4,,3.1,East,June
+C10603,Vivaan Joshi,Novel Book,Books,301.0,1,301.0,4.4,South,September
+C10604,Fatima Singh,Running Shoes,Footwear,1124.0,2,2248.0,4.3,North,May
+C10605,Myra Patel,Bedsheet,Home,1496.0,1,1496.0,4.0,North,November
+C10606,Aishaan Iyer,Power Bank,Electronics,1691.0,1,1691.0,4.3,East,February
+C10607,Faiz Rao,Backpack,Accessories,2192.0,1,,5.0,East,July
+C10608,Fatima Jha,Saree,Clothing,1445.0,4,5780.0,3.9,West,December
+C10609,Faiz Sheikh,Mixer Grinder,Home,4929.0,4,19716.0,4.1,South,
+C10610,Riya Singh,Laptop,Electronics,91860.0,3,275580.0,4.6,North,June
+C10611,Faiz Sharma,Sneakers,Footwear,5157.0,1,5157.0,3.1,West,February
+C10612,Tara Singh,Bluetooth Speaker,Electronics,,1,8562.0,5.0,East,June
+C10613,,Mixer Grinder,Home,6355.0,1,6355.0,3.2,West,February
+C10614,Zara Rao,Shampoo,Beauty,384.0,1,384.0,,North,April
+C10615,Pari Verma,Mixer Grinder,Home,6765.0,2,13530.0,3.9,North,
+C10616,Sneha Gupta,Jeans,Clothing,3432.0,1,,5.0,South,March
+C10617,Vivaan Jha,Novel Book,Books,560.0,4,2240.0,4.0,North,December
+C10618,Aarav Jha,Basmati Rice 5kg,Grocery,505.0,2,1010.0,1.7,East,August
+C10619,Aanya Nair,Power Bank,Electronics,2139.0,1,2139.0,,South,February
+C10620,Mohammed Jha,Novel Book,Books,261.0,4,1044.0,4.2,West,January
+C10621,Rohan Verma,Cooking Oil 5L,Grocery,653.0,5,3265.0,3.8,South,August
+C10622,Aisha Rao,Wrist Watch,Accessories,6235.0,1,6235.0,4.4,South,July
+C10623,Myra Pillai,Backpack,Accessories,2699.0,4,10796.0,2.9,East,April
+C10624,Aryan Sheikh,Shampoo,Beauty,649.0,1,649.0,5.0,East,August
+C10625,Karan Verma,Mixer Grinder,Home,5738.0,1,5738.0,4.5,North,June
+C10626,Aditya Singh,Wrist Watch,Accessories,7228.0,1,7228.0,3.7,South,November
+C10627,Aarav Sharma,Jeans,Clothing,1839.0,2,3678.0,5.0,South,December
+C10628,Rohan Singh,Wrist Watch,Accessories,12202.0,2,,4.0,East,October
+C10629,Tara Khan,Shampoo,Beauty,309.0,5,1545.0,1.8,Central,November
+C10630,Tara Sharma,Bluetooth Speaker,Electronics,2521.0,1,2521.0,3.6,South,September
+C10631,,Smartphone,Electronics,69909.0,2,139818.0,5.0,Central,May
+C10632,,Power Bank,Electronics,1055.0,2,2110.0,4.7,West,March
+C10633,Reyansh Pillai,Wired Earphones,Electronics,2071.0,1,2071.0,4.8,West,December
+C10634,Reyansh Sheikh,Backpack,Accessories,1791.0,2,3582.0,3.8,North,July
+C10635,Meera Verma,Cooking Oil 5L,Grocery,1135.0,5,5675.0,4.1,Central,April
+C10636,,Cooking Oil 5L,Grocery,715.0,1,715.0,3.3,North,May
+C10637,Ishaan Khan,Sneakers,Footwear,1527.0,2,3054.0,3.4,East,July
+C10638,Riya Joshi,Sneakers,Footwear,7855.0,1,7855.0,3.7,East,September
+C10639,Faiz Patel,Sneakers,Footwear,2197.0,2,4394.0,4.6,Central,April
+C10640,Mohammed Reddy,Basmati Rice 5kg,Grocery,643.0,2,1286.0,4.8,South,June
+C10641,Krishna Nair,Smartphone,Electronics,31130.0,3,93390.0,4.7,East,October
+C10642,Pari Singh,,Home,2827.0,1,2827.0,4.9,South,September
+C10643,Ishaan Singh,Backpack,Accessories,1979.0,3,5937.0,5.0,East,June
+C10644,Myra Nair,Basmati Rice 5kg,Grocery,799.0,5,3995.0,4.8,North,January
+C10645,Mohammed Verma,Mixer Grinder,Home,5233.0,5,26165.0,5.0,South,January
+C10646,Pari Mehta,Bedsheet,Home,855.0,2,1710.0,4.3,Central,January
+C10647,Zara Khan,Saree,Clothing,1284.0,1,1284.0,4.7,North,July
+C10648,Aisha Pillai,Shampoo,Beauty,373.0,1,,4.9,Central,January
+C10649,Ananya Mehta,Power Bank,Electronics,2333.0,1,2333.0,4.6,North,November
+C10650,Myra Pillai,Wired Earphones,Electronics,1532.0,2,3064.0,4.6,North,June
+C10651,,Sneakers,Footwear,5237.0,1,5237.0,3.2,Central,September
+C10652,Ishaan Verma,Tablet,Electronics,18358.0,2,36716.0,,Central,March
+C10653,Fatima Pillai,Mixer Grinder,Home,6201.0,2,12402.0,3.5,East,November
+C10654,Pari Chowdhury,Cooking Oil 5L,Grocery,740.0,5,3700.0,2.9,West,December
+C10655,Arjun Khan,Novel Book,Books,505.0,2,1010.0,3.9,South,February
+C10656,Faiz Das,Shampoo,Beauty,661.0,4,2644.0,3.9,East,June
+C10657,Saanvi Khan,Cooking Oil 5L,Grocery,729.0,1,729.0,3.5,West,November
+C10658,Aryan Kumar,Novel Book,Books,173.0,4,692.0,4.5,North,September
+C10659,Riya Nair,Laptop,Electronics,98416.0,4,393664.0,3.1,North,April
+C10660,Ishaan Khan,Running Shoes,Footwear,3383.0,1,3383.0,4.6,South,April
+C10661,Riya Rao,Power Bank,Electronics,542.0,1,,4.6,West,November
+C10662,Diya Pandey,Saree,Clothing,4142.0,4,16568.0,4.2,North,July
+C10663,Karan Joshi,Wired Earphones,Electronics,1251.0,1,1251.0,4.4,West,October
+C10664,Karan Gupta,T-Shirt,Clothing,903.0,3,2709.0,3.9,Central,November
+C10665,,Tablet,Electronics,18303.0,1,18303.0,3.0,North,August
+C10666,Aditya Nair,Shampoo,Beauty,249.0,3,747.0,4.3,East,January
+C10667,Aditya Sheikh,Laptop,Electronics,37696.0,1,37696.0,4.5,South,July
+C10668,Rohan Gupta,Bedsheet,Home,1928.0,1,1928.0,4.7,East,June
+C10669,Zara Sheikh,,Electronics,1699.0,1,1699.0,3.1,Central,December
+C10670,Pari Singh,Cooking Oil 5L,Grocery,614.0,2,1228.0,,West,
+C10671,Mohammed Iyer,T-Shirt,Clothing,1171.0,1,1171.0,4.4,West,August
+C10672,Fatima Kumar,Smartphone,Electronics,39087.0,3,117261.0,4.3,South,June
+C10673,Imran Jha,Cooking Oil 5L,Grocery,1116.0,5,5580.0,2.7,Central,July
+C10674,Aditya Bose,Running Shoes,Footwear,4899.0,1,4899.0,3.6,Central,June
+C10675,Reyansh Mehta,Tablet,Electronics,47025.0,2,94050.0,4.5,East,November
+C10676,,Backpack,Accessories,413.0,1,413.0,3.2,West,November
+C10677,Rohan Gupta,Mixer Grinder,Home,3732.0,3,11196.0,3.8,West,May
+C10678,Aryan Patel,Wired Earphones,Electronics,333.0,4,1332.0,4.5,West,July
+C10679,Faiz Bose,Basmati Rice 5kg,Grocery,656.0,1,656.0,5.0,East,March
+C10680,Arjun Das,Tablet,Electronics,28081.0,2,56162.0,5.0,Central,March
+C10681,Faiz Singh,Wrist Watch,Accessories,8950.0,2,17900.0,5.0,East,September
+C10682,Reyansh Sharma,Novel Book,Books,462.0,4,1848.0,4.3,,May
+C10683,Diya Rao,Mixer Grinder,Home,3935.0,1,3935.0,2.3,West,June
+C10684,Tara Iyer,Power Bank,Electronics,1882.0,3,5646.0,3.5,,February
+C10685,Sai Khan,Bedsheet,Home,486.0,1,486.0,4.1,Central,December
+C10686,Aditya Nair,T-Shirt,Clothing,269.0,1,269.0,,South,June
+C10687,Myra Khan,Mixer Grinder,Home,5611.0,4,22444.0,5.0,West,January
+C10688,Kavya Verma,Basmati Rice 5kg,Grocery,472.0,3,1416.0,5.0,Central,February
+C10689,Pari Nair,Novel Book,Books,525.0,1,525.0,3.6,East,November
+C10690,Karan Sharma,Basmati Rice 5kg,Grocery,852.0,3,2556.0,4.5,West,August
+C10691,Sai Khan,Shampoo,Beauty,206.0,2,412.0,4.2,North,June
+C10692,Saanvi Chowdhury,Laptop,Electronics,112524.0,1,,3.7,East,June
+C10693,Aarav Iyer,Novel Book,Books,166.0,5,830.0,4.2,South,January
+C10694,Aishaan Sheikh,,Books,633.0,5,3165.0,4.7,Central,November
+C10695,Kavya Iyer,Basmati Rice 5kg,Grocery,760.0,1,760.0,5.0,Central,July
+C10696,Zara Sheikh,Sneakers,Footwear,8976.0,2,17952.0,,,
+C10697,Rohan Singh,,Grocery,858.0,3,2574.0,3.2,West,December
+C10698,Rohan Iyer,Saree,Clothing,2893.0,2,5786.0,4.3,Central,March
+C10699,Arjun Gupta,Cooking Oil 5L,Grocery,739.0,1,739.0,4.2,West,October
+C10700,Faiz Sharma,Laptop,Electronics,70120.0,1,70120.0,3.6,West,May
+C10701,Sneha Nair,Novel Book,Books,684.0,3,2052.0,3.8,North,August
+C10702,Krishna Reddy,Running Shoes,Footwear,3469.0,5,17345.0,3.7,Central,August
+C10703,Aryan Verma,Backpack,Accessories,1065.0,1,,,West,April
+C10704,Imran Nair,T-Shirt,Clothing,420.0,2,840.0,,South,July
+C10705,Neha Das,,Accessories,7541.0,5,37705.0,3.3,Central,June
+C10706,Aditya Nair,,Accessories,1713.0,3,5139.0,4.1,North,July
+C10707,Faiz Mehta,Backpack,Accessories,2537.0,1,2537.0,3.9,Central,August
+C10708,Meera Pillai,Laptop,Electronics,68550.0,2,137100.0,4.5,West,August
+C10709,Krishna Verma,Power Bank,Electronics,3085.0,4,12340.0,2.4,Central,January
+C10710,Pari Patel,Sneakers,Footwear,8516.0,1,8516.0,4.0,North,December
+C10711,Zara Reddy,Face Cream,Beauty,1076.0,2,2152.0,2.9,North,March
+C10712,Meera Singh,Tablet,Electronics,27713.0,4,110852.0,3.4,Central,January
+C10713,Imran Pillai,Power Bank,Electronics,1025.0,1,,,Central,September
+C10714,Riya Reddy,Cooking Oil 5L,Grocery,933.0,2,1866.0,3.3,West,May
+C10715,Ishaan Pillai,Wired Earphones,Electronics,780.0,2,1560.0,,South,June
+C10716,Krishna Rao,Jeans,Clothing,3411.0,5,17055.0,5.0,East,October
+C10717,Diya Singh,Wired Earphones,Electronics,2265.0,2,4530.0,3.6,North,November
+C10718,,T-Shirt,Clothing,426.0,1,426.0,5.0,West,October
+C10719,Reyansh Khan,Bedsheet,Home,389.0,2,778.0,5.0,Central,January
+C10720,Zara Iyer,Bluetooth Speaker,Electronics,4557.0,4,18228.0,3.5,South,November
+C10721,Meera Jha,Shampoo,Beauty,760.0,5,3800.0,3.3,East,October
+C10722,Kavya Iyer,Basmati Rice 5kg,Grocery,895.0,4,3580.0,4.7,South,January
+C10723,,Saree,Clothing,5642.0,1,,,Central,February
+C10724,Mohammed Iyer,Shampoo,Beauty,571.0,3,1713.0,3.5,East,April
+C10725,Faiz Khan,Basmati Rice 5kg,Grocery,896.0,1,896.0,3.1,,May
+C10726,Riya Gupta,Novel Book,Books,302.0,1,302.0,5.0,North,December
+C10727,Riya Joshi,Wired Earphones,Electronics,1957.0,5,9785.0,3.8,North,December
+C10728,,Smartphone,Electronics,59816.0,1,59816.0,2.8,West,January
+C10729,Aisha Nair,Wrist Watch,Accessories,10517.0,3,,4.6,East,November
+C10730,Fatima Patel,Saree,Clothing,1189.0,1,1189.0,4.2,Central,May
+C10731,Faiz Das,Running Shoes,Footwear,6552.0,3,19656.0,2.9,South,June
+C10732,,T-Shirt,Clothing,1173.0,1,1173.0,5.0,East,March
+C10733,Pari Reddy,,Accessories,4155.0,2,8310.0,4.1,East,February
+C10734,Arjun Khan,Running Shoes,Footwear,6578.0,2,,5.0,West,February
+C10735,Aishaan Reddy,Jeans,Clothing,3345.0,1,3345.0,4.9,West,April
+C10736,Fatima Sheikh,Power Bank,Electronics,1343.0,1,1343.0,5.0,North,September
+C10737,Ishaan Bose,Bluetooth Speaker,Electronics,5905.0,3,17715.0,3.6,East,October
+C10738,Aisha Pandey,Wired Earphones,Electronics,,5,3055.0,2.7,South,
+C10739,Aanya Jha,Smartphone,Electronics,70677.0,5,353385.0,3.7,South,April
+C10740,Sai Nair,Jeans,Clothing,778.0,1,,4.6,Central,September
+C10741,,Laptop,Electronics,42992.0,5,214960.0,3.2,South,September
+C10742,Myra Pillai,Novel Book,Books,563.0,1,563.0,3.6,East,October
+C10743,,Tablet,Electronics,45073.0,1,45073.0,3.3,West,September
+C10744,Aisha Jha,Face Cream,Beauty,704.0,1,704.0,3.7,West,July
+C10745,Karan Chowdhury,Bluetooth Speaker,Electronics,3372.0,4,13488.0,4.8,North,June
+C10746,Aarav Sheikh,Laptop,Electronics,42540.0,1,42540.0,4.8,West,June
+C10747,Kavya Patel,Smartphone,Electronics,15833.0,2,31666.0,4.2,South,October
+C10748,Aarav Patel,Cooking Oil 5L,Grocery,,3,2691.0,4.9,South,
+C10749,Sneha Sharma,,Clothing,3215.0,5,16075.0,,West,July
+C10750,Fatima Pillai,Bluetooth Speaker,Electronics,5566.0,2,11132.0,4.2,East,August
+C10751,Zara Gupta,Bedsheet,Home,1251.0,2,2502.0,5.0,,August
+C10752,Aanya Gupta,Wrist Watch,Accessories,10511.0,2,21022.0,3.4,Central,May
+C10753,Mohammed Patel,Sneakers,Footwear,8154.0,1,8154.0,3.8,North,August
+C10754,Saanvi Rao,Mixer Grinder,Home,5121.0,2,10242.0,4.3,Central,November
+C10755,Aisha Sharma,Running Shoes,Footwear,2566.0,2,5132.0,3.7,Central,June
+C10756,Myra Mehta,Sneakers,Footwear,1156.0,1,1156.0,2.5,West,September
+C10757,Vivaan Sharma,Face Cream,Beauty,855.0,3,2565.0,3.3,Central,January
+C10758,Vivaan Verma,Smartphone,Electronics,17238.0,1,17238.0,4.9,North,June
+C10759,Aryan Bose,Jeans,Clothing,3197.0,5,15985.0,3.6,North,January
+C10760,Sai Chowdhury,Shampoo,Beauty,158.0,1,158.0,4.6,East,August
+C10761,Rohan Jha,Basmati Rice 5kg,Grocery,844.0,1,844.0,3.8,Central,January
+C10762,Arjun Bose,Wired Earphones,Electronics,335.0,2,670.0,4.2,North,February
+C10763,Aisha Mehta,Basmati Rice 5kg,Grocery,635.0,2,,4.4,East,February
+C10764,Vivaan Pillai,Bedsheet,Home,863.0,1,863.0,3.7,West,
+C10765,Imran Chowdhury,Basmati Rice 5kg,Grocery,717.0,1,717.0,4.1,West,March
+C10766,Ananya Iyer,Power Bank,Electronics,2443.0,2,4886.0,2.3,West,August
+C10767,Aishaan Pandey,Power Bank,Electronics,,1,3196.0,4.9,North,March
+C10768,Aishaan Iyer,Bluetooth Speaker,Electronics,4187.0,1,4187.0,,West,August
+C10769,Zara Patel,Tablet,Electronics,47055.0,3,141165.0,4.2,West,October
+C10770,Mohammed Das,Shampoo,Beauty,596.0,1,596.0,4.0,East,September
+C10771,Ishaan Sharma,Saree,Clothing,1711.0,5,8555.0,2.7,West,March
+C10772,Aryan Kumar,Saree,Clothing,3993.0,1,3993.0,,South,February
+C10773,Faiz Rao,T-Shirt,Clothing,1214.0,4,4856.0,3.8,West,February
+C10774,Ishaan Chowdhury,Wrist Watch,Accessories,,4,46672.0,,South,December
+C10775,Meera Khan,Bluetooth Speaker,Electronics,7097.0,3,21291.0,5.0,South,February
+C10776,Sneha Mehta,Basmati Rice 5kg,Grocery,640.0,5,3200.0,4.4,East,March
+C10777,Aditya Pillai,Backpack,Accessories,415.0,1,415.0,3.8,West,April
+C10778,Krishna Nair,Power Bank,Electronics,2684.0,2,5368.0,4.2,,June
+C10779,Karan Iyer,Smartphone,Electronics,34814.0,5,,4.2,East,November
+C10780,,Backpack,Accessories,466.0,2,932.0,3.9,South,January
+C10781,Arjun Nair,Sneakers,Footwear,,1,2503.0,2.9,East,May
+C10782,Sai Mehta,Basmati Rice 5kg,Grocery,648.0,4,2592.0,3.1,Central,August
+C10783,Kavya Khan,Tablet,Electronics,29343.0,1,29343.0,3.8,South,September
+C10784,Kavya Bose,Cooking Oil 5L,Grocery,744.0,4,2976.0,,South,March
+C10785,Sai Khan,Wrist Watch,Accessories,795.0,2,1590.0,3.2,Central,July
+C10786,Fatima Gupta,Power Bank,Electronics,1193.0,5,5965.0,,East,May
+C10787,Ishaan Bose,Tablet,Electronics,9519.0,2,19038.0,4.0,East,October
+C10788,Riya Verma,Face Cream,Beauty,640.0,2,1280.0,4.0,East,November
+C10789,Saanvi Gupta,Basmati Rice 5kg,Grocery,512.0,4,2048.0,4.4,West,December
+C10790,Aryan Nair,Shampoo,Beauty,681.0,1,681.0,3.4,West,May
+C10791,Pari Singh,Running Shoes,Footwear,6560.0,5,32800.0,3.1,West,December
+C10792,Aisha Mehta,Basmati Rice 5kg,Grocery,872.0,3,2616.0,3.3,Central,April
+C10793,Aisha Patel,T-Shirt,Clothing,1144.0,4,4576.0,3.0,West,April
+C10794,Aisha Verma,Mixer Grinder,Home,2688.0,2,5376.0,4.5,West,April
+C10795,Aisha Sheikh,Jeans,Clothing,1604.0,1,1604.0,4.6,South,May
+C10796,Kavya Chowdhury,Bluetooth Speaker,Electronics,5594.0,1,5594.0,3.2,Central,April
+C10797,Mohammed Sheikh,Novel Book,Books,641.0,2,1282.0,4.5,North,July
+C10798,Faiz Sheikh,Mixer Grinder,Home,3761.0,3,11283.0,4.2,West,September
+C10799,Aarav Jha,Bluetooth Speaker,Electronics,1664.0,2,3328.0,4.3,West,July
+C10800,Vivaan Reddy,Wrist Watch,Accessories,5004.0,1,5004.0,4.0,West,March
+C10801,Riya Chowdhury,Backpack,Accessories,2462.0,5,12310.0,3.6,East,September
+C10802,Aisha Rao,Mixer Grinder,Home,6917.0,5,34585.0,2.9,South,February
+C10803,Aryan Sharma,Power Bank,Electronics,2001.0,5,10005.0,5.0,Central,November
+C10804,Diya Sheikh,Smartphone,Electronics,16654.0,2,33308.0,3.2,South,July
+C10805,Vivaan Nair,Laptop,Electronics,82234.0,2,164468.0,3.5,West,March
+C10806,Rohan Bose,,Accessories,12738.0,1,12738.0,3.2,Central,October
+C10807,Kavya Patel,Backpack,Accessories,1005.0,2,2010.0,3.7,North,June
+C10808,Fatima Iyer,Backpack,Accessories,1051.0,3,3153.0,4.2,West,February
+C10809,Zara Sharma,Wrist Watch,Accessories,1917.0,5,9585.0,3.2,South,October
+C10810,Reyansh Iyer,Laptop,Electronics,64080.0,1,64080.0,3.7,North,February
+C10811,Sai Sharma,Tablet,Electronics,10281.0,2,20562.0,4.0,South,January
+C10812,Kavya Pandey,Mixer Grinder,Home,4513.0,5,22565.0,5.0,North,February
+C10813,Zara Jha,Basmati Rice 5kg,Grocery,884.0,2,1768.0,3.9,West,July
+C10814,Fatima Singh,Backpack,Accessories,1820.0,2,3640.0,2.7,South,December
+C10815,Aarav Sharma,Jeans,Clothing,2671.0,2,5342.0,4.8,Central,April
+C10816,Meera Bose,Smartphone,Electronics,64114.0,2,,3.9,Central,November
+C10817,Riya Nair,Tablet,Electronics,19023.0,2,38046.0,,Central,August
+C10818,Aisha Joshi,Mixer Grinder,Home,4763.0,4,19052.0,4.1,North,July
+C10819,Faiz Jha,Cooking Oil 5L,Grocery,545.0,3,1635.0,3.8,West,January
+C10820,Aryan Gupta,Sneakers,Footwear,4630.0,2,9260.0,3.4,West,July
+C10821,Karan Jha,,Footwear,2514.0,3,7542.0,4.2,East,January
+C10822,,Wired Earphones,Electronics,1083.0,1,1083.0,5.0,South,May
+C10823,Riya Mehta,Running Shoes,Footwear,1297.0,2,2594.0,4.2,West,July
+C10824,Imran Nair,Wrist Watch,Accessories,10870.0,3,32610.0,5.0,South,
+C10825,Aishaan Singh,Novel Book,Books,469.0,1,,2.0,South,May
+C10826,Imran Nair,Basmati Rice 5kg,Grocery,540.0,1,540.0,5.0,Central,March
+C10827,Ananya Patel,Smartphone,Electronics,50370.0,1,50370.0,4.9,Central,November
+C10828,Neha Joshi,Face Cream,Beauty,1085.0,2,2170.0,,East,June
+C10829,Karan Iyer,Mixer Grinder,Home,5515.0,2,11030.0,3.5,East,December
+C10830,Diya Singh,Novel Book,Books,419.0,2,838.0,3.7,West,August
+C10831,Fatima Reddy,,Accessories,1760.0,1,1760.0,,South,July
+C10832,Ishaan Joshi,Wrist Watch,Accessories,3972.0,1,,4.2,East,October
+C10833,Aditya Kumar,Backpack,Accessories,2531.0,3,,3.3,South,November
+C10834,Zara Joshi,Mixer Grinder,Home,5290.0,3,15870.0,,West,
+C10835,Riya Pandey,Wired Earphones,Electronics,2080.0,1,2080.0,4.9,West,June
+C10836,Rohan Pandey,Basmati Rice 5kg,Grocery,568.0,1,568.0,4.8,West,November
+C10837,Aditya Khan,Mixer Grinder,Home,6511.0,3,19533.0,,Central,August
+C10838,Imran Patel,Tablet,Electronics,11616.0,1,11616.0,3.6,West,June
+C10839,Myra Sheikh,Bluetooth Speaker,Electronics,4045.0,1,4045.0,4.7,South,November
+C10840,Tara Pandey,Sneakers,Footwear,2931.0,4,11724.0,4.6,North,October
+C10841,Sneha Sheikh,Mixer Grinder,Home,1920.0,3,5760.0,2.6,East,December
+C10842,Mohammed Bose,Power Bank,Electronics,818.0,3,2454.0,3.1,North,March
+C10843,Ananya Nair,Jeans,Clothing,1722.0,4,6888.0,2.7,Central,June
+C10844,,Novel Book,Books,367.0,5,1835.0,4.3,North,October
+C10845,Aarav Gupta,Backpack,Accessories,1081.0,5,5405.0,4.1,Central,February
+C10846,Myra Kumar,Jeans,Clothing,3116.0,1,3116.0,3.8,South,April
+C10847,Kavya Rao,Power Bank,Electronics,2358.0,3,7074.0,3.2,South,April
+C10848,Arjun Chowdhury,Smartphone,Electronics,10811.0,1,10811.0,4.2,Central,August
+C10849,Aanya Reddy,Mixer Grinder,Home,3124.0,2,6248.0,4.8,East,November
+C10850,Ishaan Bose,Cooking Oil 5L,Grocery,561.0,2,1122.0,3.4,East,November
+C10851,Zara Sharma,Bluetooth Speaker,Electronics,5837.0,4,23348.0,3.6,,July
+C10852,Fatima Gupta,Sneakers,Footwear,7609.0,3,,4.8,West,April
+C10853,Sneha Sheikh,Bedsheet,Home,820.0,4,3280.0,3.5,Central,January
+C10854,Aisha Pandey,Shampoo,Beauty,374.0,2,748.0,3.9,Central,February
+C10855,Ishaan Gupta,T-Shirt,Clothing,212.0,1,212.0,3.6,North,October
+C10856,Diya Sharma,T-Shirt,Clothing,1220.0,3,,3.5,South,April
+C10857,Faiz Iyer,Saree,Clothing,2594.0,3,7782.0,3.7,South,March
+C10858,Kavya Khan,Saree,Clothing,5462.0,2,10924.0,4.3,West,November
+C10859,Diya Sharma,Wrist Watch,Accessories,10828.0,1,10828.0,4.2,West,January
+C10860,Zara Pandey,Laptop,Electronics,100979.0,3,302937.0,2.1,Central,July
+C10861,Riya Joshi,Tablet,Electronics,48849.0,4,195396.0,2.8,West,December
+C10862,Aarav Singh,Mixer Grinder,Home,4940.0,1,4940.0,4.4,Central,November
+C10863,Fatima Khan,Backpack,Accessories,1810.0,1,1810.0,4.5,Central,November
+C10864,Neha Nair,Basmati Rice 5kg,Grocery,435.0,1,435.0,3.6,West,June
+C10865,Ishaan Iyer,Shampoo,Beauty,765.0,1,765.0,,South,April
+C10866,Tara Pillai,Basmati Rice 5kg,Grocery,,2,1306.0,4.0,Central,March
+C10867,Diya Singh,Tablet,Electronics,18284.0,3,54852.0,3.7,Central,May
+C10868,Fatima Patel,,Clothing,1038.0,3,3114.0,1.9,South,November
+C10869,Faiz Sheikh,Tablet,Electronics,47739.0,5,238695.0,5.0,North,September
+C10870,Arjun Singh,Bedsheet,Home,587.0,1,587.0,4.5,North,April
+C10871,,Wrist Watch,Accessories,9133.0,2,18266.0,4.6,East,September
+C10872,Faiz Joshi,Bedsheet,Home,1876.0,1,1876.0,,West,September
+C10873,Tara Khan,Mixer Grinder,Home,3320.0,5,16600.0,4.1,North,August
+C10874,Meera Khan,,Books,467.0,2,934.0,4.1,Central,May
+C10875,Faiz Iyer,Novel Book,Books,247.0,4,988.0,,South,February
+C10876,,,Accessories,1821.0,1,1821.0,,Central,February
+C10877,Sneha Reddy,Basmati Rice 5kg,Grocery,559.0,1,559.0,3.5,East,March
+C10878,Aryan Pandey,Saree,Clothing,1822.0,3,5466.0,5.0,,July
+C10879,Rohan Rao,Mixer Grinder,Home,3337.0,4,13348.0,,West,December
+C10880,Karan Khan,Smartphone,Electronics,63784.0,1,63784.0,,Central,July
+C10881,Myra Bose,Tablet,Electronics,38108.0,1,38108.0,5.0,West,August
+C10882,Neha Rao,Face Cream,Beauty,1134.0,3,3402.0,5.0,East,November
+C10883,Vivaan Sheikh,Shampoo,Beauty,514.0,4,2056.0,3.1,North,May
+C10884,Aanya Sheikh,Saree,Clothing,3543.0,2,7086.0,3.6,South,April
+C10885,Aarav Das,Jeans,Clothing,1557.0,2,3114.0,4.6,Central,September
+C10886,Arjun Verma,Running Shoes,Footwear,4542.0,2,9084.0,2.5,Central,December
+C10887,Faiz Gupta,Power Bank,Electronics,2581.0,1,2581.0,3.5,North,October
+C10888,Karan Das,Bedsheet,Home,1005.0,1,1005.0,4.8,Central,November
+C10889,Reyansh Pandey,,Grocery,528.0,1,528.0,3.3,Central,March
+C10890,Kavya Jha,Smartphone,Electronics,14125.0,1,14125.0,3.3,Central,March
+C10891,Diya Reddy,Smartphone,Electronics,21151.0,2,42302.0,5.0,North,December
+C10892,Zara Sharma,Wrist Watch,Accessories,7850.0,5,39250.0,5.0,East,September
+C10893,Reyansh Pillai,Tablet,Electronics,22604.0,1,22604.0,4.3,North,October
+C10894,Krishna Gupta,Mixer Grinder,Home,2404.0,5,12020.0,,South,September
+C10895,Reyansh Das,Shampoo,Beauty,510.0,1,510.0,3.4,North,November
+C10896,Rohan Rao,Saree,Clothing,4475.0,1,4475.0,2.8,West,August
+C10897,Meera Iyer,Novel Book,Books,347.0,4,1388.0,4.1,West,August
+C10898,Meera Reddy,Sneakers,Footwear,3400.0,1,3400.0,5.0,South,February
+C10899,Ananya Iyer,Shampoo,Beauty,112.0,2,224.0,2.8,South,September
+C10900,Arjun Rao,Running Shoes,Footwear,4721.0,4,,4.3,Central,November
+C10901,Neha Rao,Wired Earphones,Electronics,2286.0,1,2286.0,3.8,Central,April
+C10902,Aisha Nair,Shampoo,Beauty,,1,571.0,5.0,West,July
+C10903,Sneha Sheikh,Saree,Clothing,5870.0,4,23480.0,4.1,Central,July
+C10904,Diya Reddy,Cooking Oil 5L,Grocery,730.0,2,1460.0,4.6,South,April
+C10905,Meera Sharma,Face Cream,Beauty,222.0,2,444.0,4.8,South,September
+C10906,Faiz Chowdhury,Shampoo,Beauty,398.0,2,796.0,4.0,South,March
+C10907,Fatima Singh,Bedsheet,Home,650.0,2,1300.0,2.8,,March
+C10908,Sneha Gupta,Mixer Grinder,Home,4377.0,3,13131.0,4.1,West,September
+C10909,Vivaan Das,Face Cream,Beauty,1359.0,4,5436.0,4.1,North,March
+C10910,Vivaan Jha,Jeans,Clothing,2459.0,3,7377.0,3.6,East,August
+C10911,Reyansh Reddy,Bedsheet,Home,837.0,2,1674.0,3.9,East,October
+C10912,Arjun Patel,,Electronics,1406.0,2,2812.0,4.3,West,September
+C10913,Mohammed Verma,Jeans,Clothing,2600.0,4,10400.0,4.3,Central,September
+C10914,Diya Pandey,Power Bank,Electronics,2507.0,1,2507.0,3.2,,December
+C10915,Diya Kumar,Wired Earphones,Electronics,688.0,2,1376.0,4.0,East,October
+C10916,Fatima Singh,Tablet,Electronics,24125.0,5,120625.0,3.7,East,July
+C10917,Pari Bose,Sneakers,Footwear,8890.0,2,17780.0,4.6,West,March
+C10918,Kavya Reddy,Wired Earphones,Electronics,670.0,5,3350.0,4.0,North,November
+C10919,Aarav Pandey,Wrist Watch,Accessories,8957.0,1,8957.0,4.0,South,April
+C10920,Kavya Sharma,T-Shirt,Clothing,863.0,4,,5.0,East,April
+C10921,Diya Kumar,Basmati Rice 5kg,Grocery,413.0,2,,3.9,Central,January
+C10922,Aishaan Pillai,Novel Book,Books,210.0,1,210.0,,East,February
+C10923,,Bluetooth Speaker,Electronics,2710.0,4,10840.0,3.0,East,September
+C10924,Arjun Reddy,Laptop,Electronics,98673.0,5,493365.0,,,December
+C10925,Rohan Jha,Cooking Oil 5L,Grocery,708.0,1,708.0,4.1,South,June
+C10926,Vivaan Jha,Saree,Clothing,,4,21352.0,3.8,East,June
+C10927,Sai Singh,Laptop,Electronics,31969.0,3,95907.0,3.2,North,August
+C10928,Ishaan Mehta,Novel Book,Books,381.0,2,762.0,4.3,East,January
+C10929,,Tablet,Electronics,20805.0,1,20805.0,4.7,West,May
+C10930,Sneha Das,Saree,Clothing,2263.0,3,6789.0,4.7,Central,April
+C10931,Aanya Singh,Tablet,Electronics,26315.0,2,52630.0,3.6,North,May
+C10932,,Backpack,Accessories,970.0,1,970.0,4.6,South,July
+C10933,Aanya Jha,Jeans,Clothing,2724.0,1,2724.0,5.0,South,July
+C10934,Aryan Nair,Smartphone,Electronics,23533.0,1,23533.0,4.0,South,November
+C10935,Ananya Mehta,Wrist Watch,Accessories,9799.0,1,9799.0,3.2,West,October
+C10936,Faiz Jha,Sneakers,Footwear,6968.0,2,13936.0,3.9,South,June
+C10937,Zara Gupta,Shampoo,Beauty,616.0,1,616.0,3.6,Central,October
+C10938,Aisha Bose,Power Bank,Electronics,3083.0,4,12332.0,3.9,South,October
+C10939,Aditya Pandey,Bluetooth Speaker,Electronics,8907.0,5,44535.0,4.0,South,October
+C10940,Ananya Singh,Saree,Clothing,4649.0,3,,4.3,North,April
+C10941,,Bedsheet,Home,464.0,2,928.0,4.2,South,September
+C10942,Krishna Nair,Basmati Rice 5kg,Grocery,592.0,1,592.0,4.1,East,June
+C10943,Saanvi Pillai,Wired Earphones,Electronics,1098.0,2,2196.0,3.1,East,April
+C10944,Vivaan Das,Mixer Grinder,Home,3314.0,1,3314.0,3.6,South,July
+C10945,Rohan Singh,Power Bank,Electronics,1442.0,4,5768.0,4.8,North,August
+C10946,Karan Nair,Wired Earphones,Electronics,1695.0,1,1695.0,3.9,Central,May
+C10947,Ananya Sharma,Tablet,Electronics,16765.0,2,33530.0,3.0,South,December
+C10948,Zara Iyer,Smartphone,Electronics,64040.0,5,320200.0,3.9,West,February
+C10949,Aarav Rao,,Grocery,1164.0,3,3492.0,4.2,East,February
+C10950,Kavya Singh,Backpack,Accessories,904.0,1,904.0,5.0,North,April
+C10951,Fatima Iyer,Smartphone,Electronics,18436.0,2,36872.0,4.0,South,June
+C10952,Meera Jha,Mixer Grinder,Home,3574.0,2,7148.0,3.5,East,October
+C10953,Imran Singh,Smartphone,Electronics,10887.0,2,21774.0,,East,September
+C10954,Riya Das,T-Shirt,Clothing,382.0,4,1528.0,4.0,Central,October
+C10955,Ananya Kumar,Wired Earphones,Electronics,1679.0,4,6716.0,,Central,February
+C10956,Kavya Das,Smartphone,Electronics,70850.0,4,283400.0,4.6,South,November
+C10957,Sneha Gupta,Saree,Clothing,5010.0,2,10020.0,4.4,West,June
+C10958,Aarav Nair,Saree,Clothing,3904.0,1,3904.0,5.0,West,January
+C10959,Fatima Bose,Smartphone,Electronics,21178.0,4,84712.0,4.3,South,
+C10960,Sai Jha,Face Cream,Beauty,960.0,1,960.0,5.0,West,January
+C10961,Myra Verma,Cooking Oil 5L,Grocery,803.0,1,803.0,,South,April
+C10962,Ananya Chowdhury,Bedsheet,Home,1801.0,4,7204.0,3.7,South,January
+C10963,Riya Jha,Wrist Watch,Accessories,1195.0,2,2390.0,2.9,East,May
+C10964,Fatima Joshi,Jeans,Clothing,,5,5925.0,3.6,North,August
+C10965,,T-Shirt,Clothing,1302.0,5,6510.0,3.4,North,December
+C10966,Sneha Pandey,Sneakers,Footwear,,1,,4.5,Central,February
+C10967,,Backpack,Accessories,1788.0,1,,3.4,South,April
+C10968,Aryan Pillai,T-Shirt,Clothing,978.0,1,978.0,5.0,West,February
+C10969,Aisha Gupta,Novel Book,Books,469.0,4,,3.5,East,December
+C10970,Karan Verma,Sneakers,Footwear,3442.0,1,3442.0,2.8,East,October
+C10971,Imran Chowdhury,Novel Book,Books,417.0,1,,3.8,South,December
+C10972,Krishna Rao,Power Bank,Electronics,1833.0,2,3666.0,2.6,,
+C10973,Meera Mehta,Wired Earphones,Electronics,1253.0,4,5012.0,4.4,South,March
+C10974,,Running Shoes,Footwear,5700.0,2,11400.0,2.7,West,August
+C10975,Ishaan Rao,Smartphone,Electronics,,1,11434.0,,South,August
+C10976,Tara Pandey,Saree,Clothing,2462.0,5,12310.0,5.0,East,October
+C10977,Faiz Gupta,Cooking Oil 5L,Grocery,668.0,1,668.0,3.8,North,April
+C10978,Krishna Nair,Wired Earphones,Electronics,2426.0,2,4852.0,5.0,West,January
+C10979,Kavya Kumar,Face Cream,Beauty,1447.0,1,,2.8,Central,
+C10980,Arjun Rao,Laptop,Electronics,88339.0,2,176678.0,4.6,West,February
+C10981,,Novel Book,Books,620.0,3,1860.0,3.1,East,July
+C10982,Ishaan Mehta,Face Cream,Beauty,1095.0,5,5475.0,4.0,South,December
+C10983,Ananya Singh,Cooking Oil 5L,Grocery,501.0,5,2505.0,4.3,West,June
+C10984,Meera Khan,Bedsheet,Home,856.0,1,856.0,2.7,East,June
+C10985,Riya Kumar,Novel Book,Books,627.0,1,627.0,4.8,Central,July
+C10986,Myra Gupta,T-Shirt,Clothing,435.0,5,2175.0,4.4,Central,May
+C10987,,Sneakers,Footwear,6045.0,2,12090.0,4.6,North,October
+C10988,Aarav Khan,Running Shoes,Footwear,2728.0,1,2728.0,4.3,Central,March
+C10989,Myra Bose,Cooking Oil 5L,Grocery,648.0,1,648.0,,West,June
+C10990,Mohammed Mehta,Face Cream,Beauty,274.0,1,274.0,3.7,East,January
+C10991,Fatima Kumar,Face Cream,Beauty,226.0,1,226.0,3.4,Central,February
+C10992,Zara Sharma,Backpack,Accessories,,1,2249.0,4.1,South,June
+C10993,Aditya Sheikh,Running Shoes,Footwear,2767.0,1,2767.0,4.1,North,December
+C10994,Sai Bose,Sneakers,Footwear,4202.0,1,4202.0,4.2,South,May
+C10995,Pari Bose,Novel Book,Books,290.0,2,580.0,2.3,Central,October
+C10996,Sneha Chowdhury,Face Cream,Beauty,833.0,5,,2.6,Central,December
+C10997,Saanvi Sharma,Bedsheet,Home,417.0,2,,3.6,North,January
+C10998,Aryan Sharma,Jeans,Clothing,3024.0,2,6048.0,2.3,South,June
+C10999,Krishna Iyer,Power Bank,Electronics,2369.0,3,7107.0,3.7,East,October
+C11000,Krishna Nair,Running Shoes,Footwear,2823.0,3,,2.9,North,November
+C11001,Aishaan Iyer,Bedsheet,Home,426.0,1,426.0,4.5,West,December
+C11002,Vivaan Rao,Tablet,Electronics,14254.0,1,,5.0,South,October
+C11003,Rohan Bose,Wrist Watch,Accessories,10398.0,1,10398.0,4.0,West,August
+C11004,Reyansh Jha,,Clothing,2907.0,2,5814.0,3.7,Central,February
+C11005,Aryan Mehta,Novel Book,Books,395.0,1,395.0,3.8,Central,June
+C11006,Imran Khan,Bedsheet,Home,864.0,5,4320.0,4.7,Central,October
+C11007,Reyansh Chowdhury,Novel Book,Books,695.0,1,695.0,4.2,South,October
+C11008,Myra Sharma,Bluetooth Speaker,Electronics,5035.0,2,,3.1,East,February
+C11009,,T-Shirt,Clothing,576.0,1,576.0,4.8,East,June
+C11010,Karan Singh,Tablet,Electronics,23629.0,5,,3.2,South,September
+C11011,Myra Verma,Tablet,Electronics,37076.0,3,111228.0,3.8,Central,March
+C11012,Tara Mehta,Wired Earphones,Electronics,2173.0,1,2173.0,4.2,South,November
+C11013,Aanya Rao,Face Cream,Beauty,,2,2898.0,3.7,Central,June
+C11014,Zara Verma,Face Cream,Beauty,256.0,2,512.0,4.9,West,July
+C11015,Saanvi Iyer,Running Shoes,Footwear,5399.0,1,5399.0,3.7,Central,May
+C11016,Aanya Pandey,Wrist Watch,Accessories,11739.0,2,23478.0,3.3,South,August
+C11017,Sneha Jha,Saree,Clothing,4681.0,5,23405.0,3.1,East,April
+C11018,Aanya Joshi,Jeans,Clothing,1974.0,1,1974.0,4.3,Central,May
+C11019,Ishaan Bose,,Electronics,20616.0,1,20616.0,4.1,East,July
+C11020,,Running Shoes,Footwear,1996.0,1,1996.0,4.5,,August
+C11021,Diya Bose,Tablet,Electronics,46194.0,1,46194.0,3.4,North,December
+C11022,Mohammed Nair,,Beauty,664.0,5,3320.0,4.7,West,August
+C11023,Pari Gupta,Wired Earphones,Electronics,593.0,3,1779.0,4.1,South,July
+C11024,Neha Iyer,Backpack,Accessories,1668.0,1,1668.0,4.4,West,May
+C11025,Aditya Chowdhury,Smartphone,Electronics,22415.0,1,22415.0,3.9,Central,March
+C11026,Riya Kumar,Backpack,Accessories,483.0,4,1932.0,3.9,East,June
+C11027,Arjun Patel,Mixer Grinder,Home,2618.0,3,7854.0,4.1,West,February
+C11028,Meera Sharma,Tablet,Electronics,,1,42013.0,2.8,Central,March
+C11029,Riya Pillai,Sneakers,Footwear,7942.0,1,,3.6,East,March
+C11030,Kavya Pandey,,Electronics,96838.0,2,193676.0,3.1,South,December
+C11031,Tara Sheikh,Backpack,Accessories,,2,5604.0,,Central,February
+C11032,Myra Patel,Backpack,Accessories,1359.0,5,6795.0,3.1,East,August
+C11033,Neha Sheikh,Wired Earphones,Electronics,1568.0,3,4704.0,2.7,South,January
+C11034,Aishaan Sheikh,Jeans,Clothing,2906.0,2,5812.0,3.4,South,January
+C11035,Aishaan Bose,Running Shoes,Footwear,4865.0,4,19460.0,5.0,East,November
+C11036,Aditya Bose,Laptop,Electronics,106399.0,1,106399.0,4.5,Central,November
+C11037,Aditya Sheikh,Bluetooth Speaker,Electronics,8497.0,3,25491.0,5.0,West,April
+C11038,Tara Singh,Wired Earphones,Electronics,1832.0,3,5496.0,3.2,Central,August
+C11039,Kavya Das,Bluetooth Speaker,Electronics,7996.0,4,31984.0,3.9,South,July
+C11040,Aditya Verma,Novel Book,Books,179.0,2,358.0,3.3,North,February
+C11041,Riya Joshi,T-Shirt,Clothing,1314.0,3,3942.0,2.7,Central,February
+C11042,Zara Verma,Cooking Oil 5L,Grocery,546.0,2,1092.0,3.8,South,May
+C11043,,Backpack,Accessories,1586.0,1,1586.0,3.5,Central,July
+C11044,Vivaan Iyer,T-Shirt,Clothing,784.0,1,784.0,3.2,Central,
+C11045,Riya Singh,Power Bank,Electronics,564.0,2,1128.0,,South,September
+C11046,Aditya Gupta,Novel Book,Books,482.0,3,1446.0,2.6,South,January
+C11047,Krishna Pillai,Shampoo,Beauty,632.0,1,632.0,3.7,Central,November
+C11048,Ananya Nair,Power Bank,Electronics,3459.0,2,6918.0,4.7,North,July
+C11049,Ishaan Gupta,Tablet,Electronics,53254.0,4,213016.0,3.8,West,April
+C11050,Rohan Das,Jeans,Clothing,1407.0,2,2814.0,3.8,North,March
+C11051,Kavya Patel,Smartphone,Electronics,74919.0,1,,2.6,South,May
+C11052,Diya Mehta,Wired Earphones,Electronics,480.0,1,480.0,3.3,Central,July
+C11053,Sneha Iyer,Novel Book,Books,323.0,2,646.0,5.0,South,May
+C11054,Mohammed Das,Tablet,Electronics,52456.0,1,52456.0,3.4,North,January
+C11055,,Laptop,Electronics,114075.0,5,570375.0,3.0,South,October
+C11056,Karan Sharma,Novel Book,Books,582.0,1,582.0,3.7,West,March
+C11057,Diya Iyer,Power Bank,Electronics,1138.0,1,1138.0,2.7,Central,June
+C11058,,Saree,Clothing,3432.0,2,6864.0,3.6,Central,February
+C11059,Rohan Iyer,Backpack,Accessories,2973.0,2,5946.0,3.8,South,January
+C11060,Karan Iyer,Wrist Watch,Accessories,2629.0,1,2629.0,4.1,East,March
+C11061,Sai Bose,Shampoo,Beauty,665.0,1,665.0,2.3,Central,January
+C11062,Sneha Jha,Shampoo,Beauty,452.0,4,1808.0,3.8,West,June
+C11063,,Bedsheet,Home,1735.0,5,8675.0,3.7,East,December
+C11064,,Bedsheet,Home,1411.0,1,1411.0,4.8,South,July
+C11065,Tara Joshi,Bluetooth Speaker,Electronics,1557.0,3,4671.0,4.2,East,September
+C11066,Imran Joshi,Sneakers,Footwear,2875.0,4,11500.0,,West,April
+C11067,,Saree,Clothing,5815.0,1,5815.0,5.0,West,December
+C11068,Rohan Singh,Laptop,Electronics,74978.0,3,224934.0,3.5,Central,June
+C11069,Tara Gupta,,Electronics,7537.0,1,7537.0,3.7,North,July
+C11070,Kavya Reddy,Face Cream,Beauty,1429.0,2,2858.0,3.5,West,July
+C11071,Imran Das,Bedsheet,Home,1623.0,4,6492.0,3.2,West,October
+C11072,Tara Rao,Power Bank,Electronics,1223.0,3,3669.0,3.9,South,June
+C11073,Meera Chowdhury,Bedsheet,Home,1312.0,1,1312.0,2.1,East,February
+C11074,Saanvi Nair,Face Cream,Beauty,1076.0,3,3228.0,3.9,East,March
+C11075,Krishna Pandey,Backpack,Accessories,708.0,2,1416.0,5.0,West,January
+C11076,Neha Das,Saree,Clothing,1895.0,1,,3.7,North,April
+C11077,Ananya Joshi,Jeans,Clothing,2803.0,5,14015.0,3.5,South,September
+C11078,Kavya Rao,Shampoo,Beauty,355.0,5,1775.0,2.9,Central,August
+C11079,Arjun Jha,Tablet,Electronics,23577.0,4,94308.0,2.3,West,September
+C11080,Myra Sheikh,Running Shoes,Footwear,1275.0,3,3825.0,3.7,North,April
+C11081,Aishaan Sharma,Running Shoes,Footwear,,1,2163.0,4.8,North,February
+C11082,Myra Kumar,Shampoo,Beauty,385.0,2,770.0,4.2,East,July
+C11083,Imran Chowdhury,Wired Earphones,Electronics,945.0,1,945.0,3.8,West,August
+C11084,Aisha Bose,T-Shirt,Clothing,1099.0,4,4396.0,4.9,South,January
+C11085,Meera Mehta,Running Shoes,Footwear,3415.0,5,17075.0,5.0,Central,March
+C11086,Krishna Patel,Wired Earphones,Electronics,872.0,1,872.0,4.8,South,October
+C11087,Rohan Iyer,Novel Book,Books,434.0,5,2170.0,4.2,East,July
+C11088,Neha Gupta,Shampoo,Beauty,316.0,1,316.0,4.3,South,February
+C11089,Kavya Rao,Tablet,Electronics,30343.0,4,121372.0,3.3,North,November
+C11090,Kavya Joshi,Jeans,Clothing,2651.0,1,2651.0,2.8,West,September
+C11091,Fatima Sheikh,Basmati Rice 5kg,Grocery,736.0,2,1472.0,4.7,Central,January
+C11092,Aarav Jha,,Books,295.0,1,295.0,3.6,Central,May
+C11093,Sai Patel,Mixer Grinder,Home,3108.0,1,3108.0,4.0,South,November
+C11094,,Tablet,Electronics,54956.0,4,219824.0,2.1,East,May
+C11095,Ishaan Mehta,Saree,Clothing,5054.0,5,25270.0,5.0,Central,November
+C11096,Aishaan Khan,Shampoo,Beauty,,5,665.0,4.7,East,June
+C11097,Diya Khan,T-Shirt,Clothing,1424.0,1,1424.0,3.9,,October
+C11098,Krishna Reddy,Tablet,Electronics,14175.0,1,14175.0,3.8,East,August
+C11099,Arjun Chowdhury,Novel Book,Books,508.0,3,1524.0,3.0,South,November
+C11100,Mohammed Jha,Smartphone,Electronics,64037.0,4,256148.0,4.2,East,January
+C11101,Zara Patel,Wired Earphones,Electronics,1485.0,2,2970.0,3.5,North,September
+C11102,Saanvi Pandey,Wrist Watch,Accessories,,1,5988.0,3.9,West,October
+C11103,Sneha Singh,T-Shirt,Clothing,1314.0,1,1314.0,3.9,West,June
+C11104,Karan Rao,,Accessories,1114.0,2,2228.0,3.4,North,March
+C11105,Aishaan Rao,Backpack,Accessories,2119.0,1,2119.0,4.0,Central,May
+C11106,Imran Singh,Shampoo,Beauty,588.0,4,,3.3,East,January
+C11107,,Tablet,Electronics,36493.0,2,72986.0,,Central,August
+C11108,Aditya Rao,Tablet,Electronics,30127.0,2,,4.3,South,October
+C11109,Sai Mehta,Jeans,Clothing,3031.0,1,3031.0,4.5,North,May
+C11110,Saanvi Sheikh,Saree,Clothing,1557.0,2,3114.0,4.6,Central,August
+C11111,Reyansh Joshi,Novel Book,Books,431.0,3,,2.9,South,September
+C11112,Rohan Das,Tablet,Electronics,35796.0,3,,4.4,West,April
+C11113,Karan Pandey,Shampoo,Beauty,227.0,3,681.0,5.0,North,August
+C11114,Arjun Reddy,Tablet,Electronics,33170.0,5,165850.0,5.0,North,September
+C11115,Imran Singh,Sneakers,Footwear,3199.0,1,3199.0,4.2,Central,October
+C11116,Reyansh Joshi,Mixer Grinder,Home,2931.0,2,5862.0,5.0,Central,October
+C11117,Sai Reddy,Saree,Clothing,4290.0,1,,4.4,East,October
+C11118,Aishaan Joshi,Cooking Oil 5L,Grocery,679.0,1,679.0,,Central,March
+C11119,Sai Jha,,Clothing,2277.0,3,,4.4,Central,February
+C11120,Aryan Singh,Bedsheet,Home,1717.0,2,3434.0,4.0,West,January
+C11121,Faiz Mehta,Smartphone,Electronics,29048.0,1,29048.0,5.0,Central,April
+C11122,Diya Das,Shampoo,Beauty,504.0,4,2016.0,4.5,West,October
+C11123,Aisha Patel,Shampoo,Beauty,247.0,4,988.0,4.6,South,March
+C11124,Krishna Kumar,Bluetooth Speaker,Electronics,8275.0,5,,3.3,North,February
+C11125,Meera Sheikh,Wrist Watch,Accessories,10907.0,1,10907.0,4.7,East,April
+C11126,Sai Iyer,Wrist Watch,Accessories,12099.0,2,24198.0,3.2,East,July
+C11127,Kavya Bose,Wired Earphones,Electronics,868.0,1,868.0,2.9,South,January
+C11128,Kavya Sharma,T-Shirt,Clothing,1430.0,1,1430.0,4.0,West,December
+C11129,Vivaan Bose,Shampoo,Beauty,310.0,5,1550.0,4.4,East,June
+C11130,,Bluetooth Speaker,Electronics,1978.0,1,1978.0,5.0,Central,March
+C11131,Reyansh Joshi,Wrist Watch,Accessories,9669.0,2,19338.0,5.0,Central,April
+C11132,Aanya Sharma,Bluetooth Speaker,Electronics,,2,3020.0,3.6,North,February
+C11133,Reyansh Reddy,Laptop,Electronics,89326.0,5,446630.0,4.9,West,July
+C11134,Saanvi Verma,Basmati Rice 5kg,Grocery,509.0,3,1527.0,3.8,West,March
+C11135,,Sneakers,Footwear,4339.0,1,4339.0,3.0,Central,February
+C11136,Arjun Khan,Novel Book,Books,152.0,3,456.0,3.1,West,February
+C11137,,Mixer Grinder,Home,2728.0,1,2728.0,4.6,Central,February
+C11138,Tara Patel,Tablet,Electronics,29623.0,2,59246.0,2.6,East,May
+C11139,Rohan Singh,Power Bank,Electronics,794.0,5,3970.0,2.5,South,November
+C11140,Meera Jha,Power Bank,Electronics,3357.0,1,3357.0,3.3,West,February
+C11141,Fatima Gupta,Sneakers,Footwear,,2,6194.0,4.7,,February
+C11142,Aarav Khan,Cooking Oil 5L,Grocery,712.0,3,2136.0,5.0,North,January
+C11143,Aishaan Khan,Face Cream,Beauty,1361.0,1,1361.0,2.9,,March
+C11144,Sai Sheikh,Bedsheet,Home,1312.0,5,6560.0,4.1,South,April
+C11145,Neha Singh,Tablet,Electronics,54970.0,3,164910.0,3.5,Central,April
+C11146,Sneha Das,Cooking Oil 5L,Grocery,959.0,2,1918.0,4.0,West,May
+C11147,Vivaan Mehta,T-Shirt,Clothing,1469.0,1,1469.0,4.7,South,January
+C11148,Neha Verma,Wired Earphones,Electronics,519.0,2,1038.0,3.5,Central,September
+C11149,Mohammed Patel,Laptop,Electronics,118231.0,3,354693.0,4.5,West,September
+C11150,Myra Patel,Mixer Grinder,Home,2414.0,2,4828.0,5.0,South,February
+C11151,,Shampoo,Beauty,689.0,1,689.0,4.7,South,December
+C11152,Riya Chowdhury,Backpack,Accessories,2301.0,1,2301.0,5.0,East,March
+C11153,Zara Bose,Jeans,Clothing,2908.0,1,2908.0,3.4,North,October
+C11154,Karan Singh,Face Cream,Beauty,703.0,1,703.0,4.3,South,May
+C11155,Aanya Pillai,,Electronics,1566.0,3,4698.0,3.8,West,June
+C11156,Diya Sheikh,Bedsheet,Home,885.0,2,1770.0,4.1,North,September
+C11157,,Mixer Grinder,Home,6182.0,1,6182.0,2.4,East,May
+C11158,Aisha Gupta,Wrist Watch,Accessories,10028.0,5,50140.0,,South,November
+C11159,Sai Rao,Mixer Grinder,Home,4348.0,1,4348.0,4.1,Central,July
+C11160,Aryan Chowdhury,Sneakers,Footwear,2077.0,2,4154.0,,South,December
+C11161,Mohammed Rao,Running Shoes,Footwear,2190.0,2,4380.0,4.6,Central,May
+C11162,Zara Singh,Power Bank,Electronics,1745.0,3,5235.0,3.5,South,February
+C11163,Aishaan Verma,Tablet,Electronics,41295.0,1,41295.0,4.0,South,January
+C11164,Meera Jha,Power Bank,Electronics,2196.0,1,2196.0,4.6,North,July
+C11165,Meera Sheikh,Jeans,Clothing,3011.0,3,9033.0,5.0,South,July
+C11166,Rohan Mehta,Face Cream,Beauty,1001.0,3,3003.0,3.9,South,September
+C11167,Vivaan Singh,Shampoo,Beauty,420.0,1,420.0,4.7,Central,July
+C11168,Saanvi Pandey,Sneakers,Footwear,2231.0,1,2231.0,3.7,East,June
+C11169,Riya Iyer,Tablet,Electronics,38031.0,1,38031.0,3.9,East,February
+C11170,Mohammed Verma,Saree,Clothing,2184.0,2,4368.0,3.0,West,May
+C11171,Tara Pandey,Smartphone,Electronics,53119.0,4,212476.0,4.6,Central,February
+C11172,Riya Patel,Face Cream,Beauty,255.0,1,255.0,3.9,East,June
+C11173,Arjun Bose,Bluetooth Speaker,Electronics,8966.0,1,8966.0,3.7,Central,March
+C11174,Saanvi Khan,Tablet,Electronics,21939.0,2,43878.0,3.4,East,February
+C11175,Fatima Nair,Laptop,Electronics,89623.0,1,89623.0,3.8,South,March
+C11176,Zara Khan,Cooking Oil 5L,Grocery,1006.0,5,5030.0,4.1,South,February
+C11177,Myra Reddy,Sneakers,Footwear,5951.0,2,11902.0,3.6,North,January
+C11178,Vivaan Kumar,Backpack,Accessories,761.0,4,3044.0,3.9,Central,January
+C11179,Neha Bose,Running Shoes,Footwear,2850.0,1,2850.0,5.0,West,July
+C11180,Aishaan Jha,Face Cream,Beauty,442.0,3,1326.0,4.3,North,May
+C11181,Rohan Rao,Wrist Watch,Accessories,2785.0,1,2785.0,4.3,North,February
+C11182,Riya Chowdhury,Smartphone,Electronics,26327.0,3,78981.0,4.0,East,February
+C11183,Mohammed Bose,Saree,Clothing,3795.0,1,3795.0,3.8,Central,April
+C11184,Pari Pandey,Shampoo,Beauty,731.0,2,1462.0,3.4,South,September
+C11185,Meera Khan,Laptop,Electronics,97726.0,1,97726.0,4.0,North,September
+C11186,Sneha Nair,Wired Earphones,Electronics,1725.0,1,1725.0,3.7,North,September
+C11187,Imran Sharma,Mixer Grinder,Home,5035.0,3,15105.0,4.4,Central,February
+C11188,Aditya Sharma,Saree,Clothing,1891.0,4,7564.0,4.2,West,May
+C11189,Ishaan Mehta,Running Shoes,Footwear,5445.0,5,27225.0,3.3,South,
+C11190,Meera Pillai,Tablet,Electronics,13115.0,2,26230.0,3.9,West,September
+C11191,Aanya Pandey,Running Shoes,Footwear,5234.0,5,26170.0,4.1,South,December
+C11192,Neha Patel,Bedsheet,Home,1483.0,1,1483.0,3.0,North,October
+C11193,Ishaan Das,Bedsheet,Home,514.0,4,2056.0,4.5,West,October
+C11194,Neha Mehta,T-Shirt,Clothing,364.0,5,1820.0,,Central,
+C11195,Kavya Sharma,Cooking Oil 5L,Grocery,885.0,1,885.0,3.9,,May
+C11196,Reyansh Mehta,Power Bank,Electronics,1922.0,1,1922.0,4.0,West,March
+C11197,,Saree,Clothing,2374.0,1,2374.0,4.5,North,July
+C11198,Neha Verma,Running Shoes,Footwear,3241.0,1,3241.0,4.1,East,November
+C11199,Mohammed Singh,Jeans,Clothing,2901.0,2,5802.0,4.2,South,April
+C11200,Neha Sheikh,Bluetooth Speaker,Electronics,8821.0,5,44105.0,3.9,South,January
+C11201,Aisha Sharma,Tablet,Electronics,40720.0,1,40720.0,4.2,South,August
+C11202,Myra Iyer,Face Cream,Beauty,551.0,2,1102.0,3.9,North,September
+C11203,Aryan Reddy,Jeans,Clothing,1926.0,2,3852.0,4.3,North,February
+C11204,Vivaan Joshi,Sneakers,Footwear,6644.0,2,13288.0,3.9,North,July
+C11205,Pari Iyer,Smartphone,Electronics,71335.0,2,142670.0,2.7,South,October
+C11206,Aanya Pandey,Cooking Oil 5L,Grocery,962.0,4,3848.0,5.0,East,October
+C11207,Neha Das,Power Bank,Electronics,2056.0,2,4112.0,3.3,South,August
+C11208,Ishaan Rao,Shampoo,Beauty,507.0,1,507.0,,South,February
+C11209,Mohammed Sharma,T-Shirt,Clothing,1112.0,2,2224.0,3.8,East,August
+C11210,,Novel Book,Books,549.0,3,1647.0,4.5,,July
+C11211,Tara Patel,Mixer Grinder,Home,2330.0,4,9320.0,4.5,East,May
+C11212,Zara Singh,T-Shirt,Clothing,1182.0,1,1182.0,3.5,West,April
+C11213,,Bluetooth Speaker,Electronics,6533.0,3,19599.0,3.2,East,October
+C11214,Aanya Reddy,Mixer Grinder,Home,4064.0,5,20320.0,4.3,South,June
+C11215,Saanvi Reddy,,Accessories,2024.0,1,,3.6,East,December
+C11216,Ishaan Reddy,Face Cream,Beauty,383.0,4,1532.0,3.5,Central,December
+C11217,Vivaan Pandey,Novel Book,Books,314.0,1,314.0,4.3,Central,May
+C11218,Ishaan Joshi,Bluetooth Speaker,Electronics,1304.0,5,6520.0,4.2,Central,May
+C11219,Rohan Pillai,Bedsheet,Home,388.0,1,388.0,,North,January
+C11220,Saanvi Joshi,Wrist Watch,Accessories,2493.0,3,7479.0,5.0,West,December
+C11221,,Shampoo,Beauty,331.0,4,1324.0,4.9,Central,January
+C11222,Diya Patel,Saree,Clothing,1104.0,3,3312.0,3.5,East,February
+C11223,Krishna Sharma,T-Shirt,Clothing,330.0,3,990.0,,South,August
+C11224,Ananya Sharma,Basmati Rice 5kg,Grocery,351.0,3,1053.0,3.6,West,December
+C11225,Karan Iyer,Wrist Watch,Accessories,1405.0,2,2810.0,,Central,February
+C11226,Aryan Bose,Wrist Watch,Accessories,8627.0,1,8627.0,2.4,West,August
+C11227,Aanya Sheikh,Running Shoes,Footwear,3827.0,2,7654.0,3.9,Central,August
+C11228,Saanvi Rao,Bluetooth Speaker,Electronics,3674.0,2,7348.0,3.8,South,September
+C11229,Ananya Rao,T-Shirt,Clothing,1236.0,4,4944.0,3.6,West,July
+C11230,Sneha Reddy,Saree,Clothing,1080.0,3,3240.0,3.8,North,July
+C11231,Karan Nair,Jeans,Clothing,3241.0,1,3241.0,3.5,West,October
+C11232,Reyansh Rao,Novel Book,Books,236.0,2,472.0,4.7,Central,July
+C11233,Aarav Rao,Cooking Oil 5L,Grocery,615.0,1,615.0,4.3,South,September
+C11234,Rohan Patel,Tablet,Electronics,28097.0,1,28097.0,4.4,West,December
+C11235,Sneha Iyer,Mixer Grinder,Home,6404.0,4,25616.0,3.6,East,August
+C11236,Karan Singh,Backpack,Accessories,1439.0,1,1439.0,3.9,East,May
+C11237,Pari Kumar,Sneakers,Footwear,4641.0,5,23205.0,4.8,South,December
+C11238,Ishaan Iyer,Jeans,Clothing,881.0,5,4405.0,5.0,Central,January
+C11239,Sneha Sheikh,Backpack,Accessories,1935.0,4,7740.0,5.0,Central,June
+C11240,Riya Joshi,Smartphone,Electronics,64526.0,2,129052.0,5.0,East,January
+C11241,Vivaan Rao,Wrist Watch,Accessories,5298.0,3,15894.0,4.2,Central,January
+C11242,Faiz Kumar,Running Shoes,Footwear,6788.0,1,6788.0,4.8,South,July
+C11243,Aarav Rao,Basmati Rice 5kg,Grocery,541.0,2,1082.0,3.3,South,
+C11244,,Wired Earphones,Electronics,1069.0,4,4276.0,3.3,,August
+C11245,Vivaan Khan,Saree,Clothing,3167.0,1,3167.0,5.0,Central,November
+C11246,Aisha Bose,Running Shoes,Footwear,,4,11940.0,3.6,West,June
+C11247,Saanvi Khan,Tablet,Electronics,23556.0,1,23556.0,4.9,West,January
+C11248,Arjun Joshi,Shampoo,Beauty,503.0,2,1006.0,4.2,East,September
+C11249,Ishaan Chowdhury,Shampoo,Beauty,481.0,1,481.0,3.6,South,September
+C11250,Myra Kumar,Power Bank,Electronics,1445.0,1,1445.0,,North,September
+C11251,Ishaan Verma,Wrist Watch,Accessories,5328.0,2,10656.0,4.0,Central,October
+C11252,Fatima Rao,Cooking Oil 5L,Grocery,1008.0,5,5040.0,5.0,Central,December
+C11253,Aarav Jha,Wired Earphones,Electronics,1718.0,4,6872.0,3.6,East,July
+C11254,Reyansh Kumar,Bluetooth Speaker,Electronics,7566.0,4,30264.0,5.0,East,July
+C11255,Zara Das,Face Cream,Beauty,162.0,1,162.0,4.6,South,
+C11256,Faiz Khan,Running Shoes,Footwear,6715.0,1,,4.1,West,September
+C11257,Diya Das,Face Cream,Beauty,473.0,2,946.0,4.3,Central,February
+C11258,Aryan Iyer,Basmati Rice 5kg,Grocery,448.0,4,1792.0,,East,September
+C11259,Pari Joshi,Shampoo,Beauty,601.0,2,1202.0,4.4,Central,October
+C11260,Neha Verma,Wrist Watch,Accessories,1827.0,2,3654.0,3.6,East,July
+C11261,Sneha Reddy,Saree,Clothing,3955.0,1,3955.0,4.0,Central,July
+C11262,Sai Das,T-Shirt,Clothing,1282.0,3,3846.0,3.9,East,January
+C11263,Arjun Mehta,Cooking Oil 5L,Grocery,555.0,2,1110.0,3.3,East,August
+C11264,Kavya Sharma,Backpack,Accessories,1543.0,5,7715.0,3.8,West,January
+C11265,,Tablet,Electronics,49875.0,5,249375.0,,Central,September
+C11266,Aryan Sharma,Bluetooth Speaker,Electronics,1190.0,2,2380.0,3.5,North,July
+C11267,Aanya Pillai,Backpack,Accessories,2702.0,5,13510.0,3.6,North,July
+C11268,Pari Pandey,Bedsheet,Home,1654.0,3,4962.0,4.0,East,February
+C11269,Saanvi Joshi,Jeans,Clothing,2300.0,1,2300.0,4.2,Central,February
+C11270,Ishaan Bose,Tablet,Electronics,,5,221375.0,2.9,East,October
+C11271,Meera Chowdhury,Face Cream,Beauty,,3,750.0,,East,April
+C11272,,T-Shirt,Clothing,691.0,1,691.0,4.1,East,April
+C11273,Rohan Rao,Mixer Grinder,Home,2589.0,2,5178.0,3.1,South,February
+C11274,Arjun Gupta,Wrist Watch,Accessories,8278.0,1,8278.0,4.1,,February
+C11275,,Saree,Clothing,1019.0,3,3057.0,3.4,,March
+C11276,Aarav Joshi,Jeans,Clothing,2586.0,1,,4.7,North,November
+C11277,Sneha Gupta,Backpack,Accessories,1664.0,5,8320.0,3.1,South,December
+C11278,Neha Iyer,Power Bank,Electronics,2798.0,4,11192.0,3.8,East,September
+C11279,Neha Khan,Basmati Rice 5kg,Grocery,904.0,2,1808.0,2.8,North,August
+C11280,Imran Bose,Running Shoes,Footwear,4026.0,2,,4.6,Central,March
+C11281,Meera Khan,Mixer Grinder,Home,,5,34180.0,5.0,South,April
+C11282,Krishna Gupta,Tablet,Electronics,47489.0,5,237445.0,4.6,South,July
+C11283,Aryan Reddy,Cooking Oil 5L,Grocery,628.0,1,628.0,5.0,West,May
+C11284,Sneha Reddy,T-Shirt,Clothing,1357.0,4,5428.0,3.5,North,July
+C11285,Kavya Singh,Wrist Watch,Accessories,948.0,1,948.0,4.5,West,April
+C11286,Mohammed Bose,Shampoo,Beauty,697.0,1,697.0,5.0,North,November
+C11287,Zara Nair,Laptop,Electronics,46438.0,1,46438.0,4.6,Central,February
+C11288,Sai Khan,Tablet,Electronics,40103.0,2,80206.0,3.7,Central,May
+C11289,Fatima Pillai,Laptop,Electronics,47097.0,1,47097.0,4.8,Central,October
+C11290,Imran Mehta,Saree,Clothing,5588.0,1,5588.0,4.6,South,March
+C11291,Reyansh Mehta,Bluetooth Speaker,Electronics,2344.0,1,2344.0,4.3,North,May
+C11292,Fatima Bose,Saree,Clothing,5884.0,1,5884.0,4.1,South,October
+C11293,Arjun Chowdhury,Wrist Watch,Accessories,4675.0,2,9350.0,5.0,Central,April
+C11294,Aisha Kumar,Smartphone,Electronics,8569.0,1,8569.0,4.5,North,June
+C11295,Aanya Chowdhury,Laptop,Electronics,79808.0,2,159616.0,,West,April
+C11296,Meera Kumar,Jeans,Clothing,2620.0,2,,3.0,South,July
+C11297,Reyansh Nair,Saree,Clothing,531.0,3,1593.0,,West,January
+C11298,Aarav Sharma,Cooking Oil 5L,Grocery,980.0,5,4900.0,3.9,East,September
+C11299,Aisha Iyer,Mixer Grinder,Home,6679.0,4,26716.0,3.5,West,October
+C11300,Ananya Mehta,Bedsheet,Home,1042.0,1,1042.0,3.5,South,November
+C11301,Neha Iyer,Cooking Oil 5L,Grocery,676.0,4,2704.0,4.0,East,January
+C11302,Myra Khan,Wired Earphones,Electronics,898.0,3,2694.0,3.9,Central,September
+C11303,Mohammed Iyer,,Books,265.0,1,265.0,4.7,North,February
+C11304,Aditya Sharma,Backpack,Accessories,1070.0,2,2140.0,4.6,East,July
+C11305,Saanvi Singh,Shampoo,Beauty,138.0,1,138.0,4.0,South,June
+C11306,Aryan Verma,Sneakers,Footwear,2516.0,2,5032.0,2.9,Central,June
+C11307,Krishna Pillai,Wired Earphones,Electronics,1488.0,2,2976.0,3.7,West,October
+C11308,Myra Kumar,Face Cream,Beauty,244.0,2,488.0,5.0,East,April
+C11309,Neha Chowdhury,Novel Book,Books,451.0,2,902.0,4.4,South,September
+C11310,Myra Reddy,Sneakers,Footwear,8244.0,4,32976.0,,South,June
+C11311,Faiz Rao,Basmati Rice 5kg,Grocery,826.0,4,3304.0,2.8,East,August
+C11312,Krishna Das,Wrist Watch,Accessories,5631.0,2,,3.3,North,February
+C11313,Sneha Rao,Bedsheet,Home,449.0,1,449.0,4.5,South,April
+C11314,Neha Gupta,Sneakers,Footwear,2343.0,5,11715.0,4.5,South,May
+C11315,Aanya Das,,Accessories,7495.0,5,37475.0,5.0,North,March
+C11316,Faiz Pandey,Laptop,Electronics,61865.0,2,123730.0,4.2,West,June
+C11317,Fatima Sheikh,Novel Book,Books,232.0,3,,4.3,North,
+C11318,,Cooking Oil 5L,Grocery,1104.0,1,1104.0,4.3,South,February
+C11319,Riya Sharma,Tablet,Electronics,21007.0,1,21007.0,4.8,North,November
+C11320,Sai Chowdhury,Mixer Grinder,Home,,2,3192.0,,East,March
+C11321,Aanya Nair,Novel Book,Books,,1,588.0,3.0,West,October
+C11322,Myra Sharma,Backpack,Accessories,2325.0,1,,5.0,South,February
+C11323,Imran Das,Power Bank,Electronics,2212.0,4,8848.0,2.7,West,November
+C11324,Karan Patel,Sneakers,Footwear,4190.0,3,12570.0,5.0,Central,April
+C11325,Aisha Pillai,,Footwear,2778.0,3,8334.0,4.4,South,December
+C11326,Krishna Reddy,Backpack,Accessories,2627.0,1,2627.0,4.4,Central,January
+C11327,Ishaan Reddy,Mixer Grinder,Home,1914.0,1,1914.0,3.4,Central,January
+C11328,Aryan Bose,Running Shoes,Footwear,1264.0,1,1264.0,3.9,West,February
+C11329,Arjun Chowdhury,Wrist Watch,Accessories,12167.0,5,60835.0,4.9,West,May
+C11330,Kavya Gupta,Bluetooth Speaker,Electronics,6611.0,2,13222.0,4.1,North,July
+C11331,Krishna Verma,Backpack,Accessories,2984.0,2,5968.0,,North,December
+C11332,Pari Patel,Basmati Rice 5kg,Grocery,945.0,1,,3.5,North,July
+C11333,Mohammed Mehta,Saree,Clothing,1457.0,2,2914.0,4.3,North,November
+C11334,Zara Pandey,Sneakers,Footwear,2337.0,1,2337.0,3.4,Central,February
+C11335,Imran Bose,Sneakers,Footwear,5305.0,1,,3.6,West,April
+C11336,Pari Verma,Basmati Rice 5kg,Grocery,508.0,2,,,East,August
+C11337,Ishaan Sharma,Jeans,Clothing,2735.0,2,5470.0,4.3,South,October
+C11338,Neha Kumar,Backpack,Accessories,758.0,1,758.0,4.5,West,December
+C11339,Aditya Chowdhury,Novel Book,Books,630.0,1,630.0,1.1,South,December
+C11340,Aanya Das,,Grocery,1087.0,1,1087.0,2.6,West,January
+C11341,Zara Bose,Shampoo,Beauty,320.0,5,1600.0,3.3,North,December
+C11342,Neha Sharma,Tablet,Electronics,17644.0,1,17644.0,3.4,East,December
+C11343,Neha Pandey,Backpack,Accessories,1348.0,2,2696.0,4.0,East,January
+C11344,Myra Iyer,Basmati Rice 5kg,Grocery,,5,4620.0,3.0,Central,June
+C11345,Aanya Reddy,Power Bank,Electronics,2498.0,5,12490.0,3.1,North,February
+C11346,Fatima Singh,T-Shirt,Clothing,270.0,2,540.0,3.9,South,February
+C11347,Krishna Das,Wrist Watch,Accessories,10126.0,3,30378.0,5.0,South,February
+C11348,Ishaan Chowdhury,Laptop,Electronics,74171.0,5,,3.3,South,May
+C11349,Fatima Sharma,Face Cream,Beauty,1389.0,3,4167.0,5.0,,February
+C11350,Sai Reddy,Mixer Grinder,Home,3515.0,1,3515.0,3.0,West,May
+C11351,Saanvi Jha,Bedsheet,Home,582.0,1,582.0,4.8,South,October
+C11352,Aryan Joshi,Sneakers,Footwear,3580.0,4,14320.0,2.9,Central,June
+C11353,Riya Patel,Cooking Oil 5L,Grocery,1091.0,4,4364.0,2.3,North,
+C11354,Aryan Jha,Mixer Grinder,Home,1605.0,4,6420.0,5.0,,August
+C11355,Mohammed Bose,Wrist Watch,Accessories,8422.0,1,8422.0,4.0,North,March
+C11356,Reyansh Rao,Backpack,Accessories,1783.0,4,7132.0,3.2,South,September
+C11357,Vivaan Joshi,Shampoo,Beauty,451.0,2,902.0,4.9,,June
+C11358,Meera Nair,Laptop,Electronics,106312.0,1,106312.0,2.9,South,December
+C11359,Reyansh Pillai,T-Shirt,Clothing,1196.0,1,,3.9,South,July
+C11360,Aarav Iyer,Bluetooth Speaker,Electronics,4615.0,1,4615.0,5.0,North,March
+C11361,Faiz Reddy,Bedsheet,Home,1718.0,3,5154.0,3.8,South,January
+C11362,Faiz Verma,Running Shoes,Footwear,722.0,5,3610.0,2.6,,March
+C11363,,Running Shoes,Footwear,937.0,4,3748.0,5.0,East,March
+C11364,Fatima Sheikh,Face Cream,Beauty,219.0,1,219.0,4.7,North,May
+C11365,Tara Sharma,Face Cream,Beauty,1469.0,1,1469.0,3.5,West,March
+C11366,Aryan Sheikh,Basmati Rice 5kg,Grocery,577.0,2,1154.0,4.6,West,November
+C11367,Aarav Gupta,,Books,460.0,2,920.0,3.8,East,September
+C11368,Faiz Mehta,Bluetooth Speaker,Electronics,6122.0,2,12244.0,4.6,South,July
+C11369,Imran Gupta,Mixer Grinder,Home,1793.0,1,1793.0,4.3,Central,October
+C11370,Myra Sheikh,Laptop,Electronics,72305.0,3,216915.0,4.6,Central,April
+C11371,Faiz Sheikh,Basmati Rice 5kg,Grocery,689.0,1,689.0,2.7,Central,November
+C11372,Imran Khan,Basmati Rice 5kg,Grocery,362.0,1,362.0,4.3,West,March
+C11373,Myra Nair,Face Cream,Beauty,1347.0,3,,3.8,East,May
+C11374,Mohammed Iyer,Power Bank,Electronics,2606.0,1,2606.0,2.4,East,December
+C11375,Riya Iyer,Basmati Rice 5kg,Grocery,872.0,2,1744.0,4.1,North,July
+C11376,Krishna Verma,Basmati Rice 5kg,Grocery,,3,1407.0,5.0,North,June
+C11377,Pari Sheikh,Face Cream,Beauty,737.0,4,2948.0,4.8,North,April
+C11378,Neha Rao,Mixer Grinder,Home,2566.0,2,5132.0,3.3,North,February
+C11379,Mohammed Nair,T-Shirt,Clothing,,1,757.0,5.0,Central,April
+C11380,Krishna Pillai,,Grocery,559.0,1,559.0,5.0,East,October
+C11381,,Power Bank,Electronics,2961.0,1,2961.0,4.7,,September
+C11382,Arjun Joshi,Wrist Watch,Accessories,10889.0,4,43556.0,,East,May
+C11383,Myra Joshi,Face Cream,Beauty,1061.0,2,2122.0,5.0,East,September
+C11384,Sai Mehta,Sneakers,Footwear,3164.0,1,3164.0,4.6,South,March
+C11385,Riya Mehta,Sneakers,Footwear,6572.0,4,26288.0,3.3,Central,November
+C11386,,Face Cream,Beauty,1477.0,1,1477.0,,North,December
+C11387,Aisha Kumar,Wrist Watch,Accessories,10950.0,1,10950.0,4.6,West,May
+C11388,Fatima Sheikh,Novel Book,Books,295.0,2,590.0,5.0,South,September
+C11389,,Wired Earphones,Electronics,1903.0,1,1903.0,3.1,North,January
+C11390,Sneha Pandey,Running Shoes,Footwear,5924.0,1,5924.0,4.0,South,January
+C11391,Karan Iyer,Laptop,Electronics,48461.0,1,48461.0,4.6,South,October
+C11392,Aisha Iyer,Tablet,Electronics,9698.0,4,38792.0,4.9,East,August
+C11393,Faiz Joshi,Laptop,Electronics,48017.0,1,48017.0,4.6,East,July
+C11394,Neha Reddy,Power Bank,Electronics,539.0,4,2156.0,3.5,South,January
+C11395,Sneha Sheikh,Bluetooth Speaker,Electronics,5505.0,5,27525.0,4.2,North,January
+C11396,Vivaan Kumar,Power Bank,Electronics,525.0,5,2625.0,,West,February
+C11397,Aryan Gupta,Mixer Grinder,Home,1599.0,5,7995.0,5.0,East,November
+C11398,Aarav Jha,Basmati Rice 5kg,Grocery,372.0,1,372.0,3.4,West,October
+C11399,,T-Shirt,Clothing,1285.0,1,1285.0,4.3,North,June
+C11400,Sneha Das,Running Shoes,Footwear,2724.0,3,8172.0,4.1,West,July
+C11401,Aryan Sharma,Sneakers,Footwear,2881.0,5,14405.0,4.4,Central,July
+C11402,Imran Sharma,T-Shirt,Clothing,,1,1392.0,3.3,Central,August
+C11403,Faiz Pandey,Face Cream,Beauty,1234.0,1,1234.0,4.4,South,December
+C11404,Diya Jha,Shampoo,Beauty,184.0,2,368.0,4.3,South,January
+C11405,Fatima Sharma,Tablet,Electronics,12210.0,1,12210.0,,South,November
+C11406,Aanya Pillai,Bedsheet,Home,779.0,1,779.0,5.0,South,November
+C11407,Aarav Singh,Shampoo,Beauty,537.0,4,2148.0,5.0,North,October
+C11408,Aryan Khan,Wired Earphones,Electronics,1742.0,2,3484.0,3.4,North,March
+C11409,Imran Iyer,Basmati Rice 5kg,Grocery,802.0,3,2406.0,4.7,Central,May
+C11410,Imran Reddy,,Electronics,28515.0,1,28515.0,3.7,East,November
+C11411,Pari Patel,Basmati Rice 5kg,Grocery,788.0,1,788.0,4.4,Central,April
+C11412,,Laptop,Electronics,31659.0,1,31659.0,5.0,North,November
+C11413,Rohan Patel,Jeans,Clothing,2792.0,1,2792.0,,Central,November
+C11414,Ishaan Sharma,Face Cream,Beauty,616.0,2,1232.0,3.7,South,December
+C11415,Meera Pillai,Cooking Oil 5L,Grocery,1027.0,2,2054.0,4.2,West,October
+C11416,Myra Iyer,Power Bank,Electronics,3443.0,2,6886.0,4.6,South,September
+C11417,Aryan Singh,Wired Earphones,Electronics,1602.0,1,1602.0,4.6,North,January
+C11418,Pari Mehta,Jeans,Clothing,2353.0,1,2353.0,4.2,North,July
+C11419,Imran Mehta,Wired Earphones,Electronics,1490.0,1,1490.0,3.6,Central,March
+C11420,Aryan Das,Basmati Rice 5kg,Grocery,909.0,1,909.0,4.6,South,June
+C11421,Arjun Singh,Cooking Oil 5L,Grocery,1136.0,1,1136.0,5.0,Central,July
+C11422,Karan Rao,Saree,Clothing,4680.0,2,9360.0,3.8,North,July
+C11423,Ananya Chowdhury,Tablet,Electronics,,3,36831.0,5.0,North,April
+C11424,Rohan Kumar,Wrist Watch,Accessories,1841.0,1,1841.0,3.7,West,August
+C11425,Riya Das,Sneakers,Footwear,5324.0,1,5324.0,3.4,South,November
+C11426,Tara Chowdhury,Tablet,Electronics,12364.0,4,49456.0,4.0,West,December
+C11427,Ishaan Joshi,Wired Earphones,Electronics,1829.0,3,,3.5,South,September
+C11428,Riya Rao,Basmati Rice 5kg,Grocery,930.0,3,2790.0,,East,July
+C11429,Karan Iyer,Basmati Rice 5kg,Grocery,447.0,5,2235.0,4.2,West,September
+C11430,Meera Pillai,Smartphone,Electronics,63825.0,3,191475.0,3.8,North,April
+C11431,Aisha Nair,Basmati Rice 5kg,Grocery,939.0,2,1878.0,4.5,Central,September
+C11432,Aditya Rao,Wrist Watch,Accessories,4571.0,1,4571.0,3.6,South,May
+C11433,,Bluetooth Speaker,Electronics,1809.0,5,9045.0,3.0,South,October
+C11434,Pari Mehta,,Home,1420.0,2,2840.0,,North,June
+C11435,Aishaan Jha,Shampoo,Beauty,197.0,1,197.0,3.7,Central,September
+C11436,Zara Pandey,Power Bank,Electronics,3282.0,1,3282.0,3.7,North,January
+C11437,,Smartphone,Electronics,18767.0,1,18767.0,,East,January
+C11438,Mohammed Gupta,Mixer Grinder,Home,4180.0,2,,2.9,Central,January
+C11439,Meera Sheikh,Power Bank,Electronics,620.0,2,1240.0,4.7,South,March
+C11440,Aishaan Sheikh,Wrist Watch,Accessories,,2,8436.0,3.1,South,January
+C11441,Zara Iyer,Tablet,Electronics,21144.0,2,42288.0,3.8,Central,June
+C11442,Pari Das,Tablet,Electronics,,1,39125.0,,West,January
+C11443,Rohan Singh,Basmati Rice 5kg,Grocery,390.0,1,390.0,3.7,South,October
+C11444,Ananya Gupta,,Beauty,923.0,5,4615.0,2.9,East,May
+C11445,Ishaan Pandey,Cooking Oil 5L,Grocery,1194.0,5,5970.0,4.2,West,November
+C11446,Neha Patel,Novel Book,Books,508.0,4,2032.0,4.0,North,November
+C11447,Saanvi Verma,Wired Earphones,Electronics,1299.0,3,3897.0,3.1,,November
+C11448,Mohammed Sheikh,Tablet,Electronics,52269.0,2,104538.0,4.2,,October
+C11449,Ishaan Singh,Smartphone,Electronics,51869.0,1,51869.0,3.6,Central,February
+C11450,Zara Das,Power Bank,Electronics,2694.0,2,5388.0,5.0,Central,November
+C11451,Reyansh Jha,Laptop,Electronics,74320.0,5,371600.0,3.8,East,October
+C11452,Arjun Sheikh,Shampoo,Beauty,183.0,4,732.0,3.7,Central,March
+C11453,Pari Pandey,Saree,Clothing,989.0,2,1978.0,3.2,South,July
+C11454,Saanvi Jha,,Electronics,90306.0,1,90306.0,4.5,East,January
+C11455,Ishaan Reddy,Saree,Clothing,4073.0,2,8146.0,3.8,West,May
+C11456,Sai Jha,Wrist Watch,Accessories,10656.0,1,10656.0,,North,September
+C11457,Tara Pandey,Bedsheet,Home,1363.0,2,2726.0,4.5,Central,November
+C11458,Riya Sharma,Bluetooth Speaker,Electronics,5006.0,1,5006.0,2.8,Central,December
+C11459,Aarav Pandey,Smartphone,Electronics,63284.0,2,126568.0,5.0,West,February
+C11460,Aishaan Pandey,,Accessories,4308.0,2,8616.0,3.8,Central,April
+C11461,Krishna Patel,Novel Book,Books,407.0,2,814.0,3.9,North,December
+C11462,Imran Patel,Wired Earphones,Electronics,420.0,1,420.0,3.0,East,May
+C11463,Ishaan Das,Face Cream,Beauty,1286.0,1,1286.0,4.8,Central,March
+C11464,Aryan Pandey,Smartphone,Electronics,10356.0,2,20712.0,3.5,South,November
+C11465,Reyansh Rao,Smartphone,Electronics,30757.0,1,30757.0,,Central,September
+C11466,Neha Sheikh,Bluetooth Speaker,Electronics,6135.0,1,6135.0,4.1,South,March
+C11467,Rohan Joshi,Jeans,Clothing,2350.0,1,,3.9,Central,July
+C11468,Riya Pillai,Wired Earphones,Electronics,1189.0,2,2378.0,,East,December
+C11469,,Tablet,Electronics,34641.0,3,103923.0,4.9,North,December
+C11470,Ishaan Bose,Mixer Grinder,Home,4876.0,1,4876.0,3.2,North,January
+C11471,Pari Mehta,Shampoo,Beauty,696.0,5,3480.0,3.0,South,September
+C11472,Reyansh Singh,Shampoo,Beauty,411.0,1,411.0,4.0,East,July
+C11473,Aishaan Sheikh,Shampoo,Beauty,381.0,1,381.0,4.0,South,January
+C11474,Faiz Bose,,Clothing,,2,2888.0,3.9,Central,July
+C11475,Ananya Pillai,Bedsheet,Home,660.0,2,1320.0,,North,May
+C11476,Rohan Pillai,Power Bank,Electronics,1137.0,5,5685.0,4.1,Central,January
+C11477,Fatima Nair,T-Shirt,Clothing,1229.0,1,1229.0,1.9,South,January
+C11478,Sai Chowdhury,Bluetooth Speaker,Electronics,2878.0,5,14390.0,4.5,West,May
+C11479,Meera Nair,Shampoo,Beauty,114.0,4,456.0,4.1,South,July
+C11480,Aanya Rao,Bedsheet,Home,1693.0,2,3386.0,5.0,North,March
+C11481,Imran Verma,Mixer Grinder,Home,5465.0,1,5465.0,4.3,East,August
+C11482,Diya Verma,Bedsheet,Home,902.0,1,902.0,,North,February
+C11483,Zara Kumar,Saree,Clothing,1996.0,2,3992.0,4.8,East,September
+C11484,Fatima Reddy,Basmati Rice 5kg,Grocery,439.0,1,439.0,4.4,West,August
+C11485,Sai Sheikh,Backpack,Accessories,2558.0,1,2558.0,4.7,North,January
+C11486,Vivaan Singh,Laptop,Electronics,98319.0,2,196638.0,4.6,East,July
+C11487,Kavya Sharma,Mixer Grinder,Home,4648.0,5,23240.0,3.6,West,August
+C11488,Myra Verma,,Electronics,2390.0,2,4780.0,4.4,West,June
+C11489,Aditya Pillai,Cooking Oil 5L,Grocery,947.0,5,4735.0,5.0,North,July
+C11490,Reyansh Kumar,Face Cream,Beauty,610.0,5,3050.0,3.9,West,August
+C11491,Aisha Sheikh,Cooking Oil 5L,Grocery,980.0,5,4900.0,3.7,West,November
+C11492,Aarav Nair,Wrist Watch,Accessories,11957.0,2,23914.0,3.4,North,September
+C11493,Imran Iyer,Sneakers,Footwear,6614.0,2,13228.0,5.0,North,August
+C11494,Fatima Khan,Tablet,Electronics,42611.0,1,42611.0,3.1,North,July
+C11495,Arjun Nair,T-Shirt,Clothing,1141.0,1,1141.0,5.0,North,February
+C11496,Neha Sharma,Smartphone,Electronics,74344.0,2,,3.0,South,May
+C11497,Aditya Sheikh,Running Shoes,Footwear,1808.0,1,1808.0,,Central,January
+C11498,Sai Verma,Basmati Rice 5kg,Grocery,,1,542.0,,North,July
+C11499,Aanya Sheikh,Cooking Oil 5L,Grocery,684.0,4,2736.0,4.4,North,June
+C11500,Aanya Kumar,Tablet,Electronics,,5,148130.0,3.5,East,March
+C11501,Saanvi Jha,Smartphone,Electronics,42400.0,1,,4.2,West,September
+C11502,Aanya Reddy,Sneakers,Footwear,4188.0,2,8376.0,3.9,,August
+C11503,Sneha Patel,Laptop,Electronics,109205.0,2,218410.0,5.0,East,July
+C11504,Pari Das,Saree,Clothing,,2,4590.0,4.1,South,September
+C11505,Reyansh Pandey,Shampoo,Beauty,331.0,1,331.0,3.2,Central,June
+C11506,Ishaan Khan,Power Bank,Electronics,2042.0,2,4084.0,5.0,South,May
+C11507,Karan Mehta,Wrist Watch,Accessories,10652.0,1,10652.0,3.9,North,
+C11508,Vivaan Patel,Face Cream,Beauty,1116.0,2,2232.0,3.4,Central,May
+C11509,Ishaan Nair,,Electronics,1448.0,3,4344.0,4.4,North,March
+C11510,Aditya Pandey,Tablet,Electronics,42418.0,1,42418.0,3.7,Central,August
+C11511,,Wrist Watch,Accessories,12828.0,2,25656.0,4.7,South,October
+C11512,Faiz Das,Smartphone,Electronics,72634.0,2,145268.0,4.2,East,July
+C11513,Meera Verma,Bluetooth Speaker,Electronics,5841.0,5,29205.0,3.9,East,July
+C11514,Pari Nair,Bedsheet,Home,1569.0,1,1569.0,5.0,Central,October
+C11515,Meera Rao,Mixer Grinder,Home,6352.0,1,6352.0,4.6,North,September
+C11516,Myra Nair,Wrist Watch,Accessories,5679.0,1,5679.0,3.8,Central,January
+C11517,Meera Rao,T-Shirt,Clothing,1175.0,1,1175.0,4.4,West,July
+C11518,Neha Reddy,Novel Book,Books,336.0,3,1008.0,4.2,North,May
+C11519,Arjun Patel,Shampoo,Beauty,355.0,2,710.0,5.0,South,May
+C11520,Mohammed Iyer,Jeans,Clothing,3273.0,2,6546.0,3.6,West,March
+C11521,Aditya Chowdhury,Smartphone,Electronics,8358.0,3,25074.0,4.1,Central,February
+C11522,Saanvi Iyer,Running Shoes,Footwear,1044.0,4,4176.0,4.6,East,December
+C11523,Fatima Reddy,Running Shoes,Footwear,1830.0,1,1830.0,3.9,North,October
+C11524,Karan Gupta,Laptop,Electronics,33319.0,3,99957.0,4.6,East,December
+C11525,Mohammed Verma,Running Shoes,Footwear,1194.0,5,5970.0,5.0,West,May
+C11526,Karan Rao,Mixer Grinder,Home,4047.0,1,4047.0,3.5,Central,February
+C11527,Krishna Rao,Backpack,Accessories,2121.0,1,2121.0,,West,September
+C11528,Ananya Chowdhury,Bluetooth Speaker,Electronics,1850.0,2,3700.0,5.0,North,February
+C11529,Fatima Reddy,Jeans,Clothing,2221.0,5,11105.0,4.6,Central,July
+C11530,Karan Bose,Wrist Watch,Accessories,9415.0,1,9415.0,4.0,East,September
+C11531,Karan Bose,Shampoo,Beauty,,3,1806.0,4.3,Central,June
+C11532,Reyansh Gupta,Smartphone,Electronics,28002.0,2,56004.0,4.9,East,October
+C11533,Neha Nair,,Electronics,85084.0,2,170168.0,3.5,North,December
+C11534,Ishaan Bose,Basmati Rice 5kg,Grocery,916.0,3,2748.0,4.9,Central,May
+C11535,Ishaan Singh,Smartphone,Electronics,34261.0,2,68522.0,3.8,West,January
+C11536,Ishaan Joshi,,Electronics,,1,5748.0,,Central,September
+C11537,Aryan Patel,Backpack,Accessories,1218.0,2,2436.0,3.3,Central,May
+C11538,Meera Rao,,Home,735.0,1,735.0,3.6,East,December
+C11539,Arjun Bose,Bedsheet,Home,1032.0,5,5160.0,2.8,Central,November
+C11540,Arjun Iyer,Laptop,Electronics,114351.0,2,228702.0,4.2,South,January
+C11541,Sai Rao,Laptop,Electronics,64125.0,1,,3.5,Central,March
+C11542,Arjun Reddy,Face Cream,Beauty,1423.0,2,2846.0,2.4,West,February
+C11543,Aisha Joshi,Bluetooth Speaker,Electronics,,2,2184.0,,North,March
+C11544,,T-Shirt,Clothing,1376.0,5,6880.0,4.8,East,October
+C11545,Myra Reddy,Shampoo,Beauty,146.0,1,146.0,3.8,Central,March
+C11546,Arjun Iyer,Tablet,Electronics,10532.0,2,,4.8,East,November
+C11547,Diya Verma,T-Shirt,Clothing,746.0,5,3730.0,4.5,Central,
+C11548,Kavya Mehta,Sneakers,Footwear,8042.0,4,32168.0,3.6,North,July
+C11549,Sai Rao,Bedsheet,Home,1725.0,1,1725.0,3.1,North,August
+C11550,Pari Mehta,Wired Earphones,Electronics,1642.0,4,6568.0,5.0,West,June
+C11551,Diya Patel,Bluetooth Speaker,Electronics,3985.0,3,11955.0,4.5,South,November
+C11552,Aditya Sharma,Power Bank,Electronics,,1,,,Central,January
+C11553,Myra Iyer,Sneakers,Footwear,3128.0,1,3128.0,3.0,West,June
+C11554,Sneha Joshi,Wired Earphones,Electronics,2166.0,2,4332.0,4.0,Central,April
+C11555,Faiz Sharma,Wired Earphones,Electronics,1568.0,1,1568.0,4.2,East,
+C11556,Myra Patel,Shampoo,Beauty,434.0,1,434.0,3.6,East,August
+C11557,Riya Pillai,Jeans,Clothing,2723.0,4,10892.0,,North,July
+C11558,Zara Iyer,Smartphone,Electronics,48804.0,1,48804.0,3.4,East,April
+C11559,Arjun Joshi,Jeans,Clothing,2477.0,2,4954.0,4.3,West,July
+C11560,Rohan Joshi,Mixer Grinder,Home,3226.0,1,3226.0,3.5,West,May
+C11561,Ananya Chowdhury,Shampoo,Beauty,783.0,4,3132.0,4.4,North,July
+C11562,Riya Rao,Mixer Grinder,Home,4302.0,2,8604.0,4.1,North,September
+C11563,Aryan Sharma,Power Bank,Electronics,934.0,5,4670.0,3.5,West,December
+C11564,Saanvi Iyer,Cooking Oil 5L,Grocery,1042.0,1,1042.0,4.1,East,June
+C11565,Saanvi Rao,Tablet,Electronics,39790.0,2,,3.5,East,October
+C11566,Riya Sheikh,Saree,Clothing,3724.0,5,18620.0,3.9,Central,December
+C11567,Myra Kumar,T-Shirt,Clothing,233.0,3,699.0,3.1,Central,October
+C11568,Aishaan Reddy,Mixer Grinder,Home,6422.0,1,6422.0,3.8,East,November
+C11569,Ishaan Nair,Wrist Watch,Accessories,11934.0,1,11934.0,3.7,North,September
+C11570,Aisha Jha,Sneakers,Footwear,6825.0,4,27300.0,4.4,East,November
+C11571,Neha Mehta,Running Shoes,Footwear,2650.0,5,13250.0,,South,March
+C11572,Meera Das,Running Shoes,Footwear,5982.0,1,5982.0,4.5,East,February
+C11573,,Bedsheet,Home,497.0,1,497.0,4.2,East,March
+C11574,,Bluetooth Speaker,Electronics,3196.0,1,,,South,November
+C11575,,Power Bank,Electronics,3266.0,1,3266.0,3.6,West,April
+C11576,,Shampoo,Beauty,163.0,4,652.0,5.0,East,December
+C11577,Sneha Pillai,Running Shoes,Footwear,,4,14720.0,3.4,South,December
+C11578,Meera Das,Backpack,Accessories,1693.0,1,1693.0,4.8,North,April
+C11579,Zara Gupta,Mixer Grinder,Home,3732.0,2,7464.0,2.6,West,August
+C11580,Zara Nair,Saree,Clothing,4932.0,5,,2.8,North,September
+C11581,Rohan Pillai,Cooking Oil 5L,Grocery,1032.0,5,5160.0,5.0,South,November
+C11582,Ananya Singh,Face Cream,Beauty,220.0,1,220.0,3.7,Central,March
+C11583,Faiz Kumar,Smartphone,Electronics,66303.0,1,66303.0,5.0,North,March
+C11584,Tara Chowdhury,Face Cream,Beauty,1029.0,2,,2.7,West,May
+C11585,Riya Nair,Saree,Clothing,3973.0,2,7946.0,3.2,West,November
+C11586,Ishaan Pandey,T-Shirt,Clothing,398.0,1,398.0,2.3,North,April
+C11587,Saanvi Kumar,Laptop,Electronics,,1,37340.0,3.8,South,February
+C11588,Pari Pandey,Sneakers,Footwear,2923.0,1,2923.0,4.2,South,
+C11589,Neha Verma,Power Bank,Electronics,2832.0,1,2832.0,5.0,West,September
+C11590,Ishaan Gupta,Tablet,Electronics,29605.0,1,,3.9,Central,June
+C11591,Ishaan Pandey,Wrist Watch,Accessories,4501.0,1,4501.0,4.9,West,October
+C11592,Vivaan Gupta,Smartphone,Electronics,24586.0,1,24586.0,,South,April
+C11593,Krishna Iyer,Laptop,Electronics,84532.0,1,84532.0,4.4,South,June
+C11594,Riya Khan,Wrist Watch,Accessories,724.0,3,2172.0,2.7,North,December
+C11595,Neha Singh,Mixer Grinder,Home,,1,2443.0,3.5,South,July
+C11596,Pari Pandey,Wrist Watch,Accessories,12810.0,2,25620.0,3.7,North,December
+C11597,Saanvi Das,Laptop,Electronics,78309.0,3,,4.4,Central,April
+C11598,Diya Kumar,T-Shirt,Clothing,602.0,2,1204.0,,South,October
+C11599,Imran Singh,Backpack,Accessories,1446.0,1,1446.0,,North,May
+C11600,Vivaan Sharma,Jeans,Clothing,1479.0,5,7395.0,3.5,East,March
+C11601,Kavya Sheikh,Bedsheet,Home,1699.0,5,8495.0,5.0,East,August
+C11602,Zara Mehta,Mixer Grinder,Home,2495.0,1,2495.0,4.6,East,February
+C11603,Aanya Bose,,Electronics,1941.0,4,7764.0,5.0,East,March
+C11604,Arjun Kumar,Smartphone,Electronics,62674.0,1,62674.0,3.5,West,September
+C11605,Aanya Jha,Jeans,Clothing,3447.0,1,3447.0,3.4,East,November
+C11606,Myra Pillai,Basmati Rice 5kg,Grocery,354.0,1,354.0,2.8,Central,October
+C11607,Karan Reddy,Backpack,Accessories,450.0,3,1350.0,4.1,North,February
+C11608,Sneha Kumar,T-Shirt,Clothing,355.0,1,355.0,2.8,Central,August
+C11609,Vivaan Das,Tablet,Electronics,12031.0,3,36093.0,3.2,East,March
+C11610,Aryan Pillai,Smartphone,Electronics,70775.0,2,141550.0,5.0,North,January
+C11611,Mohammed Iyer,Laptop,Electronics,108119.0,5,540595.0,3.6,West,July
+C11612,Neha Reddy,Tablet,Electronics,9728.0,2,19456.0,3.4,South,March
+C11613,,Basmati Rice 5kg,Grocery,527.0,1,527.0,5.0,Central,October
+C11614,Reyansh Joshi,Laptop,Electronics,34273.0,1,34273.0,3.2,North,October
+C11615,Aryan Gupta,Basmati Rice 5kg,Grocery,703.0,3,,3.6,West,August
+C11616,Aisha Chowdhury,Saree,Clothing,4882.0,2,9764.0,3.9,Central,November
+C11617,Krishna Singh,T-Shirt,Clothing,331.0,3,993.0,,South,March
+C11618,Reyansh Mehta,Power Bank,Electronics,1483.0,5,7415.0,3.9,Central,March
+C11619,Aarav Mehta,T-Shirt,Clothing,1067.0,1,1067.0,,East,April
+C11620,Aisha Reddy,Bedsheet,Home,646.0,2,1292.0,4.9,North,August
+C11621,Imran Mehta,Saree,Clothing,3874.0,5,,3.8,Central,August
+C11622,Pari Kumar,Face Cream,Beauty,178.0,2,356.0,4.7,West,April
+C11623,Sneha Khan,T-Shirt,Clothing,,4,3972.0,2.7,West,June
+C11624,,Cooking Oil 5L,Grocery,821.0,2,1642.0,4.5,South,March
+C11625,,Power Bank,Electronics,1693.0,1,1693.0,5.0,South,August
+C11626,Mohammed Gupta,Sneakers,Footwear,1102.0,1,1102.0,4.7,East,December
+C11627,Imran Reddy,Backpack,Accessories,592.0,4,2368.0,2.6,Central,October
+C11628,Zara Pillai,Novel Book,Books,530.0,2,1060.0,4.0,West,December
+C11629,Mohammed Joshi,Wired Earphones,Electronics,2402.0,3,,3.3,South,February
+C11630,Neha Patel,Sneakers,Footwear,1063.0,1,1063.0,,Central,December
+C11631,Aanya Khan,Smartphone,Electronics,21476.0,3,64428.0,3.2,East,March
+C11632,Karan Gupta,Tablet,Electronics,28248.0,1,28248.0,4.0,South,October
+C11633,Arjun Pillai,Bedsheet,Home,1906.0,2,3812.0,4.0,East,July
+C11634,Aarav Bose,Face Cream,Beauty,228.0,2,456.0,4.3,North,May
+C11635,Kavya Singh,Mixer Grinder,Home,5197.0,5,25985.0,3.4,West,May
+C11636,Rohan Pandey,,Electronics,8208.0,4,32832.0,4.5,Central,October
+C11637,Arjun Verma,Bedsheet,Home,976.0,2,1952.0,5.0,East,January
+C11638,Tara Kumar,Bedsheet,Home,1332.0,1,1332.0,4.2,East,July
+C11639,Fatima Mehta,,Electronics,58450.0,4,233800.0,5.0,West,August
+C11640,Saanvi Reddy,Saree,Clothing,1038.0,2,2076.0,4.1,West,June
+C11641,Saanvi Gupta,Mixer Grinder,Home,3049.0,2,6098.0,4.9,Central,June
+C11642,,Tablet,Electronics,19736.0,3,59208.0,5.0,West,June
+C11643,Karan Patel,Sneakers,Footwear,7296.0,3,21888.0,4.7,East,January
+C11644,Aanya Rao,Novel Book,Books,528.0,1,528.0,4.4,South,October
+C11645,Saanvi Nair,Wrist Watch,Accessories,3334.0,1,,5.0,East,February
+C11646,Meera Sheikh,Shampoo,Beauty,218.0,1,218.0,5.0,West,September
+C11647,Aishaan Mehta,Face Cream,Beauty,270.0,4,1080.0,4.6,Central,June
+C11648,Sneha Singh,Mixer Grinder,Home,5603.0,1,5603.0,4.5,East,August
+C11649,Meera Joshi,Tablet,Electronics,53014.0,2,106028.0,4.8,South,July
+C11650,Vivaan Kumar,Shampoo,Beauty,691.0,3,2073.0,,Central,May
+C11651,Reyansh Kumar,Bedsheet,Home,1165.0,3,3495.0,3.8,East,January
+C11652,Meera Kumar,Bluetooth Speaker,Electronics,8840.0,4,35360.0,4.6,South,April
+C11653,Ishaan Sheikh,Running Shoes,Footwear,4294.0,5,21470.0,4.6,North,March
+C11654,Sai Jha,T-Shirt,Clothing,814.0,2,1628.0,3.7,East,November
+C11655,Diya Kumar,T-Shirt,Clothing,201.0,5,1005.0,3.4,North,
+C11656,Reyansh Joshi,Wrist Watch,Accessories,,1,1077.0,3.7,East,April
+C11657,Aishaan Iyer,Basmati Rice 5kg,Grocery,393.0,1,393.0,2.7,Central,September
+C11658,Aanya Rao,Backpack,Accessories,866.0,3,2598.0,3.1,South,July
+C11659,,Basmati Rice 5kg,Grocery,419.0,4,1676.0,3.4,East,July
+C11660,Ananya Nair,Shampoo,Beauty,760.0,5,3800.0,3.4,North,August
+C11661,Imran Sharma,Shampoo,Beauty,,1,730.0,4.5,East,May
+C11662,Aryan Patel,Saree,Clothing,2197.0,4,8788.0,3.4,West,April
+C11663,,Shampoo,Beauty,734.0,1,734.0,3.3,Central,October
+C11664,Vivaan Sheikh,Smartphone,Electronics,60390.0,4,241560.0,4.1,West,November
+C11665,Ananya Mehta,Face Cream,Beauty,333.0,5,1665.0,3.9,Central,September
+C11666,Kavya Nair,Cooking Oil 5L,Grocery,1150.0,2,2300.0,3.7,Central,November
+C11667,Krishna Das,Smartphone,Electronics,,2,147050.0,4.2,,January
+C11668,Diya Chowdhury,Saree,Clothing,,1,621.0,2.6,South,June
+C11669,Sai Sharma,Jeans,Clothing,600.0,2,1200.0,3.4,West,June
+C11670,Diya Bose,Power Bank,Electronics,1055.0,1,,4.9,Central,December
+C11671,Aryan Das,Tablet,Electronics,,2,56084.0,3.9,South,March
+C11672,Aanya Rao,Novel Book,Books,345.0,2,690.0,2.2,Central,May
+C11673,Riya Pandey,Jeans,Clothing,911.0,1,911.0,2.9,North,November
+C11674,Zara Rao,Bluetooth Speaker,Electronics,4010.0,2,8020.0,4.6,,March
+C11675,Reyansh Pandey,Power Bank,Electronics,1718.0,2,3436.0,4.2,North,October
+C11676,Diya Bose,Basmati Rice 5kg,Grocery,455.0,3,1365.0,3.9,West,January
+C11677,Neha Iyer,Novel Book,Books,519.0,3,1557.0,4.8,East,August
+C11678,Ananya Patel,Saree,Clothing,2343.0,5,11715.0,3.6,West,December
+C11679,Aanya Kumar,Tablet,Electronics,51070.0,2,102140.0,5.0,East,January
+C11680,Aarav Bose,Basmati Rice 5kg,Grocery,,2,1186.0,,West,November
+C11681,Mohammed Khan,Sneakers,Footwear,2280.0,4,9120.0,4.7,North,May
+C11682,Arjun Mehta,Novel Book,Books,415.0,4,1660.0,4.0,Central,November
+C11683,,Sneakers,Footwear,8615.0,1,8615.0,3.3,West,February
+C11684,Aarav Pillai,Cooking Oil 5L,Grocery,1095.0,2,2190.0,3.3,West,May
+C11685,Diya Gupta,Sneakers,Footwear,1397.0,1,1397.0,3.0,South,March
+C11686,Pari Sheikh,Wired Earphones,Electronics,2246.0,5,11230.0,4.3,North,May
+C11687,Meera Mehta,Basmati Rice 5kg,Grocery,752.0,1,752.0,3.6,West,March
+C11688,Arjun Iyer,Jeans,Clothing,1767.0,4,7068.0,3.0,South,May
+C11689,Zara Sheikh,Backpack,Accessories,2685.0,1,2685.0,2.6,East,September
+C11690,Aditya Jha,Backpack,Accessories,2680.0,4,,,South,October
+C11691,Aisha Nair,Mixer Grinder,Home,2780.0,5,,2.6,West,October
+C11692,Pari Mehta,Basmati Rice 5kg,Grocery,736.0,2,1472.0,5.0,West,December
+C11693,Fatima Singh,Laptop,Electronics,100977.0,1,100977.0,4.0,West,October
+C11694,,Saree,Clothing,2866.0,3,8598.0,3.1,North,June
+C11695,Meera Joshi,Shampoo,Beauty,301.0,1,301.0,4.5,East,March
+C11696,Ishaan Kumar,Backpack,Accessories,1711.0,1,1711.0,4.9,Central,May
+C11697,,,Electronics,2972.0,1,2972.0,4.3,North,February
+C11698,Myra Khan,T-Shirt,Clothing,1404.0,1,1404.0,,East,December
+C11699,Aanya Gupta,Mixer Grinder,Home,6783.0,2,13566.0,4.6,South,February
+C11700,Rohan Jha,Bluetooth Speaker,Electronics,5203.0,4,20812.0,,South,March
+C11701,Sneha Joshi,Mixer Grinder,Home,3765.0,1,3765.0,3.9,Central,April
+C11702,Diya Reddy,Mixer Grinder,Home,4546.0,1,4546.0,3.9,East,December
+C11703,Zara Joshi,Backpack,Accessories,1731.0,4,6924.0,4.0,South,March
+C11704,Kavya Jha,Saree,Clothing,1436.0,4,5744.0,4.4,West,March
+C11705,Tara Chowdhury,T-Shirt,Clothing,1374.0,2,2748.0,3.4,Central,November
+C11706,,Wrist Watch,Accessories,11519.0,1,11519.0,4.7,West,June
+C11707,Diya Khan,T-Shirt,Clothing,987.0,1,987.0,2.6,West,October
+C11708,Faiz Pillai,Running Shoes,Footwear,5680.0,1,5680.0,4.0,North,October
+C11709,Aanya Mehta,Wired Earphones,Electronics,437.0,5,2185.0,3.8,West,December
+C11710,Riya Khan,Wired Earphones,Electronics,1309.0,1,1309.0,3.6,North,
+C11711,Kavya Sheikh,Face Cream,Beauty,829.0,1,829.0,4.8,East,August
+C11712,Arjun Sharma,T-Shirt,Clothing,1246.0,2,2492.0,4.6,,October
+C11713,Aditya Gupta,Mixer Grinder,Home,6147.0,1,6147.0,4.4,West,December
+C11714,Kavya Rao,T-Shirt,Clothing,1369.0,2,2738.0,4.9,West,January
+C11715,Krishna Chowdhury,Face Cream,Beauty,1272.0,1,1272.0,3.4,North,
+C11716,Neha Sharma,Novel Book,Books,,1,266.0,3.3,South,August
+C11717,Riya Khan,Novel Book,Books,361.0,4,1444.0,3.6,West,February
+C11718,Fatima Rao,Wrist Watch,Accessories,,2,3242.0,3.4,South,March
+C11719,,Face Cream,Beauty,830.0,2,1660.0,3.6,West,March
+C11720,Meera Das,T-Shirt,Clothing,359.0,4,1436.0,4.8,North,December
+C11721,Neha Singh,Backpack,Accessories,953.0,3,,4.7,North,June
+C11722,Myra Iyer,Tablet,Electronics,,3,128655.0,4.2,North,April
+C11723,Aisha Bose,Wrist Watch,Accessories,10550.0,1,10550.0,5.0,Central,May
+C11724,Myra Rao,Cooking Oil 5L,Grocery,853.0,4,3412.0,3.3,West,July
+C11725,Vivaan Bose,Jeans,Clothing,965.0,1,965.0,3.3,Central,September
+C11726,Kavya Patel,Cooking Oil 5L,Grocery,1029.0,2,2058.0,4.9,West,October
+C11727,Aryan Iyer,Shampoo,Beauty,404.0,4,1616.0,3.6,Central,October
+C11728,Sneha Khan,Wired Earphones,Electronics,705.0,1,705.0,4.6,North,June
+C11729,Zara Mehta,Novel Book,Books,326.0,5,,4.2,South,April
+C11730,Reyansh Iyer,Basmati Rice 5kg,Grocery,640.0,1,640.0,5.0,West,July
+C11731,Aarav Pillai,Bedsheet,Home,1237.0,5,6185.0,3.9,West,June
+C11732,Neha Sharma,Cooking Oil 5L,Grocery,1025.0,5,,4.4,East,December
+C11733,Ishaan Iyer,Smartphone,Electronics,27717.0,2,55434.0,3.3,Central,April
+C11734,Aisha Bose,Saree,Clothing,3672.0,1,3672.0,4.5,South,November
+C11735,Aditya Nair,Shampoo,Beauty,472.0,5,2360.0,2.9,North,May
+C11736,Riya Mehta,Mixer Grinder,Home,3757.0,1,3757.0,3.0,Central,May
+C11737,Riya Chowdhury,Running Shoes,Footwear,6496.0,1,6496.0,4.9,North,April
+C11738,Myra Iyer,Shampoo,Beauty,696.0,3,2088.0,3.8,South,February
+C11739,,Backpack,Accessories,2791.0,3,8373.0,,Central,July
+C11740,Ananya Pillai,Power Bank,Electronics,2568.0,2,5136.0,4.1,Central,March
+C11741,Aryan Nair,Cooking Oil 5L,Grocery,,4,3664.0,,East,October
+C11742,Sneha Singh,Running Shoes,Footwear,5637.0,2,11274.0,5.0,Central,July
+C11743,Zara Sheikh,Bedsheet,Home,1858.0,2,,2.4,West,February
+C11744,Saanvi Khan,T-Shirt,Clothing,1390.0,1,1390.0,3.1,Central,January
+C11745,,Shampoo,Beauty,409.0,1,409.0,2.8,North,December
+C11746,,Jeans,Clothing,775.0,1,775.0,3.5,West,February
+C11747,Vivaan Khan,Face Cream,Beauty,162.0,1,162.0,3.8,,August
+C11748,Myra Pandey,Cooking Oil 5L,Grocery,1156.0,2,2312.0,3.9,Central,November
+C11749,Zara Sharma,Bluetooth Speaker,Electronics,6993.0,1,6993.0,4.4,East,August
+C11750,Neha Bose,Face Cream,Beauty,896.0,1,896.0,2.9,South,August
+C11751,Aarav Rao,Power Bank,Electronics,2041.0,5,10205.0,3.7,West,January
+C11752,Aarav Patel,Shampoo,Beauty,498.0,5,2490.0,4.1,North,September
+C11753,Tara Patel,Jeans,Clothing,2691.0,1,2691.0,4.1,North,July
+C11754,Tara Iyer,Wrist Watch,Accessories,5420.0,2,,3.6,South,April
+C11755,Aisha Sheikh,Running Shoes,Footwear,1095.0,5,5475.0,4.2,North,February
+C11756,Faiz Joshi,Face Cream,Beauty,773.0,2,1546.0,3.7,Central,July
+C11757,Rohan Verma,Mixer Grinder,Home,5797.0,4,23188.0,3.4,Central,December
+C11758,Myra Joshi,Novel Book,Books,301.0,3,903.0,2.5,West,February
+C11759,,Backpack,Accessories,1860.0,5,9300.0,4.6,South,October
+C11760,Arjun Rao,Basmati Rice 5kg,Grocery,661.0,1,661.0,4.3,North,January
+C11761,Imran Rao,Sneakers,Footwear,6862.0,3,20586.0,4.1,East,July
+C11762,Karan Bose,Power Bank,Electronics,2534.0,4,10136.0,3.7,West,January
+C11763,Arjun Verma,Sneakers,Footwear,6519.0,2,13038.0,3.8,Central,July
+C11764,Arjun Mehta,Running Shoes,Footwear,2795.0,1,2795.0,4.6,South,November
+C11765,,Face Cream,Beauty,1089.0,3,3267.0,4.6,East,December
+C11766,Sai Pandey,Bedsheet,Home,1170.0,1,1170.0,3.4,Central,April
+C11767,Imran Mehta,Tablet,Electronics,,2,26886.0,3.5,Central,January
+C11768,Kavya Patel,Running Shoes,Footwear,1378.0,1,1378.0,4.7,South,June
+C11769,Riya Pandey,Power Bank,Electronics,2095.0,1,2095.0,3.1,West,September
+C11770,Zara Patel,T-Shirt,Clothing,952.0,3,2856.0,3.9,East,January
+C11771,Mohammed Bose,Smartphone,Electronics,24981.0,1,24981.0,4.6,East,June
+C11772,Imran Nair,,Electronics,48108.0,1,48108.0,3.0,East,December
+C11773,Sneha Kumar,Bluetooth Speaker,Electronics,3304.0,1,,,East,September
+C11774,Pari Khan,Laptop,Electronics,78608.0,3,235824.0,3.3,South,April
+C11775,Aisha Kumar,Mixer Grinder,Home,6082.0,2,12164.0,3.7,South,February
+C11776,Aanya Kumar,Tablet,Electronics,35547.0,3,106641.0,3.3,Central,June
+C11777,Sneha Joshi,Bedsheet,Home,735.0,2,1470.0,4.5,North,March
+C11778,Aishaan Pillai,Bluetooth Speaker,Electronics,8930.0,5,44650.0,4.2,South,June
+C11779,Sai Iyer,Cooking Oil 5L,Grocery,1197.0,4,4788.0,5.0,North,May
+C11780,Reyansh Pillai,Bedsheet,Home,1899.0,4,7596.0,3.5,Central,August
+C11781,Aanya Verma,Tablet,Electronics,32201.0,4,128804.0,3.5,South,June
+C11782,Rohan Patel,Shampoo,Beauty,750.0,1,,3.6,East,August
+C11783,Saanvi Pillai,Saree,Clothing,4450.0,2,8900.0,5.0,North,September
+C11784,Sneha Das,Shampoo,Beauty,335.0,5,1675.0,4.5,South,May
+C11785,Zara Chowdhury,Shampoo,Beauty,,2,1392.0,4.6,East,May
+C11786,Mohammed Das,Bedsheet,Home,472.0,1,472.0,4.1,North,April
+C11787,Sneha Reddy,Bluetooth Speaker,Electronics,7125.0,3,21375.0,5.0,,March
+C11788,Krishna Sheikh,Saree,Clothing,4437.0,3,13311.0,4.5,Central,January
+C11789,Aisha Iyer,Jeans,Clothing,1244.0,2,2488.0,3.8,West,July
+C11790,Arjun Mehta,Bedsheet,Home,1196.0,4,4784.0,4.8,West,March
+C11791,Riya Jha,Running Shoes,Footwear,4167.0,4,16668.0,5.0,South,January
+C11792,Ananya Sharma,Saree,Clothing,,1,5421.0,4.3,East,October
+C11793,Arjun Sheikh,Novel Book,Books,286.0,2,572.0,4.5,Central,December
+C11794,Reyansh Mehta,Cooking Oil 5L,Grocery,651.0,3,1953.0,5.0,South,November
+C11795,Krishna Patel,Bedsheet,Home,1894.0,1,1894.0,4.3,South,October
+C11796,Aishaan Chowdhury,T-Shirt,Clothing,239.0,2,478.0,3.5,North,May
+C11797,Zara Reddy,Laptop,Electronics,76697.0,1,76697.0,5.0,South,December
+C11798,Neha Gupta,Laptop,Electronics,37804.0,1,37804.0,2.9,Central,October
+C11799,Diya Iyer,Basmati Rice 5kg,Grocery,712.0,1,712.0,4.8,West,May
+C11800,Mohammed Rao,,Electronics,111353.0,1,111353.0,3.8,North,December
+C11801,Kavya Mehta,Wired Earphones,Electronics,2104.0,1,,4.4,East,November
+C11802,Mohammed Verma,Running Shoes,Footwear,2406.0,2,4812.0,3.7,West,November
+C11803,Ananya Jha,Power Bank,Electronics,1320.0,1,1320.0,2.7,Central,October
+C11804,Aanya Chowdhury,Basmati Rice 5kg,Grocery,828.0,5,4140.0,3.6,South,January
+C11805,Aarav Rao,Laptop,Electronics,68650.0,5,343250.0,3.7,East,May
+C11806,Fatima Bose,Sneakers,Footwear,8625.0,1,8625.0,3.9,West,October
+C11807,Aarav Joshi,Jeans,Clothing,869.0,2,1738.0,5.0,West,March
+C11808,Aarav Iyer,Cooking Oil 5L,Grocery,877.0,4,3508.0,4.0,North,May
+C11809,Arjun Rao,Cooking Oil 5L,Grocery,,3,2475.0,4.9,East,March
+C11810,Karan Patel,Face Cream,Beauty,475.0,1,475.0,3.7,East,March
+C11811,Faiz Kumar,Jeans,Clothing,3054.0,2,6108.0,3.9,West,October
+C11812,Rohan Gupta,Wired Earphones,Electronics,1162.0,2,2324.0,4.4,East,November
+C11813,Aishaan Jha,Face Cream,Beauty,852.0,5,4260.0,3.8,West,November
+C11814,Mohammed Khan,Sneakers,Footwear,1873.0,1,,,East,August
+C11815,Sai Nair,Jeans,Clothing,2411.0,5,12055.0,3.7,West,November
+C11816,Kavya Nair,Face Cream,Beauty,600.0,2,1200.0,4.0,West,May
+C11817,Ishaan Rao,Cooking Oil 5L,Grocery,1136.0,2,2272.0,,Central,May
+C11818,Mohammed Joshi,Cooking Oil 5L,Grocery,680.0,5,3400.0,5.0,West,
+C11819,Neha Rao,Novel Book,Books,345.0,1,345.0,3.4,North,August
+C11820,Diya Mehta,Jeans,Clothing,1337.0,2,,5.0,,March
+C11821,Ishaan Khan,Wrist Watch,Accessories,7581.0,2,15162.0,4.1,,February
+C11822,,Running Shoes,Footwear,3986.0,4,15944.0,2.9,West,June
+C11823,Aishaan Joshi,Tablet,Electronics,28226.0,3,84678.0,4.7,Central,September
+C11824,Rohan Singh,Tablet,Electronics,47930.0,2,95860.0,5.0,,April
+C11825,Kavya Kumar,,Home,1169.0,3,3507.0,5.0,South,January
+C11826,Sai Rao,Tablet,Electronics,52640.0,1,52640.0,,East,December
+C11827,Reyansh Verma,Bluetooth Speaker,Electronics,1015.0,1,1015.0,4.0,Central,November
+C11828,Mohammed Gupta,Running Shoes,Footwear,1102.0,3,3306.0,3.7,West,June
+C11829,Aarav Singh,,Electronics,1690.0,2,,,Central,June
+C11830,Reyansh Chowdhury,Wrist Watch,Accessories,7436.0,1,7436.0,3.3,North,August
+C11831,Meera Iyer,Shampoo,Beauty,606.0,1,606.0,4.1,East,June
+C11832,Aishaan Pandey,,Electronics,37346.0,1,37346.0,3.4,East,July
+C11833,Riya Reddy,Bedsheet,Home,873.0,5,4365.0,3.9,North,November
+C11834,Fatima Chowdhury,T-Shirt,Clothing,473.0,5,2365.0,4.3,East,April
+C11835,Riya Gupta,Sneakers,Footwear,7069.0,1,7069.0,3.0,East,November
+C11836,Aditya Das,Bluetooth Speaker,Electronics,8013.0,1,8013.0,4.7,East,October
+C11837,Meera Bose,Running Shoes,Footwear,6220.0,1,6220.0,4.3,South,December
+C11838,Tara Chowdhury,Sneakers,Footwear,7666.0,2,15332.0,,South,November
+C11839,Zara Khan,Saree,Clothing,5065.0,3,15195.0,3.4,Central,August
+C11840,Kavya Kumar,Mixer Grinder,Home,5913.0,1,5913.0,4.5,West,July
+C11841,Pari Pillai,Running Shoes,Footwear,6135.0,5,30675.0,,Central,December
+C11842,Aditya Pandey,Running Shoes,Footwear,3805.0,2,7610.0,3.4,South,April
+C11843,Diya Patel,Power Bank,Electronics,1033.0,1,1033.0,5.0,North,July
+C11844,Rohan Chowdhury,Saree,Clothing,5320.0,5,26600.0,4.4,South,
+C11845,Aisha Jha,T-Shirt,Clothing,1134.0,1,1134.0,4.8,East,August
+C11846,Aarav Jha,Saree,Clothing,543.0,1,543.0,3.1,East,October
+C11847,Faiz Bose,Wired Earphones,Electronics,945.0,2,1890.0,4.1,North,October
+C11848,Saanvi Iyer,Power Bank,Electronics,,3,5160.0,3.8,West,September
+C11849,Krishna Verma,Novel Book,Books,563.0,1,,3.9,Central,March
+C11850,,Laptop,Electronics,50118.0,3,,4.4,North,September
+C11851,Meera Pillai,Tablet,Electronics,28890.0,1,28890.0,3.0,Central,February
+C11852,Aisha Verma,Saree,Clothing,2447.0,1,2447.0,3.2,Central,
+C11853,Myra Khan,T-Shirt,Clothing,,2,2208.0,,,July
+C11854,Meera Pillai,Novel Book,Books,156.0,2,312.0,3.1,West,August
+C11855,Ananya Joshi,Running Shoes,Footwear,2482.0,5,12410.0,3.1,East,August
+C11856,Fatima Gupta,Backpack,Accessories,1387.0,2,2774.0,4.2,West,January
+C11857,,Bluetooth Speaker,Electronics,4792.0,2,9584.0,3.5,North,September
+C11858,Ishaan Iyer,Mixer Grinder,Home,5467.0,2,10934.0,2.2,Central,August
+C11859,Kavya Gupta,Tablet,Electronics,49663.0,4,198652.0,4.2,West,June
+C11860,Rohan Sheikh,Wrist Watch,Accessories,10688.0,5,53440.0,3.4,South,
+C11861,Reyansh Khan,Basmati Rice 5kg,Grocery,752.0,2,1504.0,3.9,South,September
+C11862,Meera Gupta,Shampoo,Beauty,626.0,3,1878.0,4.0,Central,June
+C11863,Aanya Reddy,T-Shirt,Clothing,958.0,3,2874.0,2.2,South,November
+C11864,Neha Khan,Saree,Clothing,3054.0,5,15270.0,5.0,West,January
+C11865,Aarav Pandey,T-Shirt,Clothing,1434.0,4,5736.0,4.1,South,January
+C11866,Vivaan Patel,Jeans,Clothing,2302.0,2,4604.0,5.0,South,January
+C11867,Myra Pandey,Power Bank,Electronics,1155.0,2,2310.0,5.0,South,February
+C11868,Ananya Khan,Power Bank,Electronics,1151.0,2,,4.8,East,June
+C11869,Zara Das,Shampoo,Beauty,722.0,2,1444.0,2.7,South,May
+C11870,Rohan Pandey,Laptop,Electronics,32436.0,3,97308.0,3.6,East,January
+C11871,Myra Iyer,Mixer Grinder,Home,,3,14463.0,3.5,North,July
+C11872,,Tablet,Electronics,36285.0,1,36285.0,3.5,West,December
+C11873,Meera Bose,,Home,373.0,2,746.0,3.2,South,October
+C11874,Sneha Iyer,Face Cream,Beauty,1437.0,4,5748.0,3.2,South,February
+C11875,Zara Rao,T-Shirt,Clothing,1273.0,1,1273.0,5.0,,October
+C11876,Aarav Singh,T-Shirt,Clothing,1221.0,1,1221.0,4.3,East,December
+C11877,Karan Chowdhury,Smartphone,Electronics,37427.0,2,74854.0,5.0,North,November
+C11878,Kavya Patel,Basmati Rice 5kg,Grocery,591.0,1,591.0,3.7,,June
+C11879,Saanvi Khan,Backpack,Accessories,2265.0,1,2265.0,,South,March
+C11880,Pari Pandey,Tablet,Electronics,34190.0,1,34190.0,3.4,East,June
+C11881,Zara Patel,Bluetooth Speaker,Electronics,3715.0,5,18575.0,3.9,Central,October
+C11882,Zara Jha,Laptop,Electronics,37145.0,5,185725.0,4.8,South,May
+C11883,Sai Singh,Backpack,Accessories,1027.0,2,2054.0,4.8,West,September
+C11884,Rohan Patel,Bluetooth Speaker,Electronics,7133.0,2,14266.0,4.0,North,May
+C11885,Sneha Reddy,Basmati Rice 5kg,Grocery,838.0,1,838.0,2.8,West,October
+C11886,Aishaan Rao,Saree,Clothing,4553.0,1,4553.0,2.1,East,November
+C11887,Aryan Kumar,Smartphone,Electronics,64967.0,2,129934.0,3.4,South,September
+C11888,Mohammed Patel,Saree,Clothing,2825.0,3,8475.0,3.9,Central,May
+C11889,Karan Iyer,Wired Earphones,Electronics,1536.0,1,1536.0,3.5,North,November
+C11890,Aditya Kumar,Bluetooth Speaker,Electronics,3959.0,1,,4.4,South,November
+C11891,Meera Iyer,Shampoo,Beauty,299.0,1,299.0,4.7,Central,March
+C11892,Aisha Sharma,Jeans,Clothing,652.0,1,652.0,4.5,North,August
+C11893,Meera Rao,Backpack,Accessories,642.0,4,2568.0,4.5,South,May
+C11894,Aishaan Jha,Wired Earphones,Electronics,1466.0,4,5864.0,4.3,North,August
+C11895,Ishaan Joshi,Face Cream,Beauty,485.0,1,485.0,2.4,Central,August
+C11896,Ananya Joshi,Basmati Rice 5kg,Grocery,916.0,2,1832.0,3.5,West,November
+C11897,Riya Patel,Wired Earphones,Electronics,385.0,3,1155.0,2.8,North,October
+C11898,Sai Gupta,Shampoo,Beauty,387.0,1,387.0,4.8,East,June
+C11899,Aarav Chowdhury,Shampoo,Beauty,578.0,1,578.0,4.6,South,June
+C11900,Aditya Singh,Bluetooth Speaker,Electronics,5554.0,4,22216.0,5.0,West,February
+C11901,Vivaan Reddy,Shampoo,Beauty,115.0,1,115.0,4.3,West,December
+C11902,Sneha Nair,Shampoo,Beauty,772.0,1,772.0,3.2,East,January
+C11903,Tara Chowdhury,Power Bank,Electronics,827.0,1,827.0,3.2,Central,February
+C11904,Imran Rao,Cooking Oil 5L,Grocery,770.0,1,770.0,4.0,East,
+C11905,Sneha Chowdhury,Smartphone,Electronics,62205.0,1,62205.0,4.8,Central,April
+C11906,Pari Patel,Novel Book,Books,518.0,1,518.0,3.2,West,January
+C11907,Saanvi Bose,Cooking Oil 5L,Grocery,714.0,2,1428.0,3.6,South,June
+C11908,Neha Sharma,Sneakers,Footwear,6145.0,5,30725.0,3.9,Central,June
+C11909,Krishna Patel,Mixer Grinder,Home,2994.0,2,5988.0,2.8,North,November
+C11910,Aishaan Chowdhury,Face Cream,Beauty,,2,2376.0,5.0,Central,October
+C11911,Fatima Nair,Running Shoes,Footwear,1987.0,3,,4.1,West,April
+C11912,Vivaan Pillai,Face Cream,Beauty,511.0,4,2044.0,5.0,East,February
+C11913,Diya Khan,Tablet,Electronics,40572.0,2,81144.0,3.9,North,March
+C11914,Fatima Pandey,Running Shoes,Footwear,3377.0,2,6754.0,4.4,South,June
+C11915,Arjun Bose,Cooking Oil 5L,Grocery,680.0,2,1360.0,4.7,North,July
+C11916,Kavya Kumar,Face Cream,Beauty,614.0,2,1228.0,4.9,East,April
+C11917,Aarav Bose,Jeans,Clothing,1380.0,1,1380.0,3.5,North,January
+C11918,Tara Kumar,Tablet,Electronics,38441.0,2,76882.0,3.8,Central,April
+C11919,Sai Rao,Saree,Clothing,1491.0,1,1491.0,4.3,North,November
+C11920,Aishaan Das,Laptop,Electronics,41684.0,1,,4.3,South,August
+C11921,Krishna Singh,Cooking Oil 5L,Grocery,1196.0,2,2392.0,5.0,West,November
+C11922,,Bluetooth Speaker,Electronics,3794.0,2,7588.0,3.9,North,December
+C11923,Imran Singh,Bedsheet,Home,1605.0,2,3210.0,3.6,Central,November
+C11924,Aishaan Joshi,Running Shoes,Footwear,3862.0,1,3862.0,4.1,South,September
+C11925,Aishaan Patel,Novel Book,Books,464.0,1,464.0,3.9,West,September
+C11926,Faiz Khan,T-Shirt,Clothing,738.0,2,1476.0,4.6,West,February
+C11927,Pari Sheikh,Cooking Oil 5L,Grocery,679.0,1,679.0,3.4,South,March
+C11928,,Saree,Clothing,3937.0,2,7874.0,3.8,East,October
+C11929,Kavya Mehta,T-Shirt,Clothing,1104.0,2,2208.0,4.1,North,March
+C11930,Aishaan Khan,Bluetooth Speaker,Electronics,3051.0,4,12204.0,5.0,East,April
+C11931,Kavya Patel,Mixer Grinder,Home,,2,8230.0,4.6,North,January
+C11932,Aisha Nair,Tablet,Electronics,9557.0,4,38228.0,,East,October
+C11933,Ishaan Mehta,Cooking Oil 5L,Grocery,670.0,2,1340.0,3.3,West,December
+C11934,Krishna Chowdhury,Smartphone,Electronics,62618.0,1,62618.0,,South,December
+C11935,Aanya Pillai,Saree,Clothing,5470.0,1,5470.0,2.6,Central,December
+C11936,Aishaan Khan,Saree,Clothing,5110.0,4,20440.0,3.3,Central,July
+C11937,Pari Iyer,Jeans,Clothing,1759.0,1,,4.0,North,September
+C11938,Imran Gupta,Jeans,Clothing,2936.0,3,8808.0,4.7,Central,
+C11939,Aryan Bose,Saree,Clothing,5508.0,5,27540.0,5.0,East,December
+C11940,Aditya Bose,Bedsheet,Home,1509.0,3,4527.0,4.4,Central,July
+C11941,Kavya Das,Wrist Watch,Accessories,9507.0,1,9507.0,2.9,North,August
+C11942,Saanvi Sharma,,Electronics,78453.0,3,235359.0,4.6,West,July
+C11943,Karan Gupta,Tablet,Electronics,22612.0,2,45224.0,4.3,West,August
+C11944,Aanya Jha,Bedsheet,Home,1661.0,1,1661.0,3.6,South,September
+C11945,Reyansh Sheikh,Sneakers,Footwear,1235.0,2,2470.0,4.2,North,March
+C11946,Pari Gupta,Face Cream,Beauty,902.0,1,902.0,4.2,North,June
+C11947,Meera Pillai,Novel Book,Books,241.0,2,482.0,3.9,North,June
+C11948,,Running Shoes,Footwear,4519.0,1,4519.0,3.6,West,January
+C11949,Zara Pillai,Basmati Rice 5kg,Grocery,610.0,5,3050.0,,Central,May
+C11950,Myra Mehta,Power Bank,Electronics,2313.0,2,,3.0,West,February
+C11951,Sai Pandey,Basmati Rice 5kg,Grocery,762.0,5,3810.0,4.5,,December
+C11952,Aditya Pillai,Smartphone,Electronics,14903.0,5,74515.0,5.0,North,July
+C11953,,Tablet,Electronics,43463.0,1,43463.0,3.6,West,August
+C11954,Karan Sharma,Novel Book,Books,192.0,2,384.0,3.4,South,December
+C11955,Ananya Patel,Bedsheet,Home,1047.0,4,4188.0,3.1,South,March
+C11956,Arjun Kumar,Basmati Rice 5kg,Grocery,562.0,1,562.0,3.6,South,October
+C11957,Reyansh Singh,T-Shirt,Clothing,1228.0,1,1228.0,3.2,Central,February
+C11958,Aryan Khan,Power Bank,Electronics,2808.0,1,2808.0,,West,May
+C11959,Aditya Mehta,Shampoo,Beauty,518.0,1,518.0,5.0,Central,May
+C11960,Aditya Reddy,Bedsheet,Home,412.0,1,412.0,,South,March
+C11961,Diya Nair,Laptop,Electronics,103866.0,4,415464.0,4.4,East,April
+C11962,Aanya Bose,Novel Book,Books,514.0,3,1542.0,2.5,North,March
+C11963,Pari Rao,Power Bank,Electronics,1912.0,2,3824.0,,West,January
+C11964,Ishaan Patel,Power Bank,Electronics,941.0,1,941.0,3.9,West,February
+C11965,Mohammed Sharma,T-Shirt,Clothing,1387.0,1,1387.0,4.5,East,March
+C11966,Riya Rao,Cooking Oil 5L,Grocery,474.0,1,474.0,3.6,North,November
+C11967,Arjun Gupta,Bluetooth Speaker,Electronics,5701.0,3,17103.0,3.9,East,February
+C11968,Zara Joshi,Wrist Watch,Accessories,8306.0,5,41530.0,,South,November
+C11969,Fatima Pandey,Running Shoes,Footwear,6597.0,2,,3.6,South,November
+C11970,Arjun Kumar,Tablet,Electronics,50962.0,4,,2.9,North,January
+C11971,Fatima Iyer,Laptop,Electronics,110035.0,1,110035.0,4.3,South,December
+C11972,Aryan Reddy,,Home,6414.0,1,6414.0,4.4,Central,January
+C11973,Neha Iyer,Face Cream,Beauty,164.0,3,492.0,4.3,,August
+C11974,Reyansh Nair,Wrist Watch,Accessories,8240.0,5,41200.0,3.8,East,April
+C11975,Arjun Joshi,Tablet,Electronics,49704.0,1,49704.0,3.9,Central,July
+C11976,Arjun Pillai,T-Shirt,Clothing,864.0,2,1728.0,1.8,South,March
+C11977,Aarav Singh,Power Bank,Electronics,,1,2109.0,3.1,West,July
+C11978,Vivaan Chowdhury,Bedsheet,Home,689.0,4,2756.0,2.7,West,April
+C11979,Meera Khan,Laptop,Electronics,110486.0,4,441944.0,3.8,East,May
+C11980,Vivaan Patel,Jeans,Clothing,1479.0,3,4437.0,4.1,South,November
+C11981,Aanya Joshi,,Clothing,811.0,1,811.0,3.1,,October
+C11982,Vivaan Iyer,,Electronics,34619.0,4,138476.0,4.8,North,February
+C11983,Sai Patel,Novel Book,Books,565.0,1,,4.6,West,December
+C11984,Aanya Nair,Face Cream,Beauty,1292.0,3,3876.0,3.9,North,January
+C11985,Myra Kumar,Power Bank,Electronics,1305.0,1,1305.0,4.4,West,July
+C11986,Aanya Jha,Laptop,Electronics,71434.0,4,285736.0,5.0,West,July
+C11987,Vivaan Pillai,Sneakers,Footwear,6368.0,1,6368.0,3.2,North,January
+C11988,,Shampoo,Beauty,,4,496.0,4.1,South,July
+C11989,Sneha Reddy,Power Bank,Electronics,806.0,3,2418.0,3.8,East,May
+C11990,Aarav Singh,Running Shoes,Footwear,765.0,1,765.0,4.4,East,August
+C11991,Aarav Patel,Laptop,Electronics,105444.0,3,316332.0,3.8,North,December
+C11992,Aisha Sheikh,Saree,Clothing,,5,8015.0,3.4,West,December
+C11993,,Bluetooth Speaker,Electronics,5925.0,5,29625.0,5.0,West,August
+C11994,Aanya Patel,Saree,Clothing,674.0,3,2022.0,3.5,West,February
+C11995,Tara Singh,Novel Book,Books,364.0,1,364.0,3.8,Central,June
+C11996,Aditya Patel,Tablet,Electronics,,5,57215.0,2.7,East,January
+C11997,Ishaan Rao,Sneakers,Footwear,7653.0,2,15306.0,4.2,Central,July
+C11998,Zara Kumar,Bedsheet,Home,1105.0,5,5525.0,3.6,North,April
+C11999,Ishaan Gupta,Basmati Rice 5kg,Grocery,556.0,5,2780.0,4.0,North,February

@@ -1,0 +1,101 @@
+Brand,Model,Year,Age_Years,Fuel_Type,Transmission,Engine_CC,Kilometers_Driven,Owner_Type,Mileage_kmpl,Seats,Safety_Rating,Price_Lakh
+Hyundai,Creta,2021,3,Petrol,Automatic,1462,64757,First,21.8,5,2.5,9
+Honda,City,2015,9,Petrol,Manual,998,182014,First,21.2,7,3.4,2
+Nissan,Magnite,2017,7,Electric,Manual,0,115619,First,250.5,6,4.8,1
+Mahindra,Scorpio-N,2016,8,Diesel,Manual,998,117605,First,15.3,5,2.3,4
+Tata,Altroz,2023,1,Petrol,Manual,998,58118,First,14.4,5,4.6,7
+Hyundai,Venue,2024,0,Diesel,Manual,1956,91188,First,17.8,5,3.6,10
+Nissan,Magnite,2020,4,Petrol,Manual,1497,46460,First,14.4,5,4.5,4
+Honda,Amaze,2024,0,Electric,Manual,0,145507,First,271.3,6,2.9,8
+Hyundai,Creta,2017,7,CNG,Automatic,998,89909,First,22.3,6,4.5,2
+Volkswagen,Taigun,2022,2,Diesel,Manual,1956,150955,First,16.8,5,4.3,10
+Kia,Carens,2022,2,Petrol,Automatic,1498,49451,Second,17.8,5,2.7,11
+Toyota,Urban Cruiser,2016,8,Diesel,Manual,1462,200000,First,21.2,5,2.4,2
+Tata,Altroz,2020,4,Electric,Automatic,0,70782,First,448.2,5,4.6,5
+Tata,Altroz,2021,3,Diesel,Automatic,998,96041,Third,19.5,5,4.9,4
+Toyota,Fortuner,2016,8,Petrol,Manual,1497,128818,First,15.5,6,2.1,9
+Honda,Amaze,2024,0,Petrol,Manual,1497,85219,Second,14.9,5,4.2,8
+Maruti Suzuki,Dzire,2016,8,Petrol,Automatic,1498,146437,First,17.4,5,4.7,1
+Hyundai,Venue,2024,0,Petrol,Automatic,998,71040,Second,20.4,7,4.6,9
+Toyota,Fortuner,2015,9,Petrol,Manual,1462,143167,First,20.0,5,4.9,9
+Maruti Suzuki,Brezza,2022,2,Petrol,Manual,1497,58492,Second,14.4,5,4.3,6
+Toyota,Innova Crysta,2015,9,Petrol,Automatic,998,85832,First,17.6,5,3.3,6
+Honda,Amaze,2023,1,Petrol,Automatic,2184,122198,First,18.2,5,2.9,7
+Maruti Suzuki,Baleno,2020,4,Petrol,Manual,1497,142901,First,19.2,5,3.0,3
+Toyota,Fortuner,2021,3,Diesel,Manual,1956,69484,First,20.2,5,4.2,33
+Tata,Harrier,2024,0,Diesel,Automatic,2184,134695,Second,18.4,5,4.2,13
+Renault,Kiger,2021,3,Diesel,Manual,2982,79901,Second,16.1,7,2.6,4
+Hyundai,i20,2024,0,Electric,Manual,0,133148,First,431.6,5,4.6,7
+Maruti Suzuki,Baleno,2017,7,Diesel,Automatic,1462,115866,Second,20.5,6,4.1,1
+Skoda,Kushaq,2016,8,Electric,Automatic,0,177260,First,367.7,7,3.7,3
+Honda,Amaze,2023,1,CNG,Automatic,1197,38276,First,23.1,5,3.4,9
+Maruti Suzuki,Swift,2022,2,Petrol,Manual,2982,115800,First,17.2,6,3.6,4
+Tata,Harrier,2024,0,Petrol,Manual,1498,18843,Second,18.6,5,2.5,13
+Volkswagen,Taigun,2021,3,Petrol,Automatic,1498,144187,First,20.4,7,2.6,8
+Toyota,Innova Crysta,2023,1,Diesel,Manual,1462,82978,First,15.5,5,2.3,27
+Nissan,Magnite,2018,6,Diesel,Manual,1497,94616,Second,18.2,5,2.5,2
+Tata,Harrier,2018,6,Diesel,Automatic,998,115566,First,19.0,5,3.4,5
+Volkswagen,Virtus,2015,9,Petrol,Manual,1497,129183,First,18.2,6,3.6,3
+Kia,Seltos,2022,2,Diesel,Manual,1462,81400,First,15.9,5,2.1,11
+Skoda,Slavia,2017,7,Petrol,Automatic,1498,198776,First,21.0,5,4.4,2
+Skoda,Slavia,2021,3,Electric,Automatic,0,154920,First,356.4,6,2.9,9
+Renault,Triber,2016,8,CNG,Manual,1462,200000,First,21.8,5,4.7,1
+Tata,Nexon,2016,8,Diesel,Automatic,2184,187995,First,20.9,5,4.9,2
+Skoda,Kushaq,2021,3,Petrol,Manual,2982,140480,First,14.0,5,2.6,9
+Skoda,Kushaq,2020,4,Petrol,Manual,998,200000,First,15.5,5,3.4,6
+Mahindra,Thar,2017,7,Petrol,Automatic,2184,100037,Second,17.1,5,2.0,3
+Mahindra,Scorpio-N,2023,1,Diesel,Automatic,1498,32778,First,19.6,7,3.8,20
+Renault,Kiger,2024,0,Petrol,Automatic,1498,130899,First,14.6,5,3.8,6
+Renault,Kiger,2020,4,Petrol,Manual,1197,79551,First,14.1,5,2.7,3
+Mahindra,Scorpio-N,2024,0,Petrol,Automatic,1197,71203,First,14.4,5,3.7,22
+Renault,Kiger,2024,0,CNG,Automatic,998,124156,First,23.8,6,2.7,6
+Kia,Carens,2020,4,Petrol,Automatic,1956,52885,Second,14.3,7,2.5,8
+Tata,Harrier,2015,9,Diesel,Automatic,2184,140113,First,22.7,5,4.0,3
+Toyota,Urban Cruiser,2018,6,Diesel,Automatic,1197,115591,First,16.5,6,3.0,4
+Honda,City,2024,0,Petrol,Manual,1498,107023,First,16.2,5,3.8,14
+Volkswagen,Virtus,2020,4,Diesel,Manual,1462,118385,First,21.2,6,3.3,7
+Maruti Suzuki,Brezza,2020,4,Petrol,Automatic,2184,150355,Second,14.7,5,5.0,4
+Maruti Suzuki,Wagon R,2019,5,Petrol,Automatic,1498,98522,First,16.7,7,2.4,2
+Kia,Carens,2015,9,Electric,Manual,0,178249,First,290.9,5,3.4,2
+Hyundai,Creta,2022,2,Diesel,Manual,1462,32489,First,22.3,5,4.0,11
+Honda,Amaze,2019,5,Diesel,Manual,1197,67519,First,20.8,5,3.2,4
+Hyundai,Verna,2019,5,CNG,Manual,1462,179035,Second,23.3,5,4.9,3
+Hyundai,Creta,2021,3,Diesel,Automatic,1497,134112,First,22.6,5,4.2,8
+Kia,Sonet,2018,6,Petrol,Manual,998,135226,Second,20.8,5,4.0,2
+Maruti Suzuki,Dzire,2020,4,Petrol,Manual,1197,104168,First,19.7,5,4.3,3
+Volkswagen,Virtus,2018,6,Petrol,Manual,1197,117027,Second,18.7,5,4.9,3
+Skoda,Kushaq,2017,7,Petrol,Manual,1497,192594,First,16.2,5,4.7,2
+Mahindra,XUV700,2021,3,Petrol,Manual,998,119551,First,21.3,5,4.2,13
+Kia,Sonet,2022,2,CNG,Automatic,1197,51132,First,29.8,5,4.2,8
+Volkswagen,Taigun,2018,6,Petrol,Automatic,1956,195016,Third,14.9,6,2.4,2
+Hyundai,Verna,2016,8,Petrol,Manual,2184,193556,Second,17.1,5,2.3,1
+Volkswagen,Taigun,2024,0,Petrol,Manual,1956,141785,First,15.0,5,3.7,13
+Honda,Amaze,2017,7,Electric,Manual,0,139956,Second,252.4,5,2.1,1
+Maruti Suzuki,Baleno,2015,9,Petrol,Manual,2982,106247,First,20.4,5,3.4,1
+Honda,City,2022,2,Diesel,Manual,1197,81650,Third,20.0,6,2.6,9
+Skoda,Kushaq,2017,7,Petrol,Manual,998,200000,First,18.7,5,3.0,2
+Mahindra,Scorpio-N,2024,0,Petrol,Automatic,1197,63141,Second,21.9,5,4.3,19
+Skoda,Kushaq,2021,3,Petrol,Manual,1462,94840,Second,21.1,5,4.8,9
+Hyundai,Creta,2024,0,Petrol,Automatic,1197,6015,Second,18.8,5,2.2,11
+Tata,Harrier,2019,5,Petrol,Manual,1197,130248,First,21.2,5,3.6,5
+Nissan,Magnite,2024,0,Petrol,Manual,1498,32712,First,21.9,5,4.6,7
+Hyundai,Venue,2019,5,Diesel,Manual,1498,180052,Second,18.7,7,2.2,3
+Mahindra,Scorpio-N,2021,3,Petrol,Automatic,1498,184903,First,14.5,5,4.5,11
+Maruti Suzuki,Brezza,2023,1,Petrol,Automatic,1956,124703,Third,17.2,5,3.1,5
+Mahindra,XUV700,2019,5,Petrol,Manual,1462,175108,Second,20.7,5,3.0,6
+Kia,Seltos,2015,9,Petrol,Manual,2982,118286,First,15.8,5,4.9,3
+Maruti Suzuki,Dzire,2024,0,Diesel,Manual,2982,28833,Second,15.0,5,2.6,6
+Kia,Sonet,2024,0,Petrol,Automatic,1498,140230,First,15.0,5,4.1,10
+Hyundai,Venue,2015,9,Petrol,Manual,998,131302,Second,14.4,6,4.5,1
+Maruti Suzuki,Dzire,2016,8,Petrol,Automatic,1956,112530,Second,17.1,7,2.1,1
+Maruti Suzuki,Baleno,2020,4,Petrol,Manual,1497,129298,First,14.3,5,4.0,3
+Renault,Kiger,2023,1,Diesel,Manual,998,61664,First,21.3,5,4.9,7
+Hyundai,i20,2022,2,Diesel,Automatic,2184,44187,Second,20.5,5,2.4,6
+Toyota,Innova Crysta,2019,5,Petrol,Automatic,2184,129765,First,20.4,5,4.7,11
+Tata,Nexon,2015,9,Electric,Automatic,0,190670,First,380.3,5,3.8,2
+Maruti Suzuki,Dzire,2021,3,Petrol,Manual,1498,48733,First,15.7,5,3.8,4
+Toyota,Innova Crysta,2019,5,Electric,Manual,0,196361,First,324.9,6,3.8,9
+Nissan,Magnite,2020,4,Petrol,Manual,1497,50908,First,18.8,5,2.9,4
+Renault,Triber,2021,3,Petrol,Automatic,1956,34332,First,18.2,6,4.8,5
+Kia,Sonet,2017,7,Petrol,Manual,1497,154893,First,16.1,5,4.8,2
+Volkswagen,Taigun,2024,0,Diesel,Manual,2184,145932,First,20.1,5,3.9,14

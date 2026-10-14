@@ -1,0 +1,5 @@
+EDA Focus Area,What to Look For,Real-World Context / Storyline
+Structural Shift Analysis,"Compare percentage contribution of Primary (Agriculture), Secondary (Manufacturing), and Tertiary (Services) over time.","Highlight how India skipped the traditional ""industrial-heavy"" transition phase and leaped directly from an agrarian economy to a Services-driven economy."
+Volatility & Resilience,"Standard deviation of growth rates across sectors during macro events (e.g., 2008 crisis, 2020 shock).","Show which sectors acted as stabilizers (e.g., Agriculture/IT) vs. which were high-risk/high-volatility (e.g., Real Estate, Manufacturing)."
+Outlier Detection,Sudden spikes or drops in specific sector GVA (Gross Value Added).,Explain how external shocks or policy shifts impacted specific sector outputs.
+Correlation Matrix,"Heatmap showing how growth in one sector impacts another (e.g., Construction ↔ Manufacturing).",Demonstrates inter-sectoral dependencies in macroeconomic data.

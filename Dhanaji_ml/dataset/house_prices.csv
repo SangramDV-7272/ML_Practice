@@ -1,0 +1,1201 @@
+city,locality,property_type,furnishing_status,facing,area_sqft,bedrooms,bathrooms,balconies,floor_number,total_floors,parking_spots,age_years,distance_to_city_center_km,distance_to_metro_km,distance_to_school_km,price_lakh
+Chennai,Prime,Apartment,Semi-Furnished,East,1113,2,1,2,6,7,2,1,3.5,1.3,3.0,204.36
+Hyderabad,Suburban,Apartment,Furnished,North-East,1109,3,3,1,0,2,0,6,5.6,2.5,0.4,135.32
+Lucknow,Central,Independent House,Semi-Furnished,South-East,1169,3,2,2,0,4,0,13,11.9,1.2,2.8,68.45
+Hyderabad,Suburban,Apartment,Unfurnished,South,593,1,1,1,5,11,2,2,9.1,2.2,0.8,73.23
+Bengaluru,Suburban,Villa,Semi-Furnished,North,3082,6,5,3,6,11,1,4,3.1,1.6,2.1,586.09
+Pune,Central,Apartment,Unfurnished,South-West,705,2,1,0,11,15,0,6,6.2,2.2,2.8,82.76
+Jaipur,Suburban,Apartment,Semi-Furnished,North-East,906,3,2,0,2,4,0,9,6.3,2.9,0.9,53.37
+Chennai,Prime,Apartment,Unfurnished,North-East,1194,3,2,2,0,1,2,31,1.7,3.4,1.9,118.58
+Delhi,Outskirts,Apartment,Unfurnished,South-East,688,1,1,0,5,11,1,22,1.6,1.1,1.0,84.62
+Bengaluru,Suburban,Apartment,Unfurnished,South,1313,3,3,2,4,12,2,1,0.2,2.9,4.5,212.87
+Mumbai,Suburban,Apartment,Unfurnished,West,966,3,3,3,11,18,2,1,6.3,2.8,3.2,260.41
+Mumbai,Central,Builder Floor,Semi-Furnished,North-West,786,1,1,1,2,6,1,3,6.3,6.5,1.4,230.61
+Hyderabad,Prime,Villa,Semi-Furnished,South-West,3583,6,5,1,7,15,1,11,12.2,4.9,1.0,623.93
+Mumbai,Central,Builder Floor,Semi-Furnished,South,1189,2,1,1,4,7,1,1,4.7,1.2,0.9,381.78
+Mumbai,Outskirts,Independent House,Unfurnished,South-East,2032,5,5,2,10,16,1,5,8.1,6.7,2.0,378.82
+Hyderabad,Central,Apartment,Semi-Furnished,South-East,647,1,1,1,2,3,0,4,4.2,0.4,4.8,85.63
+Chennai,Suburban,Builder Floor,Semi-Furnished,South,1258,2,1,1,7,17,0,13,11.7,2.0,2.3,103.43
+Hyderabad,Central,Villa,Unfurnished,North-East,2378,5,4,2,10,20,0,8,5.1,2.5,0.5,355.06
+Jaipur,Central,Apartment,Semi-Furnished,North-West,1137,2,2,1,18,18,1,2,1.2,2.1,0.6,105.61
+Jaipur,Outskirts,Independent House,Semi-Furnished,East,1991,4,3,3,2,4,1,8,3.3,7.0,1.1,103.01
+Hyderabad,Suburban,Apartment,Semi-Furnished,North-West,300,2,1,2,9,9,2,7,2.8,1.0,1.3,41.42
+Mumbai,Central,Apartment,Unfurnished,North,903,3,2,0,1,4,2,14,6.4,3.1,0.7,245.9
+Delhi,Suburban,Apartment,Unfurnished,North-West,873,3,3,2,14,14,0,6,5.5,1.4,5.3,159.08
+Delhi,Outskirts,Apartment,Semi-Furnished,South-West,1436,2,2,3,8,10,2,5,1.0,3.8,0.1,244.4
+Mumbai,Suburban,Apartment,Semi-Furnished,West,1235,1,1,3,6,8,2,7,19.2,2.7,0.0,266.78
+Mumbai,Prime,Villa,Unfurnished,South,3785,6,5,1,7,11,2,6,5.7,5.9,1.4,1898.05
+Lucknow,Prime,Apartment,Semi-Furnished,South,1398,4,4,3,0,6,0,11,2.5,2.3,3.0,106.77
+Hyderabad,Central,Independent House,Unfurnished,North-West,1281,3,3,2,12,14,1,5,3.1,3.6,1.1,197.5
+Kolkata,Suburban,Independent House,Unfurnished,East,2531,4,3,4,5,18,2,4,6.8,2.2,2.2,231.37
+Bengaluru,Suburban,Apartment,Furnished,North-East,1271,2,1,0,5,13,1,2,5.0,3.5,2.0,224.38
+Bengaluru,Prime,Apartment,Semi-Furnished,South-West,1387,2,2,0,9,16,1,32,9.6,0.4,1.2,174.57
+Hyderabad,Prime,Independent House,Unfurnished,North,2485,6,5,3,12,16,0,10,9.9,0.5,1.3,388.92
+Hyderabad,Suburban,Apartment,Semi-Furnished,South-East,896,2,2,1,8,9,2,10,3.4,3.0,1.8,102.19
+Delhi,Central,Apartment,Semi-Furnished,West,1477,2,2,2,8,15,0,4,4.3,5.3,0.7,356.56
+Ahmedabad,Outskirts,Independent House,Semi-Furnished,North,2249,4,4,1,1,1,1,2,11.2,0.9,0.2,144.18
+Kolkata,Central,Builder Floor,Semi-Furnished,South-East,1463,4,3,1,0,5,1,7,3.0,0.1,1.2,150.31
+Bengaluru,Suburban,Apartment,Furnished,East,1206,2,1,3,0,2,2,19,15.1,2.6,2.3,133.81
+Mumbai,Prime,Apartment,Unfurnished,South-West,769,1,1,3,4,5,0,1,2.8,1.1,0.8,287.31
+Mumbai,Suburban,Builder Floor,Unfurnished,South-West,1227,3,3,1,0,11,0,17,0.9,0.7,1.4,246.9
+Delhi,Prime,Apartment,Semi-Furnished,South-West,1056,1,1,0,1,3,0,12,7.9,5.2,1.2,216.6
+Ahmedabad,Outskirts,Apartment,Unfurnished,North,1107,2,1,2,12,17,1,1,2.5,1.1,1.8,76.98
+Bengaluru,Suburban,Builder Floor,Semi-Furnished,North-West,1524,2,1,2,4,6,1,0,1.6,0.9,1.3,270.45
+Chennai,Suburban,Apartment,Unfurnished,North-East,1174,1,1,1,2,8,1,2,4.2,1.7,2.7,137.65
+Kolkata,Central,Villa,Unfurnished,West,3979,6,5,1,5,8,1,6,9.1,1.2,3.3,415.94
+Chennai,Central,Apartment,Unfurnished,West,840,1,1,2,1,2,2,14,11.2,0.8,1.0,86.56
+Pune,Central,Apartment,Unfurnished,West,960,3,2,2,6,13,0,8,6.3,0.5,0.5,96.35
+Mumbai,Prime,Apartment,Semi-Furnished,East,1170,3,2,0,4,18,0,12,3.9,8.9,2.9,337.6
+Ahmedabad,Prime,Apartment,Semi-Furnished,North-East,983,3,2,3,1,1,2,1,5.9,2.4,4.1,119.28
+Delhi,Suburban,Apartment,Unfurnished,North-East,1139,1,1,2,10,20,2,45,6.8,4.8,0.7,111.14
+Lucknow,Central,Independent House,Unfurnished,North-East,2531,4,3,3,6,15,1,16,3.8,1.9,0.9,177.15
+Hyderabad,Outskirts,Apartment,Unfurnished,North,1164,3,3,1,13,17,0,0,16.8,1.2,1.9,95.36
+Delhi,Suburban,Builder Floor,Semi-Furnished,South,1563,3,2,1,9,12,0,6,4.2,0.6,0.4,349.29
+Pune,Prime,Apartment,Semi-Furnished,South,1018,3,2,3,7,12,0,13,7.2,0.7,1.4,126.36
+Delhi,Prime,Villa,Unfurnished,North-East,1440,2,1,3,4,17,2,0,3.0,1.0,1.4,595.1
+Mumbai,Suburban,Apartment,Unfurnished,West,1021,1,1,3,1,7,0,15,0.7,2.5,3.1,208.51
+Lucknow,Prime,Builder Floor,Semi-Furnished,South-East,1522,3,2,2,4,16,2,12,3.1,0.3,3.1,135.1
+Chennai,Prime,Independent House,Unfurnished,West,861,2,2,1,1,1,0,13,13.7,0.7,0.4,102.0
+Ahmedabad,Central,Independent House,Unfurnished,South-West,1770,4,3,1,4,9,0,17,8.8,0.6,2.8,129.69
+Ahmedabad,Prime,Villa,Unfurnished,North-West,1988,3,3,1,10,12,0,6,6.6,2.3,1.0,252.5
+Mumbai,Central,Apartment,Unfurnished,North,475,1,1,0,3,3,0,6,11.6,0.5,1.4,107.94
+Delhi,Suburban,Apartment,Semi-Furnished,South,1082,3,3,2,2,12,0,6,9.4,1.1,1.1,198.72
+Hyderabad,Central,Builder Floor,Unfurnished,North-West,1567,2,1,3,2,9,1,11,5.4,3.9,1.5,202.89
+Hyderabad,Prime,Builder Floor,Semi-Furnished,South-West,1813,3,3,3,1,8,0,17,6.8,0.6,2.2,219.29
+Chennai,Suburban,Builder Floor,Unfurnished,West,964,1,1,2,8,11,2,3,1.1,8.5,0.4,100.06
+Delhi,Central,Builder Floor,Semi-Furnished,West,1297,1,1,3,11,19,1,1,2.5,4.0,2.8,384.33
+Mumbai,Suburban,Apartment,Unfurnished,North-East,1383,4,3,1,0,6,2,6,10.9,4.6,4.8,300.72
+Hyderabad,Outskirts,Builder Floor,Unfurnished,North-West,1409,3,3,3,16,17,1,22,3.7,3.6,1.0,104.39
+Chennai,Prime,Independent House,Unfurnished,South-East,1524,2,2,3,5,5,0,8,5.9,3.1,3.9,203.51
+Chennai,Prime,Independent House,Unfurnished,South,1080,2,2,3,5,11,0,16,1.3,1.4,4.6,137.53
+Bengaluru,Outskirts,Apartment,Furnished,East,1439,2,2,3,6,8,2,3,1.0,2.4,0.3,221.42
+Bengaluru,Prime,Apartment,Semi-Furnished,North-West,824,2,2,2,3,11,1,3,4.1,0.2,1.6,200.39
+Jaipur,Central,Apartment,Unfurnished,North-East,1298,1,1,3,1,2,2,7,3.0,0.3,2.3,91.23
+Chennai,Central,Apartment,Unfurnished,South,1853,3,3,4,4,6,2,6,3.9,2.1,2.5,213.43
+Pune,Central,Apartment,Furnished,South,1153,1,1,0,3,20,1,1,2.4,2.3,2.1,165.57
+Mumbai,Prime,Villa,Semi-Furnished,North-East,2642,5,5,2,2,4,0,28,5.7,3.1,1.1,754.61
+Chennai,Central,Apartment,Semi-Furnished,South-West,736,1,1,0,3,6,2,2,4.6,1.0,1.6,106.71
+Delhi,Central,Villa,Semi-Furnished,North-West,1433,2,2,0,8,20,1,8,3.9,1.7,4.6,385.7
+Jaipur,Central,Villa,Unfurnished,North-East,3008,4,3,1,2,3,2,8,1.3,3.0,4.3,298.86
+Delhi,Outskirts,Independent House,Semi-Furnished,South,1536,3,2,2,3,19,2,5,3.7,2.1,1.2,274.52
+Mumbai,Prime,Villa,Semi-Furnished,West,2969,5,4,2,1,2,1,30,5.1,2.1,2.2,926.45
+Delhi,Central,Apartment,Unfurnished,West,796,1,1,2,0,7,2,9,6.2,0.8,0.3,176.59
+Jaipur,Central,Builder Floor,Unfurnished,South,849,1,1,2,1,10,0,25,6.5,0.1,0.7,42.08
+Chennai,Outskirts,Independent House,Semi-Furnished,North,1643,4,3,4,7,12,2,13,11.7,1.0,1.5,135.17
+Pune,Central,Apartment,Semi-Furnished,West,1341,3,3,3,5,16,1,5,1.6,2.8,5.1,170.79
+Ahmedabad,Prime,Independent House,Unfurnished,South-East,2065,5,4,3,2,16,2,21,21.0,5.2,1.0,148.39
+Kolkata,Prime,Independent House,Unfurnished,North-East,2802,4,3,1,2,12,2,1,11.0,3.8,2.7,335.0
+Mumbai,Suburban,Builder Floor,Unfurnished,South-East,427,1,1,3,1,4,1,10,2.1,5.5,0.4,93.09
+Hyderabad,Suburban,Independent House,Unfurnished,North-East,2643,5,5,4,13,17,1,20,7.9,4.4,1.3,229.77
+Jaipur,Central,Apartment,Semi-Furnished,West,1152,2,1,1,8,11,1,13,11.2,1.0,1.2,75.76
+Hyderabad,Prime,Apartment,Furnished,North-West,1020,3,3,0,0,11,2,5,9.6,1.4,0.9,188.47
+Hyderabad,Outskirts,Independent House,Semi-Furnished,East,2421,4,4,1,3,8,1,13,13.8,0.6,0.5,231.15
+Bengaluru,Central,Studio,Unfurnished,West,657,1,1,3,0,1,1,5,5.3,0.9,0.8,99.24
+Mumbai,Central,Apartment,Unfurnished,South-East,959,3,2,3,2,4,1,0,3.1,1.3,0.8,299.12
+Bengaluru,Prime,Apartment,Furnished,West,1457,2,2,2,2,5,0,1,2.6,3.5,0.3,309.33
+Hyderabad,Outskirts,Studio,Unfurnished,North,516,1,1,2,6,12,1,7,1.0,0.4,1.0,39.99
+Mumbai,Outskirts,Independent House,Semi-Furnished,East,1516,3,3,2,4,4,2,3,6.4,2.2,2.9,406.69
+Ahmedabad,Outskirts,Apartment,Unfurnished,North-West,1881,4,4,1,4,4,0,8,5.5,3.7,3.3,102.61
+Delhi,Outskirts,Apartment,Unfurnished,North-West,1017,3,2,1,0,13,1,17,7.2,4.6,1.4,123.54
+Hyderabad,Suburban,Apartment,Semi-Furnished,North-West,808,2,2,1,1,15,1,9,3.9,1.7,3.7,90.02
+Ahmedabad,Suburban,Villa,Unfurnished,West,3253,6,5,1,1,9,2,10,3.1,1.2,1.8,323.85
+Pune,Central,Apartment,Unfurnished,West,1693,3,3,4,14,16,2,17,6.8,0.4,0.7,208.68
+Delhi,Central,Apartment,Semi-Furnished,South-East,1014,1,1,0,1,7,1,15,1.7,7.6,1.8,242.14
+Kolkata,Central,Builder Floor,Semi-Furnished,North-East,1841,2,1,1,10,13,0,0,0.9,1.7,2.1,191.95
+Mumbai,Prime,Apartment,Unfurnished,South-East,637,2,2,3,5,16,0,23,8.6,3.1,1.4,150.85
+Delhi,Prime,Apartment,Unfurnished,East,1605,4,3,2,3,6,2,3,6.9,0.3,1.7,484.02
+Mumbai,Prime,Apartment,Unfurnished,West,1194,2,2,2,3,5,1,3,7.0,5.4,2.2,380.67
+Mumbai,Central,Builder Floor,Unfurnished,South-East,1135,2,1,3,1,5,1,18,4.6,12.3,0.4,281.47
+Pune,Suburban,Apartment,Semi-Furnished,South-East,1247,1,1,1,10,20,1,23,4.0,2.4,2.4,100.79
+Jaipur,Suburban,Villa,Semi-Furnished,South,2614,5,5,2,13,15,1,3,5.8,0.9,1.3,236.5
+Ahmedabad,Prime,Builder Floor,Semi-Furnished,South-West,1198,2,2,2,9,11,2,1,18.0,5.3,1.1,123.17
+Hyderabad,Central,Apartment,Unfurnished,North-West,1124,2,1,2,4,20,0,9,6.6,1.4,0.7,121.49
+Hyderabad,Suburban,Builder Floor,Unfurnished,East,1848,3,2,1,2,15,0,12,5.2,0.5,1.0,188.92
+Jaipur,Prime,Villa,Unfurnished,North,2462,5,4,1,3,13,0,2,11.5,8.5,0.4,222.07
+Chennai,Central,Apartment,Furnished,North-West,1853,4,3,2,0,1,2,3,5.8,0.5,1.1,245.9
+Bengaluru,Prime,Apartment,Furnished,East,758,1,1,1,1,10,1,2,2.4,0.8,2.0,172.52
+Pune,Central,Apartment,Semi-Furnished,South-East,1154,1,1,2,11,18,0,8,1.4,1.0,2.7,148.8
+Chennai,Outskirts,Apartment,Furnished,North-East,1363,1,1,3,6,15,1,10,9.9,2.1,1.9,104.32
+Lucknow,Central,Studio,Unfurnished,South,632,1,1,3,0,8,2,39,5.0,0.3,0.8,21.12
+Bengaluru,Central,Independent House,Semi-Furnished,South-East,1944,5,4,3,16,16,1,1,3.7,0.8,1.0,441.27
+Bengaluru,Suburban,Independent House,Semi-Furnished,South,1516,3,2,2,9,10,0,4,5.0,3.4,2.5,222.02
+Delhi,Central,Builder Floor,Unfurnished,North-West,1792,4,4,1,0,15,0,8,2.7,2.2,4.7,340.17
+Pune,Suburban,Apartment,Unfurnished,South-East,1107,2,2,0,8,19,0,9,12.6,0.4,3.4,99.36
+Ahmedabad,Central,Builder Floor,Furnished,South-East,889,2,1,2,1,1,1,2,7.5,6.0,1.0,85.98
+Bengaluru,Outskirts,Studio,Unfurnished,North,402,1,1,2,0,1,0,0,9.7,1.0,0.6,37.89
+Mumbai,Prime,Independent House,Unfurnished,South-West,1764,2,1,2,2,15,2,29,18.9,2.3,1.7,369.86
+Lucknow,Prime,Apartment,Semi-Furnished,South,643,1,1,3,1,4,0,3,1.8,3.5,3.2,55.48
+Bengaluru,Outskirts,Independent House,Semi-Furnished,South-West,1772,3,3,3,1,12,2,15,2.2,3.3,1.1,203.72
+Bengaluru,Prime,Independent House,Unfurnished,East,2249,5,5,2,4,4,1,27,1.5,1.2,1.9,370.15
+Bengaluru,Suburban,Apartment,Semi-Furnished,South-West,1175,1,1,0,1,2,1,31,4.9,1.0,1.1,110.16
+Ahmedabad,Central,Apartment,Unfurnished,East,1097,1,1,3,1,1,0,7,4.5,0.2,2.4,96.98
+Kolkata,Central,Apartment,Semi-Furnished,North,1644,2,1,3,8,8,2,2,3.3,1.8,3.3,161.71
+Mumbai,Suburban,Independent House,Unfurnished,South,1347,2,1,2,1,19,2,6,1.6,1.4,0.1,395.71
+Ahmedabad,Suburban,Villa,Semi-Furnished,North,2128,4,3,2,3,15,1,4,5.7,2.3,0.6,228.46
+Delhi,Outskirts,Villa,Unfurnished,West,2757,6,5,1,2,14,2,22,1.2,1.4,1.2,454.11
+Delhi,Prime,Independent House,Semi-Furnished,South-West,1348,3,3,2,11,13,0,9,7.6,8.9,5.7,294.24
+Hyderabad,Prime,Apartment,Semi-Furnished,North,1114,3,2,3,7,20,1,27,9.5,4.1,2.8,132.54
+Mumbai,Central,Independent House,Semi-Furnished,North-West,1539,4,4,1,0,3,1,7,9.9,1.0,1.5,426.01
+Kolkata,Central,Apartment,Semi-Furnished,East,626,1,1,3,4,10,2,18,3.6,2.8,0.8,54.54
+Lucknow,Prime,Apartment,Unfurnished,South-East,667,1,1,3,3,5,2,6,12.2,5.3,2.3,48.74
+Hyderabad,Prime,Villa,Unfurnished,North-East,1622,3,3,4,13,17,1,11,11.7,3.2,0.9,305.64
+Pune,Suburban,Builder Floor,Semi-Furnished,West,1921,4,4,3,2,15,2,33,6.1,3.2,4.6,134.7
+Bengaluru,Central,Independent House,Semi-Furnished,South-West,2124,3,2,3,5,19,2,2,1.1,1.0,1.5,458.97
+Jaipur,Central,Apartment,Semi-Furnished,North-East,1160,1,1,1,12,14,2,4,2.6,3.6,1.1,103.32
+Delhi,Central,Apartment,Unfurnished,South,1469,2,1,0,0,2,0,1,7.7,4.2,1.7,272.25
+Hyderabad,Suburban,Apartment,Furnished,East,1036,3,2,2,3,10,0,2,2.7,2.7,3.9,133.26
+Chennai,Prime,Villa,Semi-Furnished,South,2357,5,4,4,0,14,0,6,5.5,0.6,2.5,448.95
+Mumbai,Prime,Independent House,Unfurnished,North-West,1463,4,3,1,1,1,2,12,2.3,1.7,1.3,522.5
+Kolkata,Outskirts,Builder Floor,Semi-Furnished,West,1770,3,2,4,6,6,1,26,4.5,0.6,1.3,86.84
+Delhi,Central,Apartment,Unfurnished,South-East,1062,2,2,2,5,15,2,14,5.7,0.6,1.9,198.46
+Jaipur,Outskirts,Apartment,Semi-Furnished,South-West,1061,2,2,1,2,15,0,21,8.8,0.5,0.9,35.24
+Lucknow,Central,Apartment,Unfurnished,North-West,907,1,1,3,10,19,0,10,10.3,3.2,0.7,51.19
+Mumbai,Prime,Apartment,Furnished,South,1139,2,2,1,2,2,2,8,1.8,1.3,2.0,439.28
+Mumbai,Prime,Apartment,Unfurnished,South-East,1373,3,3,2,9,17,2,23,5.4,1.6,2.7,368.57
+Bengaluru,Suburban,Apartment,Semi-Furnished,North-West,1231,3,2,3,2,4,0,19,6.8,0.6,1.1,142.08
+Delhi,Outskirts,Studio,Unfurnished,North,667,1,1,1,0,16,0,5,3.9,5.9,0.6,86.57
+Delhi,Prime,Independent House,Furnished,South,1068,3,3,0,6,9,2,5,3.7,3.5,2.3,403.95
+Bengaluru,Suburban,Apartment,Semi-Furnished,North,662,1,1,2,14,19,0,9,10.1,4.2,1.6,82.19
+Ahmedabad,Suburban,Apartment,Semi-Furnished,East,790,1,1,1,0,3,0,4,1.4,2.9,3.3,67.01
+Chennai,Suburban,Villa,Furnished,North-East,2803,5,5,2,6,9,1,16,1.7,4.4,0.3,331.39
+Hyderabad,Central,Builder Floor,Unfurnished,East,1176,3,2,1,3,13,0,5,3.1,4.7,4.8,143.84
+Lucknow,Outskirts,Apartment,Unfurnished,South-East,780,1,1,1,14,14,1,2,8.3,6.0,2.4,38.77
+Delhi,Prime,Villa,Unfurnished,North,2365,3,3,1,8,11,2,3,3.4,3.2,2.2,886.05
+Mumbai,Central,Apartment,Unfurnished,South-West,419,2,1,0,1,9,1,17,4.7,0.8,1.4,101.51
+Mumbai,Central,Independent House,Semi-Furnished,North,1136,3,3,3,4,7,0,12,1.5,8.6,0.2,314.52
+Pune,Suburban,Apartment,Furnished,West,921,2,1,2,2,11,0,3,4.5,4.4,0.9,93.78
+Jaipur,Suburban,Apartment,Furnished,South-West,1087,2,1,1,16,20,2,6,11.4,1.6,1.3,66.41
+Bengaluru,Central,Independent House,Furnished,West,1667,4,4,3,16,20,2,2,14.4,0.8,1.1,341.66
+Chennai,Suburban,Apartment,Furnished,North-West,764,1,1,1,6,8,2,9,2.7,1.8,3.6,88.52
+Ahmedabad,Outskirts,Apartment,Semi-Furnished,West,1288,2,2,0,8,14,1,9,9.2,1.6,1.7,85.34
+Mumbai,Suburban,Builder Floor,Furnished,South-East,1674,4,4,4,5,8,1,1,12.4,1.4,1.3,458.07
+Delhi,Central,Apartment,Unfurnished,South-West,1086,1,1,1,10,18,1,4,2.6,6.4,1.6,243.43
+Jaipur,Suburban,Apartment,Furnished,South-West,1273,1,1,0,4,9,1,2,10.5,9.0,2.4,77.44
+Hyderabad,Suburban,Independent House,Unfurnished,South-East,2392,3,3,3,9,12,0,3,2.9,1.5,2.0,293.6
+Delhi,Central,Independent House,Semi-Furnished,North,1994,4,3,3,3,3,2,4,1.2,5.6,0.9,489.38
+Kolkata,Suburban,Independent House,Semi-Furnished,East,2170,4,4,2,14,17,0,4,2.9,0.6,2.1,169.4
+Jaipur,Suburban,Apartment,Unfurnished,North,796,2,2,0,0,4,1,8,1.7,0.4,1.8,53.82
+Mumbai,Suburban,Apartment,Semi-Furnished,North-East,729,1,1,2,11,16,1,4,4.0,0.9,1.5,202.16
+Mumbai,Outskirts,Independent House,Unfurnished,South-West,1767,2,1,3,0,13,0,42,1.8,1.7,1.2,200.87
+Bengaluru,Prime,Studio,Semi-Furnished,North-West,479,1,1,0,6,12,2,10,0.5,1.5,0.7,94.11
+Pune,Central,Apartment,Semi-Furnished,South-East,802,1,1,3,6,15,1,7,7.6,0.9,0.5,104.09
+Ahmedabad,Central,Builder Floor,Semi-Furnished,North-West,651,1,1,3,3,6,0,23,3.8,3.5,1.8,47.48
+Ahmedabad,Suburban,Villa,Semi-Furnished,South-East,2657,5,5,1,4,8,1,10,6.7,5.9,0.3,256.5
+Delhi,Outskirts,Apartment,Unfurnished,South-West,1075,3,3,0,4,10,0,2,16.6,2.2,0.6,127.04
+Bengaluru,Prime,Independent House,Unfurnished,North,2006,4,3,3,0,10,1,27,4.4,3.0,6.6,308.77
+Kolkata,Prime,Independent House,Unfurnished,South-East,1520,4,4,3,0,3,1,3,5.7,2.0,2.6,174.06
+Pune,Outskirts,Independent House,Furnished,North-West,1443,2,2,1,9,14,0,0,13.0,3.9,1.6,135.51
+Bengaluru,Prime,Studio,Furnished,East,543,1,1,2,1,5,1,3,1.8,2.3,0.6,131.39
+Bengaluru,Prime,Independent House,Semi-Furnished,South-West,2166,3,3,2,1,1,0,17,7.5,0.9,2.5,358.72
+Ahmedabad,Central,Studio,Unfurnished,North-East,541,2,2,0,3,8,1,9,5.6,3.1,1.0,42.02
+Hyderabad,Central,Apartment,Semi-Furnished,West,1416,3,2,0,1,2,0,8,6.8,7.0,1.9,173.49
+Kolkata,Outskirts,Apartment,Unfurnished,South-East,1026,2,2,0,3,4,0,6,8.6,0.8,4.2,52.24
+Hyderabad,Outskirts,Apartment,Semi-Furnished,North,1466,3,2,3,10,14,0,0,1.6,2.4,0.5,162.74
+Jaipur,Prime,Independent House,Semi-Furnished,East,1579,3,3,3,2,2,1,20,13.9,3.6,1.2,105.91
+Delhi,Central,Independent House,Semi-Furnished,East,2048,3,3,4,1,1,0,1,1.8,2.4,0.1,605.14
+Pune,Central,Independent House,Unfurnished,North-West,1962,3,2,1,1,8,0,1,5.4,2.1,1.7,250.52
+Delhi,Suburban,Apartment,Semi-Furnished,West,1757,2,2,2,12,12,0,8,3.8,0.3,1.1,372.78
+Chennai,Central,Independent House,Furnished,North-East,1554,4,4,3,4,4,2,6,3.5,1.7,6.7,244.49
+Delhi,Prime,Apartment,Unfurnished,South,421,2,2,0,3,12,1,22,14.5,2.5,2.9,74.92
+Ahmedabad,Central,Apartment,Semi-Furnished,South,1333,3,3,3,1,8,1,4,5.9,1.4,0.4,121.12
+Bengaluru,Prime,Independent House,Unfurnished,East,2051,3,2,3,12,16,2,10,4.2,0.7,1.9,466.85
+Pune,Prime,Apartment,Furnished,North-East,1037,3,2,2,7,19,0,1,4.9,2.7,0.7,189.43
+Lucknow,Central,Apartment,Semi-Furnished,East,830,1,1,2,7,14,2,20,3.2,0.7,2.9,54.55
+Pune,Suburban,Villa,Semi-Furnished,North-East,1445,3,2,0,1,5,2,0,4.0,4.5,0.7,232.13
+Mumbai,Suburban,Apartment,Unfurnished,East,791,2,1,0,4,17,1,6,3.8,12.3,1.9,166.14
+Hyderabad,Outskirts,Builder Floor,Furnished,North-East,835,3,2,1,4,5,1,5,2.6,1.0,1.3,90.08
+Delhi,Prime,Apartment,Semi-Furnished,South-East,1251,3,3,3,6,10,1,17,7.4,2.2,2.6,284.79
+Jaipur,Outskirts,Builder Floor,Furnished,North-West,1753,2,2,2,7,10,1,0,4.6,10.5,0.9,101.0
+Chennai,Prime,Independent House,Unfurnished,North-East,1411,3,3,0,11,16,0,1,11.9,4.0,1.0,187.28
+Kolkata,Suburban,Independent House,Semi-Furnished,South,2169,5,4,3,0,8,0,1,5.8,4.8,1.9,182.95
+Ahmedabad,Central,Apartment,Semi-Furnished,South-East,1416,3,3,0,1,15,0,9,6.5,1.0,1.8,127.83
+Bengaluru,Central,Apartment,Semi-Furnished,North-West,1597,2,2,2,0,6,2,0,3.0,6.9,1.5,287.33
+Bengaluru,Prime,Independent House,Unfurnished,South,1396,4,3,1,15,15,1,6,6.8,0.4,4.0,284.58
+Ahmedabad,Outskirts,Studio,Furnished,North-East,658,1,1,3,1,1,1,5,2.5,4.0,0.5,45.48
+Kolkata,Central,Independent House,Furnished,South,1414,4,3,0,3,3,0,5,5.6,1.6,1.0,133.87
+Kolkata,Prime,Apartment,Semi-Furnished,North,1098,1,1,0,1,2,2,9,15.9,1.1,1.1,86.26
+Mumbai,Suburban,Apartment,Unfurnished,North-East,963,3,2,2,5,5,1,8,2.6,0.8,4.3,250.65
+Delhi,Central,Independent House,Semi-Furnished,East,2164,4,4,3,4,5,2,22,6.1,3.1,0.7,468.42
+Bengaluru,Suburban,Builder Floor,Semi-Furnished,South-East,1385,2,1,0,1,7,0,1,4.3,1.6,2.2,183.78
+Jaipur,Suburban,Builder Floor,Semi-Furnished,East,1700,4,3,2,7,10,2,1,5.9,0.2,1.7,135.05
+Delhi,Central,Villa,Furnished,South,3494,5,4,3,14,14,0,12,6.0,1.2,1.0,1026.36
+Bengaluru,Suburban,Builder Floor,Semi-Furnished,North-East,719,2,2,1,5,6,2,9,5.7,2.9,2.6,114.93
+Hyderabad,Central,Builder Floor,Semi-Furnished,North,1054,3,3,3,1,11,2,14,2.8,1.8,1.6,133.91
+Ahmedabad,Prime,Apartment,Semi-Furnished,West,1131,2,2,0,0,20,0,1,10.8,2.3,3.2,111.93
+Mumbai,Suburban,Villa,Semi-Furnished,West,2847,4,3,3,5,13,1,11,3.5,1.4,4.7,905.2
+Hyderabad,Central,Builder Floor,Semi-Furnished,North-West,1016,3,2,3,6,9,2,12,10.5,2.8,1.4,124.05
+Pune,Outskirts,Apartment,Semi-Furnished,South-East,1162,1,1,3,1,6,1,5,9.4,1.4,0.1,97.99
+Mumbai,Outskirts,Apartment,Unfurnished,West,1454,2,2,1,10,14,1,7,5.8,1.1,0.3,295.61
+Chennai,Prime,Builder Floor,Unfurnished,West,1635,3,3,4,12,17,1,19,1.0,2.7,0.2,206.45
+Chennai,Prime,Apartment,Unfurnished,South,950,2,2,0,8,8,2,26,0.5,3.7,3.8,109.59
+Hyderabad,Central,Apartment,Furnished,West,1570,3,3,1,0,3,0,16,0.7,0.8,0.3,193.14
+Mumbai,Prime,Builder Floor,Furnished,South,1095,3,3,2,0,19,2,1,11.4,0.3,1.6,379.12
+Delhi,Prime,Apartment,Semi-Furnished,South-West,1562,3,3,2,8,20,2,5,1.6,3.3,2.5,464.09
+Hyderabad,Prime,Villa,Unfurnished,North-West,2556,6,5,2,5,14,2,1,4.3,4.0,0.7,616.03
+Ahmedabad,Outskirts,Studio,Semi-Furnished,North,480,1,1,2,5,12,2,1,2.9,2.6,1.6,29.63
+Kolkata,Central,Apartment,Unfurnished,West,1109,3,2,0,1,13,1,5,10.5,1.4,1.0,82.06
+Chennai,Prime,Independent House,Unfurnished,South,2764,6,5,3,0,1,0,3,5.4,0.8,5.6,413.71
+Mumbai,Central,Independent House,Unfurnished,North-East,1132,2,1,3,2,3,0,28,13.1,3.9,2.0,194.04
+Chennai,Outskirts,Independent House,Unfurnished,South-East,2363,5,5,3,2,8,2,4,4.7,2.8,3.4,211.19
+Lucknow,Outskirts,Villa,Unfurnished,South-West,2722,5,5,1,0,3,2,5,1.5,2.2,0.7,183.5
+Kolkata,Central,Studio,Unfurnished,East,442,1,1,3,3,4,2,14,8.3,6.2,1.1,28.34
+Pune,Prime,Apartment,Semi-Furnished,West,1023,1,1,1,0,18,2,2,3.8,2.0,1.8,180.7
+Jaipur,Outskirts,Apartment,Unfurnished,East,993,1,1,3,1,1,0,4,10.4,2.4,2.6,42.35
+Lucknow,Outskirts,Villa,Furnished,South-West,2998,4,3,4,6,12,2,6,4.3,3.1,1.0,193.41
+Bengaluru,Central,Builder Floor,Semi-Furnished,East,1251,2,1,1,2,3,0,20,5.7,1.9,1.9,174.28
+Chennai,Central,Independent House,Unfurnished,South-West,2698,5,5,3,6,15,0,0,10.4,1.4,3.0,335.46
+Delhi,Suburban,Apartment,Semi-Furnished,North-East,1375,1,1,1,5,18,1,3,2.4,2.9,2.8,281.24
+Ahmedabad,Prime,Apartment,Unfurnished,South,1023,1,1,3,14,14,0,1,11.9,2.1,0.2,106.88
+Kolkata,Outskirts,Apartment,Unfurnished,North,533,2,1,3,2,2,2,17,3.9,0.3,0.7,29.62
+Mumbai,Suburban,Builder Floor,Furnished,South-West,1440,2,2,1,2,16,2,20,3.4,1.5,3.7,364.41
+Delhi,Suburban,Independent House,Furnished,East,2137,3,2,1,2,17,2,15,8.7,3.0,1.1,397.56
+Mumbai,Prime,Independent House,Semi-Furnished,West,1962,5,5,4,1,9,1,43,1.2,2.8,1.5,405.35
+Mumbai,Suburban,Independent House,Semi-Furnished,North,1228,1,1,1,9,15,0,1,3.4,3.1,0.3,343.77
+Mumbai,Suburban,Apartment,Furnished,North-West,1193,1,1,3,0,5,0,5,3.3,5.2,2.2,256.29
+Chennai,Prime,Apartment,Semi-Furnished,South-East,935,1,1,1,8,11,2,13,5.3,3.5,4.8,123.91
+Mumbai,Central,Apartment,Unfurnished,South-East,983,2,1,2,6,13,2,5,25.8,8.3,2.0,193.04
+Ahmedabad,Outskirts,Apartment,Semi-Furnished,East,1285,2,1,1,9,11,0,19,6.0,2.6,0.1,75.67
+Mumbai,Suburban,Villa,Furnished,South-West,3715,6,5,2,3,9,1,6,14.0,4.0,2.1,1058.54
+Ahmedabad,Prime,Builder Floor,Semi-Furnished,North-West,1466,2,1,0,3,11,0,4,6.1,7.4,3.4,155.93
+Hyderabad,Prime,Apartment,Furnished,East,744,1,1,2,2,2,0,16,9.1,3.6,2.5,105.36
+Chennai,Prime,Apartment,Furnished,South-West,1350,2,2,1,5,12,2,3,16.2,3.7,5.1,185.41
+Delhi,Outskirts,Villa,Semi-Furnished,North-East,2889,5,4,2,4,4,2,1,11.0,6.4,1.9,564.7
+Chennai,Central,Apartment,Semi-Furnished,West,914,2,1,0,2,12,2,8,7.3,1.6,5.1,93.44
+Hyderabad,Prime,Apartment,Unfurnished,North,990,1,1,2,1,1,2,5,13.7,3.6,2.2,131.25
+Bengaluru,Suburban,Builder Floor,Unfurnished,South-West,495,2,1,3,10,16,1,0,11.9,2.9,4.1,68.69
+Bengaluru,Suburban,Independent House,Semi-Furnished,South,1676,2,1,3,1,16,2,5,1.5,5.1,5.5,288.08
+Delhi,Suburban,Independent House,Furnished,South-East,1919,3,2,4,7,13,1,3,1.8,2.7,1.6,513.23
+Pune,Central,Studio,Semi-Furnished,West,534,1,1,3,8,12,2,41,4.6,3.4,2.2,37.3
+Pune,Prime,Apartment,Furnished,North,1134,2,1,0,2,20,1,11,1.8,2.5,1.3,180.41
+Ahmedabad,Prime,Apartment,Semi-Furnished,North,1040,2,2,2,5,9,0,1,3.0,2.1,2.1,122.73
+Bengaluru,Suburban,Independent House,Unfurnished,West,2632,5,5,2,0,1,0,2,1.1,4.1,4.5,397.98
+Delhi,Central,Builder Floor,Semi-Furnished,West,1073,3,2,0,2,11,2,1,7.7,3.6,0.4,272.45
+Delhi,Central,Apartment,Furnished,East,1090,2,1,3,6,17,1,2,7.3,5.0,4.4,257.97
+Delhi,Prime,Apartment,Semi-Furnished,South,1175,3,3,1,15,16,0,4,5.3,7.7,1.2,356.17
+Mumbai,Suburban,Independent House,Semi-Furnished,West,3092,5,5,4,6,7,2,4,5.7,0.4,2.4,892.32
+Bengaluru,Prime,Independent House,Semi-Furnished,East,1833,3,2,4,8,18,0,45,8.8,2.9,3.3,184.97
+Mumbai,Central,Independent House,Unfurnished,North,1713,3,2,4,2,2,0,10,5.5,1.5,1.9,393.07
+Kolkata,Central,Builder Floor,Unfurnished,South-East,1149,3,3,0,3,13,0,6,10.2,3.2,8.9,83.98
+Bengaluru,Prime,Apartment,Semi-Furnished,North-East,833,2,1,0,5,8,1,7,4.5,5.4,0.8,177.89
+Bengaluru,Central,Studio,Unfurnished,North-West,463,1,1,1,1,1,1,1,1.3,3.4,0.8,74.41
+Bengaluru,Outskirts,Apartment,Unfurnished,North-East,1122,1,1,0,5,9,2,4,2.7,3.2,4.1,150.99
+Pune,Outskirts,Studio,Unfurnished,South,361,1,1,0,10,11,1,5,6.7,3.8,4.5,25.29
+Kolkata,Central,Apartment,Semi-Furnished,North,1115,1,1,1,3,18,1,18,24.3,0.9,2.1,65.76
+Pune,Central,Apartment,Unfurnished,North,1151,2,1,0,13,19,2,13,2.1,3.2,3.1,151.48
+Jaipur,Suburban,Builder Floor,Unfurnished,East,1037,3,3,0,13,16,0,11,4.0,1.4,2.1,57.15
+Ahmedabad,Suburban,Builder Floor,Unfurnished,West,1085,2,1,2,6,9,0,4,2.7,4.5,1.6,76.01
+Pune,Prime,Independent House,Semi-Furnished,South-West,2711,4,3,3,10,15,0,2,8.2,0.7,3.1,480.32
+Pune,Suburban,Studio,Unfurnished,South,544,1,1,3,0,1,2,25,1.9,3.0,1.6,40.4
+Pune,Suburban,Apartment,Semi-Furnished,North-East,1008,1,1,3,1,2,0,9,4.8,4.8,1.2,106.63
+Kolkata,Central,Independent House,Unfurnished,North-West,2066,5,5,4,4,20,2,15,4.0,0.8,2.0,144.2
+Bengaluru,Prime,Independent House,Semi-Furnished,North-West,1794,3,2,2,8,18,2,9,1.3,0.7,1.3,444.97
+Hyderabad,Central,Apartment,Furnished,South,863,3,2,3,4,11,1,12,6.9,0.8,2.6,120.15
+Kolkata,Central,Independent House,Unfurnished,North-West,2145,4,4,3,5,8,1,4,5.0,3.9,1.4,216.24
+Delhi,Central,Builder Floor,Furnished,North,782,1,1,3,16,18,2,8,7.3,2.6,1.2,212.35
+Mumbai,Outskirts,Studio,Semi-Furnished,North,594,1,1,2,5,6,1,1,6.1,2.5,0.4,121.52
+Mumbai,Central,Apartment,Furnished,South-West,1715,4,3,1,4,10,1,8,5.6,0.2,1.3,533.05
+Hyderabad,Central,Independent House,Furnished,North-East,1265,2,2,1,6,9,2,14,5.2,8.5,1.2,185.66
+Lucknow,Central,Apartment,Unfurnished,South-East,674,1,1,0,2,3,1,13,3.8,5.8,1.4,35.94
+Delhi,Prime,Apartment,Unfurnished,South-East,1448,4,4,1,7,9,1,2,7.6,8.6,1.6,355.87
+Bengaluru,Central,Apartment,Semi-Furnished,South-East,886,3,2,3,3,3,2,0,3.2,1.3,0.6,174.4
+Mumbai,Central,Apartment,Unfurnished,North-East,1162,1,1,3,6,8,2,36,5.7,4.6,1.3,210.69
+Pune,Suburban,Builder Floor,Semi-Furnished,South-West,1622,4,4,1,6,12,1,11,0.7,0.6,1.7,179.81
+Bengaluru,Central,Apartment,Unfurnished,North,1482,2,1,1,7,15,1,10,12.5,3.4,1.5,221.57
+Hyderabad,Suburban,Independent House,Unfurnished,South-East,1079,2,1,2,0,11,2,6,8.0,3.5,1.3,126.74
+Lucknow,Central,Apartment,Semi-Furnished,South-East,805,2,2,0,5,9,1,11,3.8,0.8,5.1,57.17
+Ahmedabad,Outskirts,Apartment,Unfurnished,North,1169,1,1,1,9,10,1,8,7.0,0.6,1.6,62.85
+Mumbai,Prime,Builder Floor,Semi-Furnished,South,1580,4,3,3,8,8,0,19,2.0,0.4,4.8,538.23
+Mumbai,Central,Apartment,Unfurnished,South,793,1,1,0,1,3,1,17,1.1,1.5,3.7,206.74
+Pune,Suburban,Apartment,Unfurnished,South,916,3,3,3,6,9,0,9,1.5,3.7,2.2,96.5
+Chennai,Suburban,Apartment,Semi-Furnished,North,1505,3,3,2,11,16,2,18,3.2,2.2,0.5,139.88
+Chennai,Outskirts,Apartment,Unfurnished,South-East,1401,4,3,2,9,14,1,7,3.2,1.7,4.8,110.44
+Bengaluru,Prime,Apartment,Unfurnished,East,1070,3,2,0,1,20,2,1,1.6,1.8,0.7,254.26
+Mumbai,Central,Apartment,Unfurnished,South-West,832,2,2,3,0,7,0,13,5.1,3.1,4.3,200.29
+Kolkata,Outskirts,Apartment,Semi-Furnished,East,1147,1,1,3,11,12,1,16,3.4,1.8,1.5,66.65
+Ahmedabad,Central,Independent House,Unfurnished,South-East,2038,4,3,4,0,2,0,27,5.7,3.7,3.6,132.08
+Mumbai,Prime,Apartment,Semi-Furnished,South,1255,1,1,2,16,17,0,0,0.6,3.4,1.1,518.99
+Pune,Central,Apartment,Semi-Furnished,North,972,2,2,3,4,16,2,16,0.9,2.3,3.2,107.35
+Pune,Suburban,Apartment,Unfurnished,North-West,1222,2,1,0,2,9,0,3,8.2,0.6,1.9,118.75
+Lucknow,Prime,Studio,Furnished,North-East,300,2,2,3,15,20,1,10,5.1,1.2,1.2,26.75
+Mumbai,Suburban,Villa,Furnished,North,2462,4,3,2,17,19,1,1,1.8,1.0,0.9,1041.42
+Kolkata,Suburban,Apartment,Unfurnished,South-West,994,2,2,2,5,11,0,17,3.9,11.6,4.4,48.72
+Hyderabad,Outskirts,Apartment,Furnished,North-East,752,1,1,3,2,12,0,15,3.9,0.6,2.4,70.85
+Mumbai,Suburban,Builder Floor,Unfurnished,South-West,425,1,1,2,4,13,2,11,5.6,4.0,1.6,96.38
+Jaipur,Prime,Villa,Unfurnished,East,2189,4,3,4,3,15,0,8,3.7,2.3,0.9,213.2
+Chennai,Prime,Villa,Semi-Furnished,East,2928,6,5,4,0,17,1,3,4.9,3.5,1.2,527.51
+Chennai,Prime,Apartment,Unfurnished,West,1302,2,2,3,11,18,1,20,5.4,5.4,0.9,149.4
+Hyderabad,Suburban,Independent House,Unfurnished,North,402,2,1,2,4,4,2,3,3.5,1.7,2.0,53.28
+Delhi,Prime,Builder Floor,Furnished,North-West,1118,3,3,3,2,7,2,14,3.0,2.4,1.4,369.63
+Lucknow,Prime,Apartment,Furnished,North,1145,2,1,3,5,8,1,14,4.7,4.1,2.0,86.68
+Mumbai,Suburban,Apartment,Furnished,South-West,1799,4,4,1,12,14,2,2,6.5,0.8,0.8,563.2
+Hyderabad,Central,Independent House,Furnished,West,2150,5,5,2,6,12,0,27,5.3,4.3,3.5,231.88
+Delhi,Central,Apartment,Semi-Furnished,East,940,1,1,0,1,3,0,6,5.5,3.7,2.7,214.72
+Lucknow,Suburban,Apartment,Semi-Furnished,North-East,601,1,1,1,8,20,2,5,9.6,0.5,1.1,39.84
+Delhi,Central,Builder Floor,Semi-Furnished,North,1296,2,1,2,5,5,0,7,8.7,2.3,4.8,267.95
+Ahmedabad,Suburban,Independent House,Unfurnished,North,1030,1,1,0,0,16,2,0,6.3,1.1,0.7,80.59
+Ahmedabad,Suburban,Builder Floor,Furnished,North-East,1259,2,1,0,5,6,0,5,9.7,2.6,1.6,97.56
+Mumbai,Prime,Villa,Semi-Furnished,South,3123,6,5,3,2,4,1,4,13.2,0.9,1.8,1237.8
+Delhi,Suburban,Apartment,Semi-Furnished,West,1127,2,2,0,3,5,1,8,4.0,4.5,0.4,226.19
+Kolkata,Outskirts,Apartment,Semi-Furnished,South-East,935,2,1,0,0,6,1,2,6.9,6.1,0.4,57.61
+Mumbai,Prime,Independent House,Unfurnished,North-East,1761,2,1,3,3,9,1,0,2.3,1.5,2.4,773.01
+Kolkata,Central,Apartment,Semi-Furnished,South-West,868,1,1,0,1,8,2,3,5.4,2.0,1.7,79.18
+Lucknow,Central,Villa,Semi-Furnished,South,2257,4,3,2,3,3,0,7,6.4,1.9,2.3,200.49
+Mumbai,Suburban,Apartment,Unfurnished,North-East,965,2,1,1,1,19,2,13,1.5,0.9,0.9,269.11
+Bengaluru,Prime,Independent House,Unfurnished,North,2470,5,5,2,14,17,2,10,2.5,1.1,1.2,560.3
+Bengaluru,Central,Villa,Semi-Furnished,South-East,3155,6,5,1,6,8,0,9,8.4,3.0,2.3,570.13
+Mumbai,Prime,Apartment,Semi-Furnished,West,674,2,1,1,12,16,0,2,13.7,3.7,2.2,187.68
+Lucknow,Prime,Independent House,Unfurnished,South-West,1998,4,4,4,2,2,1,3,1.8,3.2,2.2,186.71
+Chennai,Central,Independent House,Unfurnished,East,1122,2,1,2,2,15,2,3,3.1,1.3,2.4,164.38
+Kolkata,Central,Builder Floor,Furnished,North-West,1565,4,4,3,8,9,2,9,5.6,3.1,3.1,178.26
+Chennai,Suburban,Apartment,Furnished,East,1174,1,1,0,13,20,0,15,5.5,2.6,2.6,107.49
+Kolkata,Central,Builder Floor,Furnished,South,1206,1,1,1,10,20,2,21,4.9,2.0,1.8,105.67
+Bengaluru,Suburban,Builder Floor,Semi-Furnished,North-West,1023,2,2,2,0,1,1,18,6.4,7.3,0.2,125.88
+Mumbai,Prime,Builder Floor,Semi-Furnished,North-East,1825,2,1,2,8,16,0,5,4.6,4.8,1.0,619.04
+Hyderabad,Central,Apartment,Semi-Furnished,South,1476,3,3,0,4,5,0,1,5.3,0.9,1.4,212.33
+Mumbai,Outskirts,Villa,Semi-Furnished,South,3435,6,5,2,1,5,0,18,5.9,4.3,5.5,714.45
+Chennai,Prime,Builder Floor,Furnished,North-East,2099,5,4,4,1,2,2,29,10.9,2.0,2.5,242.41
+Ahmedabad,Suburban,Builder Floor,Furnished,South-West,843,3,2,2,3,11,1,3,5.5,1.1,1.1,80.04
+Kolkata,Prime,Apartment,Furnished,South,1385,3,2,3,2,6,2,12,4.3,0.4,0.6,180.67
+Mumbai,Suburban,Independent House,Unfurnished,South,1905,3,2,2,5,11,0,1,1.0,2.6,5.1,533.42
+Kolkata,Outskirts,Villa,Unfurnished,South,2482,6,5,2,0,7,0,6,4.2,2.5,1.4,190.79
+Kolkata,Central,Apartment,Unfurnished,South,553,1,1,0,5,16,0,6,21.6,4.3,1.9,29.98
+Mumbai,Suburban,Villa,Unfurnished,North-East,2559,5,4,4,8,10,2,8,2.2,2.0,2.0,908.54
+Jaipur,Central,Apartment,Semi-Furnished,East,793,1,1,1,3,14,0,9,0.4,11.5,1.9,52.59
+Hyderabad,Suburban,Apartment,Semi-Furnished,South,1496,2,2,3,6,6,2,6,6.6,1.0,1.2,165.53
+Mumbai,Central,Independent House,Unfurnished,South-West,1253,1,1,3,0,1,2,15,3.0,1.7,0.5,324.46
+Chennai,Prime,Apartment,Furnished,South,1376,2,2,2,0,15,0,10,3.6,0.8,6.0,203.66
+Kolkata,Central,Builder Floor,Semi-Furnished,South-East,959,1,1,0,3,5,0,4,1.7,4.8,0.7,91.41
+Bengaluru,Prime,Apartment,Semi-Furnished,North,1218,3,2,0,2,6,1,12,1.2,1.0,3.0,245.69
+Hyderabad,Central,Independent House,Unfurnished,North-West,1836,3,3,3,9,9,0,5,7.4,1.5,2.3,264.91
+Kolkata,Prime,Apartment,Furnished,North-East,1188,1,1,1,2,6,0,12,4.5,1.3,0.3,117.92
+Chennai,Prime,Apartment,Unfurnished,South-East,805,1,1,3,15,15,1,3,4.1,1.4,2.2,124.28
+Delhi,Outskirts,Apartment,Unfurnished,South-East,754,2,2,0,1,10,1,2,6.9,1.0,3.8,108.2
+Pune,Central,Apartment,Semi-Furnished,West,1513,4,4,3,8,9,2,6,5.6,1.9,1.0,192.75
+Chennai,Outskirts,Studio,Semi-Furnished,North,544,1,1,2,1,11,0,2,2.5,1.3,3.3,40.68
+Mumbai,Prime,Builder Floor,Semi-Furnished,North-West,1968,3,2,1,3,7,0,1,8.9,6.6,1.3,734.12
+Mumbai,Suburban,Builder Floor,Semi-Furnished,South-West,1158,1,1,0,13,17,2,9,7.4,1.8,1.2,298.97
+Delhi,Outskirts,Independent House,Semi-Furnished,North-East,1340,2,1,1,3,4,2,4,7.4,2.0,1.0,246.84
+Delhi,Suburban,Independent House,Unfurnished,South-East,1520,4,4,4,2,12,1,2,2.5,5.3,2.5,328.15
+Mumbai,Central,Apartment,Unfurnished,North,685,1,1,3,1,1,0,20,3.8,4.4,1.1,133.47
+Ahmedabad,Suburban,Apartment,Semi-Furnished,North-West,1411,3,2,3,0,1,1,4,5.8,0.3,5.9,105.97
+Ahmedabad,Prime,Apartment,Semi-Furnished,West,1315,1,1,3,7,12,0,14,5.4,1.9,1.5,140.26
+Delhi,Outskirts,Apartment,Semi-Furnished,East,421,1,1,3,18,18,2,0,0.7,4.1,2.4,78.3
+Hyderabad,Central,Apartment,Unfurnished,South-West,1045,2,1,2,2,13,0,7,6.6,0.9,1.9,132.87
+Chennai,Suburban,Apartment,Unfurnished,South-West,1345,2,2,0,10,14,1,4,5.0,11.0,1.9,120.24
+Chennai,Central,Villa,Semi-Furnished,North,3217,6,5,3,3,14,2,0,4.2,0.7,2.3,565.82
+Delhi,Central,Builder Floor,Unfurnished,West,675,1,1,2,13,20,1,4,6.8,4.0,6.5,139.29
+Delhi,Outskirts,Independent House,Unfurnished,North-West,1450,4,4,0,1,9,0,3,5.7,4.3,2.6,199.78
+Hyderabad,Central,Builder Floor,Unfurnished,North,1454,3,2,0,0,7,1,19,16.4,0.4,2.8,146.55
+Bengaluru,Central,Apartment,Unfurnished,North-East,1625,3,2,3,12,15,0,8,1.5,1.3,1.6,261.48
+Chennai,Central,Builder Floor,Unfurnished,South,1793,4,4,1,15,18,0,5,15.8,5.0,0.6,167.77
+Pune,Prime,Apartment,Semi-Furnished,South-East,1253,1,1,3,3,13,2,3,7.1,1.3,1.2,192.54
+Chennai,Prime,Apartment,Semi-Furnished,North,1003,3,2,2,10,14,1,13,7.3,0.7,1.6,132.64
+Bengaluru,Prime,Apartment,Unfurnished,South-West,1102,1,1,1,1,13,1,4,5.7,1.3,1.8,190.57
+Pune,Suburban,Independent House,Unfurnished,West,1903,2,2,3,4,7,1,14,3.7,5.3,0.7,204.36
+Lucknow,Prime,Builder Floor,Unfurnished,North,1070,1,1,1,3,10,2,0,3.9,1.5,1.1,96.68
+Hyderabad,Central,Builder Floor,Semi-Furnished,North-East,672,1,1,0,4,7,0,7,2.3,5.9,1.2,89.24
+Jaipur,Central,Apartment,Semi-Furnished,West,1167,3,2,2,1,6,1,17,5.7,0.6,1.7,74.44
+Lucknow,Central,Apartment,Unfurnished,South,1146,1,1,1,1,10,2,12,7.5,7.2,0.7,64.66
+Ahmedabad,Suburban,Apartment,Furnished,South-East,765,1,1,2,1,5,2,2,10.5,3.1,1.9,67.02
+Bengaluru,Central,Apartment,Unfurnished,West,794,1,1,3,4,9,1,3,4.0,5.9,1.4,134.28
+Kolkata,Central,Apartment,Semi-Furnished,North,878,1,1,1,2,8,2,2,16.7,2.3,0.5,73.4
+Mumbai,Outskirts,Apartment,Unfurnished,South-East,1131,1,1,1,0,1,2,7,9.4,1.0,4.5,213.5
+Bengaluru,Prime,Independent House,Unfurnished,South,2178,4,4,1,7,7,0,7,5.7,3.6,4.2,433.11
+Mumbai,Suburban,Apartment,Semi-Furnished,West,1072,1,1,3,3,16,2,5,17.8,6.7,2.2,212.02
+Hyderabad,Suburban,Apartment,Semi-Furnished,East,1489,2,2,0,6,13,2,6,3.2,4.4,0.5,190.21
+Bengaluru,Suburban,Apartment,Unfurnished,North,1102,1,1,1,8,10,0,17,9.5,4.0,0.3,121.53
+Delhi,Central,Independent House,Furnished,North,1108,1,1,3,4,4,2,4,2.0,3.9,0.5,330.01
+Lucknow,Outskirts,Builder Floor,Unfurnished,South,945,3,3,1,1,13,0,5,9.1,6.0,2.5,31.61
+Chennai,Prime,Apartment,Unfurnished,West,1294,3,3,1,20,20,1,6,7.7,2.2,4.1,184.61
+Bengaluru,Outskirts,Builder Floor,Unfurnished,North-East,1184,3,3,2,2,2,0,3,5.8,1.0,1.6,141.98
+Kolkata,Central,Villa,Furnished,North-West,3706,6,5,1,19,19,2,4,4.5,3.0,0.1,519.21
+Delhi,Suburban,Apartment,Unfurnished,North-West,1158,1,1,0,10,13,0,10,3.8,2.1,0.6,195.03
+Bengaluru,Prime,Apartment,Semi-Furnished,North-West,1303,2,2,1,3,4,0,5,0.6,2.1,2.1,264.2
+Ahmedabad,Central,Apartment,Unfurnished,South-West,618,2,2,3,1,12,2,9,5.0,6.0,4.5,48.34
+Pune,Central,Independent House,Unfurnished,East,2158,4,4,2,4,16,2,10,1.7,3.4,2.1,309.07
+Pune,Suburban,Apartment,Semi-Furnished,East,877,2,1,2,5,5,2,3,7.0,1.1,6.0,100.37
+Mumbai,Suburban,Builder Floor,Semi-Furnished,South-East,1753,3,3,4,1,2,2,4,17.1,1.0,1.2,407.51
+Mumbai,Central,Apartment,Unfurnished,South-West,1036,2,1,3,12,12,1,2,1.6,1.2,0.8,299.83
+Chennai,Central,Apartment,Semi-Furnished,South-West,776,1,1,2,5,12,0,24,9.3,4.9,1.1,57.16
+Mumbai,Prime,Villa,Unfurnished,North-West,3594,6,5,2,0,4,1,15,1.9,1.1,1.6,1446.99
+Hyderabad,Prime,Builder Floor,Unfurnished,South,1547,4,4,3,11,18,0,6,8.2,3.6,1.8,224.81
+Pune,Outskirts,Independent House,Unfurnished,North-West,1769,2,1,1,9,20,0,5,2.2,4.8,3.0,163.27
+Delhi,Suburban,Apartment,Semi-Furnished,North-East,1645,2,1,3,6,16,1,6,3.9,0.4,0.9,358.51
+Ahmedabad,Prime,Apartment,Unfurnished,North,1413,3,3,1,8,8,2,5,11.6,4.2,3.8,134.92
+Bengaluru,Prime,Apartment,Semi-Furnished,South-West,1101,3,2,0,4,7,1,8,4.7,2.6,1.2,214.09
+Bengaluru,Suburban,Independent House,Unfurnished,North,2407,5,4,2,5,6,0,25,6.7,2.9,1.2,218.98
+Jaipur,Outskirts,Independent House,Unfurnished,East,1795,2,2,2,0,3,2,1,3.1,1.4,1.8,110.99
+Chennai,Outskirts,Independent House,Unfurnished,South-East,1469,4,3,1,0,1,0,7,3.1,3.2,0.4,119.12
+Mumbai,Central,Apartment,Semi-Furnished,West,1116,1,1,3,2,4,0,19,4.3,4.7,1.6,213.26
+Ahmedabad,Central,Apartment,Semi-Furnished,North,1072,1,1,0,1,1,0,3,6.0,5.7,3.4,90.68
+Kolkata,Prime,Villa,Semi-Furnished,South-West,4143,6,5,3,13,18,2,1,2.9,10.1,0.7,633.11
+Lucknow,Central,Independent House,Semi-Furnished,North-East,2370,4,3,2,0,15,1,7,0.4,3.2,1.1,173.77
+Bengaluru,Suburban,Apartment,Furnished,North-East,714,1,1,3,0,1,0,5,4.8,1.3,2.8,100.82
+Mumbai,Suburban,Villa,Semi-Furnished,North-East,2102,4,4,3,3,4,1,25,5.3,0.6,1.5,523.74
+Chennai,Central,Apartment,Furnished,South-East,1251,2,1,1,2,16,1,17,12.2,3.3,2.1,121.49
+Hyderabad,Suburban,Apartment,Unfurnished,East,1111,1,1,3,1,11,0,19,2.1,6.6,3.5,103.76
+Mumbai,Suburban,Apartment,Unfurnished,North-East,1176,2,2,3,8,9,2,9,6.1,0.9,1.3,315.53
+Lucknow,Central,Villa,Unfurnished,North-West,2990,5,4,1,3,3,1,3,1.0,2.1,1.2,287.4
+Lucknow,Suburban,Apartment,Semi-Furnished,South-West,1167,3,3,3,0,1,1,3,2.6,6.1,1.1,58.19
+Bengaluru,Central,Apartment,Unfurnished,West,1042,3,2,2,3,18,1,9,9.5,4.2,0.1,156.57
+Ahmedabad,Suburban,Studio,Unfurnished,South,476,2,2,1,5,16,2,4,4.0,2.8,1.5,32.86
+Mumbai,Suburban,Apartment,Unfurnished,South-East,1243,2,2,3,4,6,0,1,6.7,1.2,3.3,301.04
+Hyderabad,Central,Villa,Unfurnished,West,2442,3,3,3,5,16,2,9,17.3,4.1,1.5,315.41
+Hyderabad,Suburban,Independent House,Unfurnished,South,2063,5,4,4,1,1,2,3,1.6,2.9,0.1,273.57
+Hyderabad,Central,Independent House,Semi-Furnished,North,2688,5,4,2,17,17,1,5,6.6,1.3,1.5,427.79
+Bengaluru,Central,Independent House,Unfurnished,North,2298,4,4,1,8,10,1,8,3.7,5.6,3.8,384.11
+Mumbai,Suburban,Builder Floor,Unfurnished,North-West,1506,3,3,1,5,6,0,34,0.8,3.8,1.1,251.56
+Hyderabad,Central,Builder Floor,Unfurnished,North-East,809,2,1,2,8,19,1,1,15.0,0.3,2.6,101.0
+Lucknow,Suburban,Villa,Unfurnished,North-West,3129,6,5,3,0,3,1,1,3.1,0.3,0.8,274.08
+Bengaluru,Outskirts,Apartment,Unfurnished,West,1152,2,1,1,2,2,1,13,1.8,1.3,3.1,123.6
+Kolkata,Central,Villa,Semi-Furnished,North-West,3072,6,5,4,0,1,2,9,8.5,3.4,0.4,341.98
+Chennai,Suburban,Apartment,Semi-Furnished,South-West,2079,4,4,1,5,10,0,8,1.7,4.0,3.7,206.59
+Kolkata,Central,Apartment,Unfurnished,South-East,1103,1,1,0,2,7,2,3,9.6,6.1,0.3,98.67
+Kolkata,Prime,Apartment,Unfurnished,North,690,1,1,0,17,17,2,3,12.0,2.3,0.2,69.46
+Kolkata,Suburban,Studio,Semi-Furnished,North,582,1,1,0,3,12,2,4,0.9,0.6,0.2,48.73
+Chennai,Prime,Apartment,Unfurnished,East,1700,3,3,2,0,15,1,2,16.4,1.8,2.6,209.39
+Chennai,Central,Independent House,Semi-Furnished,East,1797,3,2,1,11,12,2,4,2.2,2.8,2.0,266.01
+Mumbai,Suburban,Apartment,Semi-Furnished,South-West,1285,2,2,1,0,1,0,0,6.1,7.8,3.3,300.17
+Bengaluru,Prime,Builder Floor,Semi-Furnished,North,1227,3,2,1,2,2,0,7,3.0,1.8,0.5,239.51
+Ahmedabad,Suburban,Villa,Unfurnished,North-East,3418,5,5,2,8,8,0,6,5.0,1.0,1.8,372.94
+Mumbai,Suburban,Apartment,Semi-Furnished,North-West,1465,4,3,2,5,9,2,13,1.5,3.0,2.5,346.49
+Kolkata,Suburban,Apartment,Unfurnished,East,1188,1,1,3,0,10,0,7,9.9,3.9,2.4,74.36
+Hyderabad,Suburban,Apartment,Semi-Furnished,West,1367,1,1,0,0,14,2,14,11.7,1.6,0.3,125.16
+Ahmedabad,Suburban,Apartment,Unfurnished,East,877,3,3,3,1,14,0,4,9.0,2.3,1.7,64.74
+Lucknow,Suburban,Studio,Unfurnished,South-East,545,2,1,1,13,15,2,13,4.3,2.0,1.2,25.87
+Ahmedabad,Prime,Builder Floor,Unfurnished,East,1779,4,4,2,1,6,1,20,9.3,5.7,3.6,139.11
+Delhi,Prime,Independent House,Semi-Furnished,South-West,1837,4,4,4,4,4,2,2,7.6,3.2,2.0,635.67
+Delhi,Suburban,Studio,Furnished,West,462,1,1,2,1,12,1,23,2.8,0.5,0.1,68.46
+Jaipur,Prime,Independent House,Furnished,South-East,1915,2,2,4,16,20,2,2,4.1,0.8,4.8,234.59
+Pune,Central,Apartment,Furnished,North-West,1051,1,1,3,5,6,0,11,10.6,0.7,2.6,112.59
+Pune,Suburban,Apartment,Semi-Furnished,South-West,1536,3,3,4,3,15,1,1,11.5,0.4,1.6,156.24
+Mumbai,Suburban,Builder Floor,Semi-Furnished,North-East,784,2,1,3,1,1,0,5,5.7,6.8,1.2,189.38
+Hyderabad,Outskirts,Villa,Furnished,East,1356,3,2,0,4,7,0,0,2.4,3.9,6.3,183.51
+Bengaluru,Prime,Apartment,Semi-Furnished,North-East,691,2,2,0,7,9,2,9,0.9,4.1,0.3,153.39
+Delhi,Central,Independent House,Unfurnished,South,1398,2,1,3,4,9,1,20,1.5,1.5,0.8,286.88
+Mumbai,Central,Villa,Semi-Furnished,South-East,2010,4,4,4,2,2,2,2,0.9,9.9,2.0,850.07
+Chennai,Prime,Apartment,Unfurnished,South-West,680,1,1,1,2,2,0,3,7.9,1.0,0.3,86.95
+Mumbai,Central,Apartment,Unfurnished,North,1397,4,4,0,1,13,0,1,4.9,2.2,2.0,404.9
+Mumbai,Prime,Apartment,Furnished,East,1234,1,1,1,4,18,0,24,11.3,2.9,0.5,334.33
+Hyderabad,Central,Apartment,Semi-Furnished,North,1110,1,1,3,2,6,1,2,4.4,3.6,3.1,155.67
+Lucknow,Suburban,Apartment,Unfurnished,North-West,1239,1,1,1,1,10,0,19,7.6,0.2,1.2,54.46
+Ahmedabad,Suburban,Independent House,Unfurnished,South,2857,6,5,1,9,14,2,3,11.1,1.2,0.6,248.04
+Mumbai,Prime,Builder Floor,Semi-Furnished,South-West,1161,1,1,2,7,10,1,16,13.1,0.8,2.6,286.99
+Delhi,Outskirts,Apartment,Semi-Furnished,North,1142,2,2,0,7,14,2,20,3.7,9.0,0.4,153.91
+Lucknow,Central,Independent House,Semi-Furnished,West,1484,4,4,3,3,18,1,1,1.1,2.3,4.5,129.67
+Bengaluru,Suburban,Apartment,Unfurnished,East,1317,1,1,1,6,17,2,2,11.9,0.0,3.1,171.15
+Bengaluru,Prime,Villa,Semi-Furnished,South-East,2530,6,5,1,7,8,2,7,4.7,3.2,3.7,740.0
+Pune,Central,Apartment,Furnished,South,1503,2,2,2,0,3,1,4,10.4,8.1,0.3,170.76
+Hyderabad,Outskirts,Apartment,Unfurnished,South-West,828,3,3,0,1,20,2,13,3.9,4.2,1.2,69.61
+Mumbai,Suburban,Independent House,Unfurnished,South-West,1992,4,4,2,2,7,1,12,0.8,1.1,3.2,483.39
+Chennai,Prime,Apartment,Semi-Furnished,South,1089,2,2,3,14,14,0,2,1.3,0.9,0.6,184.45
+Delhi,Prime,Villa,Semi-Furnished,South,2793,5,4,3,6,18,0,7,0.7,5.3,0.8,1062.7
+Mumbai,Outskirts,Apartment,Semi-Furnished,North-West,1237,2,1,0,0,13,2,11,3.4,5.0,2.4,246.03
+Delhi,Prime,Apartment,Unfurnished,West,1614,3,2,4,3,6,1,0,5.6,0.7,3.3,503.19
+Chennai,Suburban,Apartment,Unfurnished,North-West,1335,2,2,0,0,10,1,1,10.2,6.4,2.0,125.14
+Bengaluru,Suburban,Independent House,Unfurnished,South-East,1872,3,3,2,3,3,0,2,1.9,2.1,0.9,284.03
+Bengaluru,Suburban,Villa,Semi-Furnished,North,3514,6,5,2,2,3,0,8,3.3,1.2,3.8,493.2
+Pune,Central,Apartment,Unfurnished,North-West,809,1,1,2,3,3,1,1,0.8,3.5,2.4,109.99
+Mumbai,Prime,Apartment,Unfurnished,North-West,1628,2,2,2,4,6,2,11,2.3,3.4,1.9,548.2
+Pune,Outskirts,Builder Floor,Furnished,South-West,1194,2,2,1,5,12,0,0,2.1,0.7,1.2,127.4
+Delhi,Central,Apartment,Semi-Furnished,North,1216,1,1,3,4,17,2,5,1.7,0.9,0.7,319.59
+Chennai,Suburban,Apartment,Semi-Furnished,East,808,2,1,1,3,6,0,14,2.0,1.9,0.8,79.08
+Jaipur,Prime,Apartment,Unfurnished,North-West,945,1,1,2,5,15,0,7,13.0,0.9,1.3,62.5
+Ahmedabad,Outskirts,Villa,Furnished,East,1953,5,5,3,6,18,0,0,2.9,1.2,0.2,194.95
+Chennai,Suburban,Builder Floor,Semi-Furnished,South-East,1532,2,1,1,5,19,2,3,1.9,1.0,1.7,201.54
+Lucknow,Suburban,Apartment,Unfurnished,South-West,1027,3,3,1,1,15,0,5,5.8,0.9,1.6,59.44
+Hyderabad,Central,Apartment,Unfurnished,South-East,1026,3,3,0,0,1,0,34,1.2,2.0,0.5,81.23
+Pune,Central,Apartment,Furnished,North-East,730,2,2,3,10,12,1,5,4.6,4.3,1.5,113.17
+Ahmedabad,Central,Apartment,Unfurnished,North,1097,1,1,2,1,7,1,1,5.4,2.5,2.6,109.19
+Chennai,Suburban,Builder Floor,Unfurnished,South-West,1467,2,2,3,0,1,0,5,1.1,1.5,2.1,150.18
+Kolkata,Suburban,Builder Floor,Furnished,South-West,1156,2,1,1,1,1,0,7,7.1,3.2,2.2,83.54
+Mumbai,Central,Apartment,Unfurnished,West,1113,3,2,2,7,18,1,4,12.0,2.0,3.5,288.97
+Ahmedabad,Prime,Apartment,Semi-Furnished,South-West,1262,3,3,0,0,17,1,4,2.8,0.5,0.6,148.01
+Ahmedabad,Central,Apartment,Unfurnished,North-West,1630,2,2,1,6,17,0,20,3.1,0.5,1.4,128.26
+Pune,Outskirts,Builder Floor,Unfurnished,West,1617,2,1,2,0,1,2,3,9.1,8.4,0.5,134.96
+Mumbai,Suburban,Apartment,Unfurnished,North,539,2,2,2,7,17,1,11,2.7,2.9,3.6,123.11
+Pune,Central,Apartment,Furnished,North-East,1024,3,3,2,6,6,2,11,6.1,2.0,1.1,129.18
+Jaipur,Central,Builder Floor,Semi-Furnished,South-West,1532,3,2,4,10,19,0,8,8.8,1.4,0.5,104.46
+Mumbai,Central,Builder Floor,Furnished,South-West,1157,1,1,3,4,13,1,9,1.8,5.4,0.2,365.35
+Lucknow,Outskirts,Villa,Semi-Furnished,West,2061,4,4,4,3,6,1,6,3.9,5.0,4.4,116.04
+Bengaluru,Prime,Apartment,Unfurnished,North-West,982,2,2,2,0,5,0,4,8.0,1.9,0.4,170.97
+Lucknow,Central,Independent House,Semi-Furnished,South-West,1540,3,3,4,8,13,0,0,4.5,3.8,0.8,122.71
+Mumbai,Prime,Studio,Furnished,North-East,462,1,1,2,3,3,0,4,5.2,0.9,1.4,176.89
+Kolkata,Outskirts,Independent House,Unfurnished,North-West,1640,4,4,3,6,6,1,5,7.4,3.3,0.8,104.64
+Mumbai,Central,Studio,Furnished,North-West,805,2,2,3,15,20,0,5,3.5,5.9,2.7,218.31
+Chennai,Central,Builder Floor,Unfurnished,North-West,2198,3,2,4,1,3,0,3,3.3,1.9,2.0,293.64
+Chennai,Prime,Builder Floor,Semi-Furnished,South-West,1337,2,1,3,2,3,0,0,1.0,3.1,0.2,247.33
+Lucknow,Central,Apartment,Furnished,North-East,1288,1,1,1,5,6,1,2,5.7,8.7,0.3,103.63
+Delhi,Prime,Independent House,Unfurnished,North,1810,4,4,4,0,1,2,6,7.2,1.4,1.6,549.13
+Pune,Central,Studio,Semi-Furnished,North-East,300,1,1,2,2,16,2,3,10.7,3.1,1.8,37.39
+Mumbai,Suburban,Apartment,Unfurnished,North-East,790,1,1,3,2,6,0,34,4.3,3.6,0.5,123.92
+Hyderabad,Central,Apartment,Unfurnished,South-East,1367,2,2,1,2,17,2,2,10.5,1.8,0.9,163.23
+Pune,Suburban,Independent House,Semi-Furnished,West,1372,1,1,2,0,7,1,16,1.6,5.0,0.4,145.56
+Hyderabad,Suburban,Builder Floor,Furnished,West,1362,2,2,1,3,6,2,7,11.2,3.5,2.4,156.51
+Pune,Central,Apartment,Semi-Furnished,West,1366,2,2,0,9,9,0,7,1.9,2.8,0.3,183.18
+Jaipur,Suburban,Villa,Semi-Furnished,South-East,2100,3,2,1,7,20,2,20,9.9,6.5,0.6,141.63
+Kolkata,Prime,Independent House,Unfurnished,West,1288,2,1,2,12,18,0,5,3.8,6.1,1.3,145.93
+Pune,Prime,Builder Floor,Unfurnished,North-East,1315,1,1,3,5,8,1,6,5.4,6.4,0.9,197.93
+Mumbai,Central,Villa,Unfurnished,North-West,2475,5,4,4,1,2,1,14,13.3,6.7,1.5,555.77
+Delhi,Prime,Apartment,Furnished,South-West,1003,3,3,3,1,2,2,23,1.4,1.1,1.6,279.07
+Mumbai,Prime,Apartment,Unfurnished,South-West,634,2,2,2,20,20,0,14,2.6,3.9,5.0,184.48
+Ahmedabad,Suburban,Independent House,Semi-Furnished,South-West,1622,4,4,2,1,7,0,4,4.8,3.1,1.2,128.18
+Kolkata,Prime,Apartment,Unfurnished,North-East,1155,2,2,3,6,6,1,4,1.9,5.5,4.5,130.54
+Chennai,Suburban,Apartment,Unfurnished,East,1197,2,1,1,0,4,0,1,6.2,2.2,0.8,118.24
+Mumbai,Suburban,Apartment,Semi-Furnished,South-West,863,2,1,2,2,5,1,26,2.4,2.2,1.9,160.45
+Mumbai,Prime,Apartment,Unfurnished,North-East,300,1,1,1,16,16,0,14,9.2,4.1,0.2,83.58
+Delhi,Suburban,Studio,Semi-Furnished,East,709,2,1,0,1,4,1,10,4.7,14.3,2.0,100.69
+Chennai,Outskirts,Studio,Semi-Furnished,South-East,539,1,1,0,3,6,2,18,4.2,1.9,1.9,38.79
+Pune,Central,Independent House,Unfurnished,South,1093,3,2,3,9,12,1,7,0.9,2.7,2.2,157.21
+Bengaluru,Suburban,Apartment,Unfurnished,North,803,2,2,1,2,14,1,3,2.5,0.4,3.8,107.55
+Pune,Suburban,Villa,Unfurnished,South-West,3423,6,5,3,5,6,1,0,4.9,2.9,1.6,489.35
+Bengaluru,Suburban,Builder Floor,Unfurnished,North,1501,3,2,1,7,13,2,6,4.1,5.8,4.1,226.71
+Hyderabad,Suburban,Apartment,Furnished,North-East,1396,2,1,0,2,3,0,31,6.7,1.3,1.1,103.87
+Delhi,Central,Independent House,Unfurnished,South,1783,4,4,1,6,10,0,16,1.8,1.1,1.6,372.08
+Lucknow,Outskirts,Builder Floor,Unfurnished,North-West,1552,3,2,1,1,1,1,11,1.9,6.4,1.1,69.03
+Jaipur,Prime,Builder Floor,Semi-Furnished,South,1753,3,3,4,6,19,2,4,5.6,1.7,1.5,168.12
+Ahmedabad,Central,Apartment,Unfurnished,South-East,1217,3,3,0,3,8,1,2,1.0,5.1,1.2,121.24
+Kolkata,Suburban,Apartment,Unfurnished,North-West,744,1,1,2,0,17,2,3,13.4,1.7,0.9,55.25
+Chennai,Prime,Apartment,Semi-Furnished,North-West,1038,1,1,3,2,5,1,29,5.7,1.2,4.8,96.17
+Delhi,Prime,Builder Floor,Furnished,North-West,1307,2,1,3,4,11,1,4,10.3,1.8,1.4,344.07
+Mumbai,Central,Independent House,Unfurnished,North,1218,1,1,3,7,12,0,7,2.8,7.9,3.3,385.44
+Mumbai,Central,Builder Floor,Furnished,West,1318,1,1,1,1,7,2,2,4.7,0.7,0.4,432.42
+Ahmedabad,Outskirts,Apartment,Unfurnished,South-West,772,1,1,0,1,17,1,13,15.3,2.5,1.0,35.25
+Delhi,Suburban,Apartment,Unfurnished,South-East,1122,1,1,0,15,15,1,28,5.6,1.1,4.2,154.79
+Jaipur,Suburban,Apartment,Unfurnished,North,665,1,1,3,1,10,1,1,2.8,1.6,1.2,44.71
+Bengaluru,Prime,Apartment,Semi-Furnished,North,1084,1,1,3,16,18,1,9,2.7,0.6,0.2,183.3
+Bengaluru,Central,Apartment,Semi-Furnished,South-West,875,2,2,0,3,5,0,0,12.4,0.8,1.0,131.5
+Delhi,Central,Apartment,Semi-Furnished,South-West,1721,2,2,2,4,13,2,4,7.7,1.3,1.0,395.91
+Delhi,Central,Builder Floor,Semi-Furnished,South,1448,4,3,3,0,3,2,25,2.0,0.7,5.3,283.79
+Pune,Central,Apartment,Unfurnished,North,1404,3,3,3,10,13,2,38,4.7,3.5,0.1,95.87
+Delhi,Suburban,Apartment,Unfurnished,South-East,1090,3,2,2,1,4,0,13,10.1,3.8,0.4,147.46
+Pune,Suburban,Builder Floor,Unfurnished,North,1384,3,3,2,3,16,1,21,2.0,2.9,0.8,119.16
+Mumbai,Outskirts,Villa,Unfurnished,North,2612,4,3,1,2,9,1,3,18.1,1.2,2.2,545.32
+Chennai,Suburban,Builder Floor,Unfurnished,South,643,1,1,3,2,5,1,5,8.1,2.8,2.5,68.43
+Kolkata,Outskirts,Independent House,Semi-Furnished,South-West,2123,4,3,2,4,6,1,1,19.5,3.5,1.0,107.48
+Mumbai,Central,Apartment,Semi-Furnished,South,1168,1,1,2,13,20,1,2,2.1,0.9,2.1,372.67
+Delhi,Central,Apartment,Semi-Furnished,North-West,1559,3,2,4,13,15,0,20,16.3,5.0,1.0,225.08
+Pune,Central,Apartment,Semi-Furnished,West,1151,1,1,2,8,11,2,1,3.4,1.0,4.1,173.41
+Mumbai,Prime,Apartment,Unfurnished,North-East,1087,3,2,3,3,19,0,0,16.1,3.1,1.7,323.76
+Jaipur,Outskirts,Builder Floor,Semi-Furnished,South,1177,2,1,2,3,8,2,1,16.9,4.1,0.3,62.25
+Mumbai,Outskirts,Apartment,Unfurnished,South,909,2,1,1,5,5,0,13,5.2,3.2,1.5,154.4
+Chennai,Suburban,Apartment,Unfurnished,East,993,1,1,2,11,20,1,3,5.1,0.5,2.3,100.92
+Mumbai,Prime,Independent House,Unfurnished,East,2206,3,3,1,12,15,1,10,10.2,4.2,1.0,721.11
+Delhi,Suburban,Builder Floor,Unfurnished,South,1420,3,3,0,12,19,0,2,44.5,2.8,0.8,103.97
+Jaipur,Suburban,Builder Floor,Unfurnished,North-West,1677,2,1,2,12,14,2,5,9.9,2.7,0.8,104.05
+Delhi,Suburban,Independent House,Furnished,West,1001,3,2,0,1,12,2,20,6.4,1.3,1.4,203.26
+Pune,Prime,Independent House,Unfurnished,North-West,1873,4,4,2,9,19,2,1,3.4,13.1,2.0,301.44
+Mumbai,Central,Villa,Unfurnished,South,2906,6,5,4,7,13,2,8,6.1,3.7,0.3,999.43
+Lucknow,Suburban,Apartment,Semi-Furnished,South-East,588,2,1,0,0,3,0,7,5.8,0.8,0.5,32.31
+Ahmedabad,Outskirts,Apartment,Semi-Furnished,North,861,2,2,1,7,9,2,1,20.0,0.3,0.3,54.11
+Jaipur,Suburban,Independent House,Semi-Furnished,North,1557,4,4,2,3,3,1,2,3.6,6.0,6.8,101.52
+Mumbai,Central,Apartment,Semi-Furnished,East,1340,1,1,0,0,15,0,28,8.4,0.7,3.2,266.06
+Delhi,Prime,Apartment,Unfurnished,North,835,2,1,0,0,4,2,14,3.2,1.4,1.4,215.24
+Pune,Suburban,Apartment,Furnished,West,879,2,1,0,7,20,2,14,2.8,1.0,0.2,101.92
+Delhi,Central,Independent House,Semi-Furnished,South,1422,4,4,3,7,7,2,15,4.2,3.1,3.2,312.23
+Ahmedabad,Outskirts,Apartment,Unfurnished,North,1056,1,1,3,9,16,1,5,0.3,2.0,0.1,81.8
+Mumbai,Suburban,Builder Floor,Semi-Furnished,West,1517,4,4,3,16,16,1,6,5.7,0.5,5.3,438.31
+Pune,Outskirts,Apartment,Furnished,North-East,300,1,1,2,6,6,0,5,3.6,1.3,1.2,29.0
+Ahmedabad,Outskirts,Apartment,Unfurnished,South,1079,3,3,2,9,11,0,0,9.3,3.5,2.2,60.0
+Pune,Suburban,Apartment,Unfurnished,East,884,1,1,0,0,8,1,11,3.0,1.6,0.4,89.9
+Lucknow,Central,Builder Floor,Unfurnished,South-West,1113,2,2,2,1,13,1,5,2.4,6.2,3.2,70.08
+Kolkata,Suburban,Villa,Semi-Furnished,West,2689,6,5,2,7,10,2,19,15.5,2.7,2.8,197.05
+Mumbai,Central,Apartment,Semi-Furnished,North,871,3,2,1,6,14,2,2,18.0,0.8,1.2,218.2
+Jaipur,Outskirts,Apartment,Unfurnished,East,805,1,1,3,17,20,1,6,2.3,1.2,2.8,45.29
+Mumbai,Central,Apartment,Unfurnished,West,821,1,1,0,0,11,1,9,6.4,0.7,2.3,207.09
+Bengaluru,Prime,Apartment,Unfurnished,North-West,926,2,2,0,3,3,1,32,5.4,4.9,4.3,114.8
+Mumbai,Suburban,Apartment,Unfurnished,South-West,979,1,1,0,3,17,1,2,3.5,5.8,1.7,238.76
+Delhi,Suburban,Builder Floor,Unfurnished,North,554,2,2,2,15,19,1,11,7.5,0.7,1.4,111.24
+Jaipur,Central,Apartment,Unfurnished,North,876,3,3,3,0,19,2,30,5.4,0.4,0.7,42.34
+Pune,Suburban,Apartment,Furnished,North,445,1,1,1,0,4,0,3,3.8,7.9,1.5,53.25
+Pune,Central,Villa,Furnished,South-East,3381,5,5,3,3,5,0,2,3.9,7.3,3.0,547.13
+Ahmedabad,Outskirts,Apartment,Unfurnished,North-East,1088,3,2,1,0,4,0,1,3.1,5.3,1.6,75.43
+Chennai,Prime,Apartment,Unfurnished,South-East,1115,2,2,1,5,18,1,7,5.0,2.4,3.9,157.18
+Bengaluru,Central,Independent House,Semi-Furnished,North,1517,4,4,3,1,10,1,7,4.3,2.7,2.5,287.94
+Chennai,Outskirts,Independent House,Furnished,North,1942,4,3,3,17,19,0,8,7.4,3.1,2.5,169.01
+Chennai,Central,Independent House,Unfurnished,South-West,1747,3,3,4,3,3,2,10,4.2,3.4,8.1,182.71
+Mumbai,Prime,Independent House,Semi-Furnished,South-East,2043,5,4,3,5,11,0,1,8.3,4.8,2.4,748.03
+Delhi,Outskirts,Apartment,Unfurnished,South-East,976,1,1,0,1,2,1,1,7.0,2.8,2.0,172.0
+Chennai,Suburban,Apartment,Unfurnished,South-West,996,1,1,0,1,4,1,12,3.9,3.9,0.7,74.67
+Hyderabad,Central,Apartment,Semi-Furnished,South-East,936,1,1,3,0,9,0,11,9.8,4.2,0.8,97.88
+Chennai,Central,Apartment,Semi-Furnished,South,952,3,3,1,1,1,2,14,7.8,7.1,1.4,105.26
+Hyderabad,Central,Independent House,Unfurnished,North-East,1279,1,1,2,17,19,1,4,1.8,8.4,3.1,187.22
+Pune,Central,Apartment,Semi-Furnished,South,300,1,1,1,3,4,1,7,2.5,6.7,1.6,32.45
+Kolkata,Prime,Apartment,Semi-Furnished,North-West,961,2,2,0,9,19,2,22,4.8,0.5,0.4,89.54
+Hyderabad,Prime,Apartment,Semi-Furnished,North-East,1223,3,2,2,0,18,1,4,5.6,0.3,0.6,212.93
+Delhi,Suburban,Apartment,Unfurnished,North-West,908,1,1,3,0,5,1,4,6.1,1.2,2.8,153.61
+Pune,Suburban,Apartment,Furnished,South-East,1442,2,1,0,6,7,1,7,2.9,2.9,1.0,168.11
+Jaipur,Suburban,Builder Floor,Semi-Furnished,South,2134,3,3,2,9,11,0,27,11.2,0.7,1.1,86.19
+Ahmedabad,Outskirts,Independent House,Unfurnished,South,2081,5,5,3,3,8,2,17,1.6,2.5,1.3,137.26
+Pune,Central,Apartment,Semi-Furnished,North,1224,2,2,1,5,8,2,0,25.9,3.6,1.1,107.42
+Mumbai,Outskirts,Apartment,Furnished,South-West,1600,2,2,4,1,12,0,14,1.0,3.4,0.8,323.19
+Bengaluru,Central,Independent House,Furnished,North-East,2714,5,5,4,1,15,0,8,2.7,3.5,3.7,508.59
+Bengaluru,Outskirts,Builder Floor,Furnished,West,1059,1,1,2,4,13,2,4,7.1,2.4,3.9,136.9
+Kolkata,Suburban,Builder Floor,Semi-Furnished,North-East,1359,2,2,0,4,6,0,4,6.1,7.7,1.3,99.06
+Lucknow,Suburban,Independent House,Semi-Furnished,North,1923,2,2,4,3,10,0,16,6.3,2.6,2.8,101.1
+Jaipur,Central,Studio,Semi-Furnished,North-West,669,1,1,3,1,1,0,1,3.1,2.0,0.5,45.92
+Chennai,Prime,Builder Floor,Furnished,North,1600,2,2,1,3,15,1,7,8.7,0.8,2.4,273.7
+Pune,Central,Builder Floor,Furnished,East,1390,2,1,1,0,17,1,2,3.6,5.4,1.9,230.03
+Kolkata,Prime,Apartment,Unfurnished,West,1554,4,4,1,1,3,1,2,2.4,1.5,2.4,174.03
+Kolkata,Outskirts,Apartment,Unfurnished,South-West,1231,1,1,3,7,18,0,3,4.8,2.3,0.4,69.09
+Chennai,Prime,Apartment,Unfurnished,North,1215,2,1,1,2,14,2,2,4.5,1.4,3.4,174.64
+Hyderabad,Suburban,Apartment,Unfurnished,West,831,2,2,1,6,13,2,3,2.1,3.2,0.7,108.11
+Mumbai,Prime,Apartment,Unfurnished,East,1013,1,1,1,10,19,2,14,7.1,1.4,1.9,347.86
+Ahmedabad,Suburban,Apartment,Semi-Furnished,North-East,1594,4,4,2,7,19,1,18,2.1,3.4,0.0,125.77
+Lucknow,Suburban,Apartment,Unfurnished,South-East,895,1,1,3,18,19,1,0,7.3,2.9,0.4,54.6
+Lucknow,Outskirts,Villa,Semi-Furnished,West,3426,6,5,4,13,13,0,4,2.2,6.6,1.2,206.89
+Delhi,Outskirts,Apartment,Unfurnished,South-East,739,1,1,2,3,17,0,13,6.8,1.4,3.8,99.61
+Delhi,Central,Studio,Unfurnished,East,633,1,1,0,2,11,0,16,4.2,0.1,2.9,119.23
+Hyderabad,Outskirts,Apartment,Unfurnished,West,934,2,1,1,8,12,2,4,8.1,0.2,0.8,95.98
+Pune,Central,Apartment,Semi-Furnished,North-West,1188,2,2,3,2,16,0,6,18.1,2.4,0.3,120.5
+Jaipur,Central,Studio,Unfurnished,West,823,1,1,0,1,1,1,7,8.1,4.5,0.4,52.07
+Delhi,Suburban,Independent House,Unfurnished,East,3363,6,5,3,3,3,2,1,8.2,3.8,2.7,724.6
+Ahmedabad,Suburban,Apartment,Furnished,North,731,1,1,2,10,14,0,3,6.2,2.4,1.6,62.6
+Pune,Central,Apartment,Furnished,East,1345,2,1,3,2,16,1,3,1.0,5.8,1.3,212.92
+Lucknow,Suburban,Independent House,Unfurnished,North-East,1833,2,2,1,7,7,0,1,15.7,0.6,2.2,108.62
+Delhi,Prime,Apartment,Unfurnished,South,932,2,1,0,11,12,0,3,6.2,3.4,3.4,210.32
+Delhi,Suburban,Apartment,Unfurnished,North-East,1523,4,4,4,0,3,2,2,2.4,2.4,3.0,326.45
+Bengaluru,Suburban,Apartment,Furnished,East,1543,3,2,4,14,14,2,9,6.3,5.3,0.7,225.03
+Lucknow,Central,Builder Floor,Unfurnished,South,1456,4,3,0,15,15,0,7,2.9,3.0,1.1,92.3
+Lucknow,Central,Villa,Unfurnished,West,4037,6,5,4,11,16,1,2,3.1,1.9,0.0,399.9
+Hyderabad,Central,Studio,Semi-Furnished,East,571,2,1,3,8,16,0,1,3.7,5.6,0.4,71.69
+Jaipur,Prime,Apartment,Unfurnished,North-East,1598,4,4,2,0,8,0,7,5.3,3.8,3.2,133.26
+Ahmedabad,Suburban,Builder Floor,Semi-Furnished,North-East,1351,1,1,3,3,3,1,0,3.1,0.7,1.6,140.65
+Ahmedabad,Outskirts,Apartment,Semi-Furnished,East,1449,2,2,3,2,3,0,5,8.6,0.9,1.2,85.97
+Kolkata,Prime,Independent House,Unfurnished,North-West,2819,4,4,4,10,14,1,1,4.5,2.2,2.2,356.46
+Kolkata,Central,Builder Floor,Unfurnished,North,1683,4,3,3,5,5,2,24,9.4,0.1,1.4,120.55
+Hyderabad,Central,Apartment,Furnished,North,300,2,2,0,2,5,0,4,4.0,3.0,0.6,44.61
+Kolkata,Central,Apartment,Unfurnished,South-East,1056,2,2,1,1,6,1,1,4.5,3.3,0.7,93.13
+Kolkata,Prime,Apartment,Unfurnished,South-West,1057,2,1,0,10,16,2,2,5.9,1.6,1.4,107.64
+Chennai,Prime,Villa,Unfurnished,South-West,4265,6,5,2,3,3,0,3,6.8,2.0,2.6,740.28
+Delhi,Outskirts,Studio,Unfurnished,North,732,2,2,0,0,1,1,2,13.8,1.0,2.9,78.78
+Hyderabad,Suburban,Builder Floor,Unfurnished,West,802,1,1,1,8,14,1,19,4.8,6.4,0.7,78.62
+Chennai,Prime,Apartment,Semi-Furnished,West,1744,4,4,2,13,13,0,20,2.2,4.3,4.4,222.71
+Bengaluru,Suburban,Independent House,Unfurnished,South-West,1393,2,1,2,14,14,2,24,14.3,3.2,0.0,149.42
+Delhi,Prime,Apartment,Semi-Furnished,South-East,1025,1,1,2,14,20,0,1,12.6,0.8,3.2,260.63
+Mumbai,Suburban,Apartment,Semi-Furnished,North-East,756,1,1,0,1,13,0,15,2.5,2.0,1.2,183.79
+Kolkata,Suburban,Builder Floor,Furnished,South-East,1566,3,2,4,7,10,2,5,2.5,4.3,3.8,141.86
+Kolkata,Prime,Builder Floor,Unfurnished,South,1345,2,1,0,2,2,0,3,9.4,3.6,3.4,116.71
+Ahmedabad,Prime,Apartment,Semi-Furnished,East,661,1,1,1,0,1,0,1,1.5,3.8,1.0,78.46
+Pune,Central,Builder Floor,Furnished,South-West,1462,4,3,1,0,1,1,7,2.5,2.7,1.8,197.38
+Pune,Outskirts,Independent House,Semi-Furnished,East,1718,2,2,2,4,5,0,5,1.4,1.5,0.8,169.96
+Mumbai,Suburban,Studio,Unfurnished,South-East,634,1,1,0,13,17,2,5,6.2,3.4,0.4,149.64
+Mumbai,Prime,Builder Floor,Unfurnished,North-East,1232,3,3,3,2,2,1,1,9.1,3.8,1.0,453.17
+Mumbai,Suburban,Apartment,Semi-Furnished,North-West,1256,3,3,3,6,9,1,3,0.9,1.9,3.6,375.91
+Mumbai,Central,Builder Floor,Unfurnished,North-West,928,1,1,1,11,13,0,15,27.4,1.1,0.3,137.37
+Lucknow,Central,Apartment,Unfurnished,East,1046,1,1,2,1,1,2,6,5.2,2.2,2.9,66.55
+Pune,Prime,Apartment,Unfurnished,East,702,2,1,1,8,8,0,5,6.4,8.6,2.4,89.9
+Ahmedabad,Central,Apartment,Unfurnished,South-West,1182,1,1,0,4,6,0,1,1.9,2.1,0.3,124.43
+Ahmedabad,Suburban,Independent House,Unfurnished,North-East,1889,2,2,1,1,9,1,21,4.6,1.4,3.4,134.21
+Jaipur,Prime,Villa,Semi-Furnished,North-West,1883,2,1,1,16,17,1,21,2.7,1.2,0.9,202.13
+Bengaluru,Prime,Builder Floor,Unfurnished,North-East,690,2,1,1,2,2,2,10,8.7,1.9,0.7,129.75
+Bengaluru,Suburban,Apartment,Unfurnished,South,719,1,1,3,10,12,0,6,2.6,5.0,1.2,95.79
+Ahmedabad,Suburban,Apartment,Unfurnished,North-East,1234,3,3,0,6,17,1,2,5.7,2.7,1.8,96.15
+Kolkata,Outskirts,Independent House,Unfurnished,North-East,1498,2,1,0,2,16,1,8,3.0,3.0,3.4,99.53
+Pune,Central,Apartment,Furnished,South-East,1304,3,3,2,15,16,0,8,4.1,1.1,1.9,197.63
+Jaipur,Suburban,Apartment,Unfurnished,North,1898,3,3,1,5,6,2,1,9.6,1.4,0.4,125.39
+Mumbai,Suburban,Apartment,Unfurnished,North-East,1337,1,1,0,11,15,2,9,10.6,7.4,1.4,286.48
+Ahmedabad,Suburban,Villa,Unfurnished,North,2429,5,5,1,0,11,1,5,7.1,1.3,1.2,227.68
+Mumbai,Outskirts,Apartment,Semi-Furnished,North-East,1409,3,2,1,1,1,0,3,2.3,4.9,4.2,319.08
+Hyderabad,Suburban,Apartment,Unfurnished,North-West,1682,3,2,2,1,5,0,11,2.7,5.7,0.7,143.46
+Mumbai,Suburban,Apartment,Semi-Furnished,South-West,1080,2,2,0,14,18,0,8,4.5,4.2,1.7,254.03
+Chennai,Outskirts,Independent House,Unfurnished,South-East,1070,1,1,0,9,13,2,2,1.7,3.0,0.6,115.46
+Bengaluru,Central,Independent House,Furnished,South-East,3054,6,5,1,8,8,1,12,5.9,1.2,0.9,548.25
+Bengaluru,Outskirts,Apartment,Unfurnished,South-West,1042,3,2,1,2,8,0,16,2.3,2.9,2.0,90.78
+Mumbai,Central,Builder Floor,Unfurnished,South-East,1234,1,1,2,6,11,2,2,17.3,1.9,1.4,321.23
+Kolkata,Central,Apartment,Semi-Furnished,West,1407,2,2,0,0,8,2,1,0.5,0.3,0.8,148.12
+Bengaluru,Central,Builder Floor,Semi-Furnished,North,342,1,1,3,2,3,1,6,6.1,1.8,0.2,59.24
+Kolkata,Central,Apartment,Unfurnished,South,503,1,1,2,15,16,2,10,0.4,1.7,1.5,54.38
+Ahmedabad,Suburban,Apartment,Unfurnished,West,1345,1,1,0,1,8,0,4,3.9,7.9,0.7,92.51
+Pune,Outskirts,Apartment,Unfurnished,East,551,1,1,3,6,8,2,0,5.5,3.8,1.6,53.08
+Lucknow,Suburban,Apartment,Furnished,North,1583,2,2,3,1,15,0,2,1.3,2.3,1.1,96.55
+Mumbai,Central,Studio,Semi-Furnished,South-West,427,1,1,1,7,13,0,14,10.5,5.2,1.2,81.99
+Delhi,Central,Apartment,Unfurnished,South-West,1599,4,4,3,5,19,1,15,6.6,1.6,2.8,280.47
+Delhi,Suburban,Apartment,Furnished,East,781,2,1,2,2,3,0,2,5.2,0.7,0.2,159.08
+Kolkata,Suburban,Apartment,Unfurnished,North,1131,2,1,3,1,6,1,2,9.2,3.0,0.6,87.95
+Bengaluru,Suburban,Villa,Semi-Furnished,South-East,2817,4,4,4,1,13,0,20,3.9,0.8,1.3,399.4
+Hyderabad,Central,Independent House,Unfurnished,West,2062,5,5,4,1,5,2,21,3.3,2.0,2.6,262.01
+Bengaluru,Prime,Independent House,Semi-Furnished,West,1867,3,2,3,2,11,2,2,12.9,1.9,3.6,375.99
+Jaipur,Prime,Builder Floor,Unfurnished,South-West,1321,3,2,3,0,14,2,2,7.0,1.5,1.1,125.65
+Jaipur,Central,Apartment,Unfurnished,North-West,1522,2,2,3,6,10,1,1,11.5,2.4,1.2,107.26
+Hyderabad,Prime,Independent House,Semi-Furnished,North-West,1375,3,3,0,12,12,1,1,2.9,1.2,0.7,295.71
+Ahmedabad,Central,Independent House,Semi-Furnished,North,817,2,1,3,15,19,2,1,4.5,3.2,1.1,91.3
+Jaipur,Suburban,Independent House,Unfurnished,North,1517,2,2,3,4,6,1,5,5.0,0.8,0.2,94.96
+Delhi,Central,Apartment,Semi-Furnished,East,531,1,1,2,6,16,2,9,5.8,2.2,0.6,125.73
+Bengaluru,Suburban,Apartment,Unfurnished,South,1197,1,1,0,6,7,1,0,0.7,1.5,0.7,207.29
+Mumbai,Central,Builder Floor,Unfurnished,South,1403,2,1,3,2,20,2,4,3.2,1.6,2.4,477.63
+Kolkata,Suburban,Builder Floor,Semi-Furnished,South,1726,4,3,3,1,2,0,3,5.8,8.5,3.2,115.57
+Bengaluru,Outskirts,Apartment,Semi-Furnished,North,1339,2,1,2,5,7,0,4,5.1,0.7,1.4,151.09
+Hyderabad,Suburban,Independent House,Unfurnished,South,1636,4,3,2,5,19,2,17,3.5,16.1,1.7,156.49
+Delhi,Central,Apartment,Semi-Furnished,North-West,689,1,1,0,2,4,0,2,9.0,2.6,3.5,143.86
+Ahmedabad,Suburban,Independent House,Semi-Furnished,North-East,2359,4,3,2,4,4,2,7,0.9,1.6,0.7,259.19
+Kolkata,Outskirts,Villa,Unfurnished,South-East,2087,4,4,2,5,15,2,0,3.7,3.1,2.9,185.92
+Chennai,Suburban,Independent House,Semi-Furnished,East,1691,4,3,2,3,14,0,12,14.5,0.3,3.1,133.74
+Bengaluru,Outskirts,Apartment,Semi-Furnished,North,1109,2,2,2,16,19,2,7,7.2,1.7,1.5,137.48
+Lucknow,Central,Apartment,Unfurnished,South-West,1880,3,3,3,16,20,1,5,4.6,1.1,1.4,143.0
+Ahmedabad,Central,Villa,Unfurnished,North-West,2585,4,3,4,0,1,0,8,7.6,4.2,1.3,266.46
+Kolkata,Central,Apartment,Unfurnished,South,1217,1,1,1,0,1,1,23,4.2,2.3,3.3,80.58
+Lucknow,Central,Villa,Furnished,South,1777,3,2,3,3,14,0,21,2.3,0.5,0.6,141.43
+Jaipur,Central,Independent House,Unfurnished,West,2032,3,3,4,4,5,0,4,6.1,1.8,2.5,156.59
+Ahmedabad,Suburban,Villa,Unfurnished,East,2416,4,4,4,2,4,2,6,8.6,7.1,0.4,207.04
+Mumbai,Central,Apartment,Unfurnished,North,1050,3,2,1,4,5,1,2,6.9,2.9,3.3,288.07
+Kolkata,Outskirts,Builder Floor,Semi-Furnished,North,1574,2,2,1,3,3,1,13,17.2,6.2,1.3,70.13
+Delhi,Outskirts,Apartment,Unfurnished,South,1397,2,1,0,2,2,1,10,4.3,0.1,0.9,213.39
+Kolkata,Suburban,Villa,Unfurnished,North-East,1984,3,2,3,4,5,1,11,13.6,1.2,1.5,158.67
+Lucknow,Suburban,Villa,Furnished,East,3913,6,5,1,18,18,0,2,3.1,0.3,2.8,315.05
+Lucknow,Prime,Apartment,Unfurnished,North,1034,1,1,1,5,5,2,1,12.7,2.9,1.1,84.97
+Chennai,Central,Villa,Furnished,North-East,1545,4,4,3,0,10,2,15,10.9,2.9,1.1,222.73
+Mumbai,Central,Builder Floor,Furnished,North-East,1017,1,1,3,2,8,1,0,7.8,4.8,1.1,347.23
+Kolkata,Central,Villa,Semi-Furnished,South-East,2303,4,3,2,0,20,0,2,3.1,2.8,2.4,268.78
+Mumbai,Outskirts,Independent House,Furnished,East,2174,4,3,4,3,6,2,0,10.3,4.7,6.5,506.24
+Delhi,Outskirts,Independent House,Semi-Furnished,East,2453,3,2,1,3,15,2,4,10.9,7.3,0.8,354.46
+Jaipur,Suburban,Builder Floor,Semi-Furnished,North,904,1,1,0,4,9,1,3,2.5,1.3,2.2,55.17
+Hyderabad,Suburban,Independent House,Unfurnished,North-West,1995,3,3,4,5,7,1,12,15.5,2.4,1.7,176.7
+Jaipur,Central,Builder Floor,Furnished,East,1851,4,3,3,0,10,0,6,11.3,3.0,2.7,135.14
+Bengaluru,Prime,Independent House,Semi-Furnished,North-West,1789,4,4,4,6,10,0,9,4.2,0.4,1.2,404.28
+Ahmedabad,Prime,Builder Floor,Unfurnished,South-West,1166,2,1,0,4,5,0,5,6.1,1.2,2.8,127.4
+Delhi,Suburban,Apartment,Semi-Furnished,South-West,727,1,1,3,3,8,0,13,14.0,0.9,3.3,94.57
+Mumbai,Central,Studio,Unfurnished,East,562,2,1,1,10,16,2,5,1.3,0.1,3.3,156.32
+Kolkata,Suburban,Apartment,Semi-Furnished,North,668,1,1,2,10,18,1,12,10.9,0.7,2.4,45.95
+Pune,Outskirts,Villa,Unfurnished,South-East,2831,5,5,4,0,1,0,1,4.5,2.2,1.2,312.96
+Mumbai,Central,Independent House,Semi-Furnished,East,1340,2,1,0,1,3,1,5,4.0,3.3,1.2,443.83
+Hyderabad,Prime,Studio,Semi-Furnished,South-East,439,2,1,1,5,17,0,0,9.0,6.7,1.7,55.63
+Pune,Outskirts,Independent House,Unfurnished,South-East,2272,5,5,2,4,13,2,2,8.2,2.1,0.3,223.36
+Bengaluru,Central,Builder Floor,Semi-Furnished,West,1885,3,2,3,8,16,0,4,3.3,1.1,0.5,311.49
+Ahmedabad,Prime,Independent House,Semi-Furnished,South-West,1805,4,4,4,9,10,0,14,5.6,0.5,1.8,215.78
+Bengaluru,Prime,Builder Floor,Unfurnished,South-West,998,3,2,3,0,8,1,6,6.2,1.7,4.8,177.7
+Lucknow,Suburban,Independent House,Unfurnished,West,1998,5,4,1,5,5,0,16,2.5,1.3,3.2,108.36
+Pune,Prime,Builder Floor,Semi-Furnished,West,1748,4,3,3,3,5,0,11,7.9,1.4,2.0,247.62
+Bengaluru,Suburban,Independent House,Furnished,North,1507,3,3,3,0,12,1,12,2.4,0.9,0.4,255.57
+Hyderabad,Central,Builder Floor,Furnished,South,1298,2,1,1,1,17,0,2,2.2,3.6,2.9,185.02
+Ahmedabad,Prime,Apartment,Unfurnished,North-East,796,1,1,1,3,15,1,7,5.7,1.4,0.6,94.28
+Delhi,Prime,Apartment,Semi-Furnished,North-East,1419,3,2,1,7,18,2,15,4.9,3.3,0.7,354.66
+Lucknow,Suburban,Builder Floor,Semi-Furnished,East,1238,3,3,0,4,15,1,0,2.9,1.3,0.6,88.75
+Kolkata,Suburban,Villa,Furnished,West,1255,1,1,3,6,7,0,0,4.0,7.1,1.5,119.34
+Jaipur,Outskirts,Independent House,Semi-Furnished,South-West,2548,6,5,4,0,8,0,25,4.4,3.8,0.8,103.17
+Hyderabad,Suburban,Independent House,Furnished,North-East,984,1,1,2,18,18,1,8,8.3,3.0,1.0,134.93
+Chennai,Outskirts,Apartment,Semi-Furnished,North,844,2,1,2,8,16,0,30,0.6,2.1,1.4,51.47
+Lucknow,Outskirts,Apartment,Unfurnished,South,1029,1,1,1,1,4,0,1,2.4,0.8,0.7,56.83
+Ahmedabad,Central,Villa,Semi-Furnished,South,1099,1,1,3,7,7,1,1,6.3,1.9,0.6,148.53
+Ahmedabad,Suburban,Independent House,Unfurnished,North-East,1466,3,3,2,1,1,2,4,3.9,1.5,0.4,139.09
+Mumbai,Suburban,Builder Floor,Unfurnished,South-East,1023,3,3,0,3,4,1,6,3.9,1.1,0.9,257.51
+Jaipur,Prime,Apartment,Unfurnished,West,943,3,2,3,0,2,0,5,6.5,5.3,1.5,71.24
+Lucknow,Central,Apartment,Semi-Furnished,North,1171,1,1,1,5,5,1,19,1.8,8.7,2.1,59.39
+Pune,Suburban,Builder Floor,Furnished,North,790,1,1,1,1,9,1,0,4.3,5.5,0.5,99.53
+Jaipur,Suburban,Apartment,Semi-Furnished,West,1251,2,1,2,5,9,0,5,2.9,1.1,0.7,68.95
+Delhi,Suburban,Villa,Unfurnished,South-East,2171,3,2,4,10,10,0,3,12.1,0.4,0.3,494.85
+Delhi,Prime,Apartment,Furnished,South-West,813,1,1,3,2,8,0,3,8.7,3.1,1.1,229.17
+Mumbai,Central,Apartment,Furnished,South-East,1477,4,3,0,0,4,1,17,17.7,0.4,0.3,334.43
+Kolkata,Suburban,Independent House,Unfurnished,North,2160,4,4,3,0,5,1,10,3.0,2.2,2.8,143.29
+Ahmedabad,Prime,Independent House,Furnished,North-West,2575,4,3,4,15,20,2,4,8.6,2.3,1.9,364.49
+Hyderabad,Suburban,Apartment,Semi-Furnished,South-East,1208,3,2,2,12,15,1,3,3.5,1.8,1.0,162.07
+Mumbai,Suburban,Villa,Unfurnished,East,2398,5,5,2,12,12,1,2,4.0,9.3,1.2,706.61
+Bengaluru,Central,Builder Floor,Unfurnished,West,1492,4,3,2,17,18,2,10,2.9,9.8,4.4,250.98
+Lucknow,Outskirts,Apartment,Unfurnished,North,1017,3,2,2,9,15,0,1,6.6,4.5,3.5,41.97
+Chennai,Central,Apartment,Semi-Furnished,South-East,1200,1,1,0,3,3,0,26,6.0,2.5,2.4,89.59
+Pune,Central,Apartment,Furnished,South-East,1357,1,1,2,6,11,0,10,4.3,2.2,0.6,178.25
+Bengaluru,Suburban,Independent House,Unfurnished,South-East,1315,3,2,0,7,13,1,1,2.2,4.3,1.7,229.95
+Hyderabad,Prime,Apartment,Furnished,North-West,1239,3,2,2,2,3,2,9,2.5,1.3,1.5,216.44
+Hyderabad,Central,Apartment,Semi-Furnished,North-West,1017,3,2,1,7,18,2,1,5.3,1.3,0.5,144.37
+Mumbai,Outskirts,Independent House,Semi-Furnished,East,2070,5,4,2,1,11,1,17,5.6,6.4,3.2,358.85
+Chennai,Central,Apartment,Furnished,North,849,3,3,1,0,1,2,4,0.7,2.8,1.4,118.37
+Kolkata,Central,Villa,Unfurnished,South-East,1736,3,2,1,2,2,1,2,8.0,1.8,1.5,184.68
+Mumbai,Outskirts,Apartment,Semi-Furnished,North,1086,1,1,0,6,15,1,3,3.6,1.2,2.4,240.96
+Lucknow,Suburban,Apartment,Unfurnished,North-West,1233,2,1,0,1,7,0,4,2.3,0.2,1.0,72.81
+Lucknow,Prime,Independent House,Unfurnished,East,1886,4,4,2,4,19,2,8,4.1,0.1,2.3,174.29
+Mumbai,Outskirts,Independent House,Furnished,West,2054,3,3,2,7,18,1,1,5.5,5.9,1.9,481.79
+Ahmedabad,Suburban,Builder Floor,Semi-Furnished,North-East,1540,4,4,3,0,11,2,5,8.2,4.4,3.0,128.06
+Bengaluru,Central,Apartment,Semi-Furnished,South-East,1446,3,3,3,2,9,0,6,11.4,3.0,0.6,205.3
+Chennai,Outskirts,Builder Floor,Furnished,North-West,607,2,2,0,7,17,2,15,15.1,1.7,2.5,47.28
+Jaipur,Outskirts,Builder Floor,Unfurnished,South-West,1969,4,3,2,7,18,1,11,3.2,1.9,6.3,95.02
+Lucknow,Suburban,Apartment,Unfurnished,West,760,1,1,0,9,17,1,1,2.6,4.1,2.6,45.21
+Bengaluru,Prime,Apartment,Semi-Furnished,East,1011,2,2,1,0,1,2,6,3.5,1.3,3.1,241.42
+Chennai,Suburban,Apartment,Unfurnished,North-West,1466,4,3,3,13,19,2,15,1.2,1.2,1.1,153.76
+Jaipur,Outskirts,Builder Floor,Semi-Furnished,West,1361,1,1,1,1,1,0,4,3.4,4.4,0.7,66.74
+Delhi,Suburban,Apartment,Semi-Furnished,West,1276,1,1,2,7,10,1,1,16.1,1.3,3.4,236.62
+Chennai,Prime,Apartment,Semi-Furnished,South,1332,2,2,1,11,19,2,6,3.6,2.3,0.6,208.28
+Hyderabad,Prime,Villa,Furnished,North-East,3229,6,5,3,12,16,1,20,4.4,1.1,1.4,593.62
+Pune,Suburban,Apartment,Unfurnished,South,1015,2,2,3,3,8,1,4,9.4,2.4,0.9,99.85
+Pune,Prime,Villa,Semi-Furnished,East,2525,4,3,2,0,2,0,3,10.6,4.0,6.5,424.16
+Hyderabad,Prime,Builder Floor,Unfurnished,North-West,964,1,1,1,8,11,2,2,8.6,0.8,1.7,157.54
+Pune,Prime,Apartment,Furnished,South-East,457,1,1,2,1,16,2,2,5.2,3.7,2.1,93.69
+Mumbai,Suburban,Studio,Semi-Furnished,North-East,343,2,2,2,8,10,0,5,8.7,1.8,3.2,69.1
+Chennai,Suburban,Apartment,Unfurnished,South-West,1212,3,3,1,5,14,0,26,8.5,1.3,0.6,75.6
+Ahmedabad,Outskirts,Apartment,Unfurnished,South-East,1326,2,1,1,1,6,1,22,0.6,0.9,0.1,82.01
+Bengaluru,Central,Apartment,Unfurnished,South-East,1093,2,1,2,1,20,0,5,10.3,0.7,0.9,166.42
+Hyderabad,Central,Apartment,Semi-Furnished,South-West,1385,2,1,0,5,7,0,42,1.3,1.9,2.7,105.8
+Hyderabad,Prime,Apartment,Furnished,South-West,973,3,2,0,2,3,2,1,18.6,1.0,0.5,144.66
+Ahmedabad,Central,Villa,Unfurnished,South-West,2234,3,3,3,0,14,2,0,7.0,3.5,1.2,288.11
+Ahmedabad,Central,Apartment,Furnished,West,1447,3,2,3,0,13,1,4,6.8,0.2,1.3,154.97
+Bengaluru,Suburban,Apartment,Semi-Furnished,North-East,1248,2,1,3,3,3,1,2,2.4,9.3,2.3,176.63
+Jaipur,Central,Independent House,Furnished,East,2382,4,3,4,2,5,2,11,3.4,3.1,2.2,208.63
+Chennai,Central,Apartment,Unfurnished,North,1244,3,3,2,3,4,2,1,4.3,0.2,4.8,168.1
+Mumbai,Outskirts,Independent House,Unfurnished,South-East,2650,4,3,1,5,17,2,26,2.9,1.2,0.8,482.31
+Hyderabad,Outskirts,Builder Floor,Semi-Furnished,East,1496,4,4,2,6,10,0,8,16.3,3.9,0.5,108.32
+Jaipur,Central,Apartment,Unfurnished,North-West,399,1,1,3,5,6,1,9,3.9,2.1,4.9,28.08
+Hyderabad,Central,Builder Floor,Unfurnished,North-East,1485,2,2,2,13,18,0,35,5.2,1.4,1.1,130.52
+Pune,Central,Apartment,Semi-Furnished,South-East,950,3,2,3,0,6,0,9,3.0,1.3,0.5,117.16
+Chennai,Central,Studio,Semi-Furnished,East,430,1,1,3,1,5,1,17,4.3,3.6,1.2,36.42
+Jaipur,Suburban,Builder Floor,Semi-Furnished,East,1719,4,4,4,4,12,1,9,3.4,3.5,0.6,110.82
+Kolkata,Central,Apartment,Unfurnished,South-West,1430,2,1,0,7,14,0,2,3.0,6.2,0.1,116.59
+Bengaluru,Central,Builder Floor,Furnished,West,1382,3,2,2,3,5,2,16,10.2,0.5,0.6,212.31
+Bengaluru,Suburban,Apartment,Semi-Furnished,North-West,1376,4,3,3,12,16,0,15,13.5,2.3,0.4,136.81
+Kolkata,Central,Villa,Furnished,West,2614,4,3,3,2,4,1,29,3.1,0.8,1.5,230.94
+Kolkata,Suburban,Builder Floor,Unfurnished,West,960,3,3,0,1,4,0,3,1.7,1.1,0.4,73.33
+Bengaluru,Prime,Studio,Semi-Furnished,South-East,507,1,1,2,1,7,1,3,27.0,1.9,1.1,67.53
+Delhi,Outskirts,Independent House,Semi-Furnished,South-West,2298,3,3,2,4,7,0,13,0.3,1.4,0.9,359.9
+Kolkata,Prime,Independent House,Unfurnished,West,2555,6,5,3,8,12,1,7,12.2,0.9,0.8,276.37
+Chennai,Suburban,Apartment,Unfurnished,North,765,2,2,2,0,8,2,0,19.0,0.5,0.1,70.49
+Pune,Central,Apartment,Semi-Furnished,North-West,729,1,1,3,15,15,0,10,1.6,6.8,0.9,79.99
+Delhi,Central,Apartment,Semi-Furnished,South-West,1029,1,1,1,3,4,1,4,5.3,1.9,0.8,242.22
+Mumbai,Suburban,Independent House,Furnished,North-East,1326,2,2,3,12,15,0,14,3.3,0.7,1.4,405.03
+Kolkata,Central,Villa,Unfurnished,North-East,3597,6,5,1,1,1,2,5,5.4,10.4,0.8,402.88
+Hyderabad,Central,Apartment,Unfurnished,North-West,997,3,3,1,12,13,2,8,0.8,2.0,4.0,133.52
+Bengaluru,Suburban,Apartment,Unfurnished,North-West,1341,2,1,0,2,9,0,2,4.6,1.5,6.2,185.89
+Mumbai,Outskirts,Builder Floor,Unfurnished,South-West,1099,2,2,0,7,8,1,9,13.3,3.2,7.9,166.64
+Kolkata,Suburban,Independent House,Semi-Furnished,South-East,2087,3,2,4,18,20,1,4,6.0,1.1,0.1,191.39
+Mumbai,Suburban,Apartment,Semi-Furnished,North-East,1006,3,2,0,6,16,0,5,17.0,6.2,0.7,171.56
+Lucknow,Prime,Builder Floor,Unfurnished,West,1522,2,2,4,5,7,1,14,9.4,2.2,1.7,97.6
+Delhi,Outskirts,Apartment,Semi-Furnished,South-East,1452,2,2,0,7,19,1,5,3.6,4.3,2.0,249.89
+Mumbai,Suburban,Apartment,Semi-Furnished,South-East,1214,2,1,0,3,3,0,17,1.8,2.3,1.5,267.22
+Kolkata,Central,Apartment,Semi-Furnished,South-East,1340,2,2,2,10,10,0,1,4.4,1.7,0.1,126.37
+Jaipur,Suburban,Apartment,Semi-Furnished,South-West,1641,3,3,1,0,9,0,10,1.7,0.2,1.1,92.23
+Delhi,Suburban,Apartment,Unfurnished,West,934,2,2,2,0,1,2,6,8.0,3.6,2.5,161.92
+Lucknow,Central,Apartment,Unfurnished,South-East,1596,3,2,3,2,5,0,17,4.1,4.5,0.9,86.63
+Hyderabad,Suburban,Builder Floor,Furnished,West,1179,1,1,2,1,19,0,3,3.7,2.3,2.0,155.82
+Hyderabad,Prime,Studio,Semi-Furnished,South-East,695,1,1,0,15,16,0,6,11.8,0.3,2.9,73.16
+Jaipur,Central,Apartment,Unfurnished,North,1615,3,3,3,5,17,2,4,11.0,2.5,0.9,103.36
+Mumbai,Outskirts,Apartment,Semi-Furnished,West,653,2,1,3,12,16,0,13,6.1,1.3,2.0,119.06
+Pune,Prime,Independent House,Semi-Furnished,South-West,1802,2,2,3,2,12,2,23,1.6,1.7,3.5,262.5
+Delhi,Prime,Independent House,Semi-Furnished,North-East,1550,4,3,1,6,9,1,8,4.2,1.8,2.2,495.47
+Ahmedabad,Suburban,Independent House,Semi-Furnished,East,1451,2,1,3,4,4,0,0,5.9,2.3,4.1,132.33
+Hyderabad,Suburban,Builder Floor,Semi-Furnished,North-East,1277,2,2,1,5,7,0,17,11.5,4.6,0.7,127.75
+Ahmedabad,Central,Apartment,Unfurnished,South-West,1084,3,3,3,0,14,2,1,4.2,4.3,0.4,111.37
+Mumbai,Central,Builder Floor,Semi-Furnished,North,632,1,1,2,5,9,1,0,7.6,1.1,1.0,191.75
+Delhi,Prime,Builder Floor,Semi-Furnished,North-East,1573,2,1,3,1,6,1,20,1.5,3.1,1.3,377.8
+Mumbai,Prime,Independent House,Unfurnished,South-East,1551,4,3,4,0,17,1,1,4.7,0.4,0.5,639.0
+Pune,Central,Builder Floor,Semi-Furnished,North,1226,2,2,1,12,13,2,24,1.9,2.5,1.1,147.55
+Mumbai,Suburban,Independent House,Semi-Furnished,South,2103,5,5,4,1,14,1,27,6.2,2.9,0.5,411.01
+Mumbai,Central,Independent House,Semi-Furnished,North-West,1454,3,3,3,20,20,1,21,3.2,2.0,1.4,426.8
+Jaipur,Central,Apartment,Furnished,North-West,1450,4,4,3,7,20,0,2,2.9,3.4,0.3,114.47
+Lucknow,Central,Builder Floor,Semi-Furnished,South-West,1139,3,3,0,4,18,0,3,0.6,0.8,5.5,89.04
+Pune,Suburban,Independent House,Furnished,South-West,2467,3,3,4,9,16,2,6,5.4,0.5,2.4,343.68
+Mumbai,Outskirts,Apartment,Furnished,South,896,3,2,1,1,17,1,24,4.6,2.5,0.9,148.05
+Kolkata,Central,Villa,Unfurnished,West,2220,4,3,1,1,7,1,17,13.2,1.2,1.4,177.36
+Delhi,Prime,Apartment,Semi-Furnished,East,709,2,2,3,0,1,1,3,4.9,2.3,0.9,204.11
+Chennai,Central,Builder Floor,Semi-Furnished,South,993,3,3,0,0,1,1,5,3.2,2.3,1.7,114.44
+Mumbai,Outskirts,Apartment,Unfurnished,North-West,1360,1,1,1,0,3,1,3,3.6,3.3,2.4,268.38
+Lucknow,Central,Apartment,Unfurnished,South,1018,3,2,3,0,2,1,8,8.2,0.9,0.8,63.6
+Pune,Prime,Apartment,Unfurnished,South-East,414,1,1,2,3,3,1,7,1.4,0.3,0.9,68.41
+Kolkata,Central,Apartment,Unfurnished,East,1459,3,2,2,10,10,1,12,14.0,1.9,0.6,91.43
+Mumbai,Outskirts,Independent House,Semi-Furnished,West,1758,4,4,1,9,18,0,20,3.6,1.5,2.0,363.63
+Delhi,Central,Apartment,Semi-Furnished,East,1496,2,1,3,6,10,0,8,2.0,0.1,0.4,378.43
+Bengaluru,Central,Independent House,Unfurnished,South-West,1293,3,3,1,0,4,2,10,10.6,2.0,1.0,183.57
+Bengaluru,Central,Builder Floor,Furnished,South-East,1140,3,2,1,7,7,0,3,5.1,6.2,4.9,218.72
+Jaipur,Central,Apartment,Unfurnished,North-West,1361,2,2,3,2,7,0,1,4.9,2.0,1.0,94.47
+Kolkata,Prime,Apartment,Unfurnished,North-East,1051,3,2,2,17,20,1,4,3.8,0.5,1.3,124.13
+Pune,Prime,Builder Floor,Unfurnished,South,1605,3,2,3,3,3,2,20,8.3,1.7,1.7,198.63
+Chennai,Prime,Apartment,Semi-Furnished,East,1275,2,1,0,12,13,0,11,3.5,2.5,1.3,176.17
+Mumbai,Prime,Villa,Unfurnished,East,3151,5,5,2,11,18,0,3,12.6,3.9,2.0,1301.48
+Hyderabad,Suburban,Builder Floor,Unfurnished,North-East,1523,4,3,1,6,6,1,9,9.2,8.5,6.0,135.73
+Kolkata,Outskirts,Apartment,Furnished,West,1288,2,2,3,7,18,1,9,23.2,7.1,3.5,55.28
+Pune,Outskirts,Apartment,Unfurnished,West,1322,2,2,3,0,1,2,2,4.3,2.0,2.7,122.45
+Mumbai,Prime,Independent House,Semi-Furnished,South-East,1304,2,1,3,1,1,1,0,2.1,0.3,0.8,620.08
+Mumbai,Central,Independent House,Unfurnished,South-West,2267,5,5,1,4,11,1,8,1.8,4.1,3.3,674.35
+Pune,Central,Builder Floor,Semi-Furnished,South-West,1083,2,1,3,2,10,0,4,4.7,1.7,0.6,132.46
+Mumbai,Central,Apartment,Unfurnished,North,1214,2,2,3,11,11,0,2,6.5,4.7,0.6,320.26
+Ahmedabad,Prime,Apartment,Semi-Furnished,North-East,1501,2,2,1,3,7,1,2,2.1,6.6,2.5,195.63
+Chennai,Central,Builder Floor,Semi-Furnished,North-East,1197,3,2,2,0,1,0,1,16.2,3.6,3.2,131.25
+Hyderabad,Suburban,Apartment,Unfurnished,South,1205,3,2,0,0,1,0,1,14.2,1.5,1.1,117.7
+Delhi,Suburban,Apartment,Semi-Furnished,North,1687,4,3,4,1,19,1,45,0.7,1.1,0.9,186.98
+Delhi,Prime,Villa,Semi-Furnished,North-East,3565,6,5,4,4,6,1,19,8.3,0.8,3.0,1077.07
+Mumbai,Prime,Builder Floor,Furnished,North,1454,4,4,3,1,1,0,0,3.6,5.2,2.0,602.75
+Delhi,Suburban,Builder Floor,Unfurnished,South-West,1415,2,2,2,0,12,1,6,2.8,2.3,1.6,299.62
+Kolkata,Outskirts,Villa,Semi-Furnished,South,2858,5,4,2,7,7,2,0,1.2,2.2,0.9,252.29
+Lucknow,Outskirts,Builder Floor,Semi-Furnished,North-East,1545,4,3,3,1,7,0,5,5.4,5.4,1.9,73.62
+Lucknow,Outskirts,Independent House,Semi-Furnished,West,1097,3,2,0,4,9,2,1,2.3,6.5,1.4,60.18
+Bengaluru,Suburban,Builder Floor,Unfurnished,East,2372,5,5,2,1,5,0,26,5.3,2.1,1.7,256.05
+Chennai,Suburban,Builder Floor,Furnished,South-East,1333,1,1,0,7,11,0,7,5.9,5.9,0.8,139.99
+Mumbai,Central,Apartment,Unfurnished,North,1658,3,2,1,1,4,0,10,5.7,2.3,0.5,436.3
+Kolkata,Prime,Villa,Semi-Furnished,South,2306,5,4,3,12,18,2,6,6.2,0.3,0.6,319.48
+Kolkata,Central,Apartment,Unfurnished,North-West,1066,1,1,0,8,18,1,25,3.3,13.2,2.4,68.71
+Hyderabad,Central,Builder Floor,Unfurnished,South-East,1178,2,1,2,4,4,1,2,6.6,7.5,0.9,162.96
+Ahmedabad,Central,Villa,Unfurnished,South,2875,6,5,3,0,2,1,2,3.6,5.7,3.8,333.21
+Mumbai,Central,Villa,Unfurnished,North-East,2835,5,4,2,1,1,2,4,11.5,5.6,0.4,1021.02
+Mumbai,Outskirts,Independent House,Semi-Furnished,South-East,2137,4,3,1,11,11,0,2,6.8,0.3,2.1,499.35
+Jaipur,Suburban,Apartment,Semi-Furnished,North-West,1160,3,3,3,9,13,2,12,6.9,4.6,0.4,62.14
+Pune,Prime,Apartment,Unfurnished,South,1570,2,2,4,0,17,1,14,8.8,0.7,1.4,159.93
+Mumbai,Central,Apartment,Unfurnished,South,1642,2,1,2,3,6,1,2,3.7,3.6,0.3,506.42
+Delhi,Suburban,Independent House,Unfurnished,East,2522,4,3,4,0,6,1,17,3.3,4.3,2.8,410.5
+Kolkata,Suburban,Villa,Semi-Furnished,East,3443,6,5,3,8,12,0,11,2.8,2.4,4.6,294.41
+Ahmedabad,Suburban,Apartment,Unfurnished,East,1022,2,1,3,1,18,2,9,5.5,1.0,0.5,76.73
+Delhi,Prime,Apartment,Semi-Furnished,North-West,1008,3,2,3,2,5,1,4,7.5,2.2,1.4,270.69
+Kolkata,Central,Apartment,Unfurnished,North,1131,2,1,3,8,19,2,5,9.0,9.0,4.1,86.68
+Bengaluru,Central,Villa,Semi-Furnished,East,2624,4,4,3,0,1,1,6,5.1,1.7,2.1,625.09
+Pune,Central,Apartment,Unfurnished,South,1247,3,2,1,9,20,0,7,0.4,6.4,1.4,142.81
+Chennai,Suburban,Apartment,Semi-Furnished,South,1891,4,3,1,0,6,1,5,5.3,0.9,1.2,200.58
+Chennai,Suburban,Apartment,Semi-Furnished,North,1714,4,4,1,2,2,2,4,2.3,3.5,7.0,185.93
+Delhi,Central,Apartment,Semi-Furnished,North,1692,2,2,4,6,11,1,16,2.5,5.0,3.2,328.75
+Mumbai,Suburban,Independent House,Unfurnished,North,2077,4,3,4,1,8,1,0,0.5,1.8,2.6,629.0
+Delhi,Central,Independent House,Semi-Furnished,South,821,1,1,3,10,12,2,1,9.1,0.6,0.5,223.68
+Mumbai,Central,Apartment,Furnished,North,1146,3,3,1,8,10,0,5,3.4,1.4,5.2,368.2
+Mumbai,Suburban,Independent House,Semi-Furnished,South,2264,5,4,1,3,4,2,1,5.3,0.5,1.5,724.57
+Delhi,Suburban,Studio,Semi-Furnished,North,518,2,1,2,1,1,2,31,1.7,0.9,0.2,69.2
+Mumbai,Outskirts,Builder Floor,Semi-Furnished,East,710,1,1,1,8,9,1,0,4.8,0.4,3.5,185.13
+Chennai,Central,Apartment,Semi-Furnished,North-West,1080,2,1,1,4,10,1,5,3.0,4.6,1.2,126.69
+Delhi,Suburban,Apartment,Furnished,South-West,1097,1,1,0,0,15,1,11,12.3,0.2,6.6,186.08
+Chennai,Outskirts,Villa,Semi-Furnished,North-East,3093,6,5,1,2,10,0,6,5.0,3.2,2.7,323.38
+Jaipur,Suburban,Apartment,Unfurnished,West,1406,3,3,1,1,6,1,3,2.5,5.0,0.2,82.69
+Hyderabad,Prime,Independent House,Furnished,South,1806,3,3,3,10,20,2,13,3.9,9.8,2.4,320.35
+Chennai,Central,Apartment,Unfurnished,South,1197,2,2,2,8,13,2,2,8.7,6.7,1.1,130.45
+Hyderabad,Suburban,Apartment,Semi-Furnished,North-West,1453,3,2,2,13,13,0,12,0.9,7.4,1.3,139.29
+Hyderabad,Suburban,Apartment,Unfurnished,East,1144,3,3,0,5,16,0,9,5.5,0.5,0.7,121.41
+Kolkata,Suburban,Studio,Unfurnished,South,477,1,1,1,6,8,0,1,5.2,8.1,1.8,31.33
+Lucknow,Prime,Apartment,Unfurnished,East,1708,3,3,1,5,18,2,8,0.6,2.2,1.2,149.54
+Chennai,Outskirts,Builder Floor,Unfurnished,West,1974,5,5,1,4,18,0,5,12.5,2.2,0.2,135.16
+Mumbai,Central,Independent House,Unfurnished,South-West,1572,4,3,3,11,14,0,2,10.8,5.0,3.3,386.56
+Kolkata,Suburban,Apartment,Unfurnished,South,1204,2,1,2,5,12,2,8,2.5,0.8,3.8,92.15
+Mumbai,Central,Builder Floor,Unfurnished,West,951,3,2,2,9,17,2,1,10.6,0.6,1.7,311.58
+Chennai,Central,Independent House,Semi-Furnished,North-East,2112,5,4,4,2,4,2,12,2.5,4.4,0.1,310.48
+Ahmedabad,Prime,Builder Floor,Furnished,North-West,1769,3,2,3,11,20,0,3,4.2,0.3,0.4,242.67
+Jaipur,Outskirts,Apartment,Furnished,North,742,1,1,2,10,14,2,5,5.4,2.1,2.5,44.64
+Mumbai,Central,Apartment,Furnished,East,1486,3,3,2,1,20,2,3,8.8,2.3,1.2,442.52
+Chennai,Central,Independent House,Furnished,South-East,1970,4,4,2,0,1,0,3,1.7,2.3,1.3,318.71
+Kolkata,Suburban,Builder Floor,Semi-Furnished,North-East,1400,2,2,2,5,12,1,1,14.3,4.9,2.0,100.54
+Mumbai,Central,Villa,Unfurnished,East,1600,2,2,1,6,12,1,11,3.2,1.5,0.4,592.6
+Lucknow,Suburban,Apartment,Unfurnished,South,1044,1,1,1,2,18,1,12,2.4,4.0,2.8,52.44
+Hyderabad,Prime,Apartment,Semi-Furnished,West,1148,1,1,1,3,13,0,11,0.4,0.7,3.5,173.35
+Lucknow,Central,Builder Floor,Semi-Furnished,North,1062,3,3,3,9,16,0,9,5.8,14.0,1.8,63.57
+Hyderabad,Prime,Apartment,Semi-Furnished,North-West,1433,4,3,3,9,16,0,6,5.5,3.8,0.6,244.33
+Delhi,Outskirts,Builder Floor,Semi-Furnished,South-West,1216,1,1,2,9,11,2,16,3.3,0.7,0.4,190.04
+Bengaluru,Suburban,Apartment,Unfurnished,South-East,982,3,2,2,3,14,1,0,14.9,6.4,2.3,110.6
+Jaipur,Prime,Builder Floor,Furnished,West,1449,4,4,0,2,4,2,11,8.6,0.6,1.8,128.44
+Ahmedabad,Outskirts,Apartment,Semi-Furnished,South,1292,2,1,1,0,1,0,3,5.8,6.0,3.2,73.31
+Delhi,Outskirts,Apartment,Semi-Furnished,South-West,936,3,2,3,3,20,1,7,10.4,1.2,1.8,131.36
+Lucknow,Outskirts,Apartment,Unfurnished,North,1003,3,2,3,4,6,2,3,1.8,2.8,3.4,53.0
+Pune,Central,Apartment,Semi-Furnished,North-East,1410,3,2,0,0,17,2,0,4.6,1.1,5.2,204.15
+Jaipur,Prime,Independent House,Unfurnished,South-East,2370,5,4,3,0,15,0,9,5.7,1.8,1.3,194.24
+Delhi,Suburban,Builder Floor,Unfurnished,East,970,1,1,1,2,9,1,7,2.5,2.1,1.0,200.92
+Kolkata,Prime,Studio,Furnished,North-East,375,2,1,1,1,10,1,7,6.5,0.3,0.4,34.93
+Jaipur,Outskirts,Apartment,Unfurnished,South,1545,4,4,2,0,1,0,3,2.9,2.5,0.5,79.03
+Pune,Outskirts,Apartment,Unfurnished,South,931,1,1,0,7,8,2,14,6.8,2.7,1.8,66.96
+Chennai,Central,Apartment,Unfurnished,South-West,793,1,1,0,3,3,1,15,8.5,2.5,0.5,78.36
+Mumbai,Prime,Studio,Unfurnished,North-West,624,1,1,1,4,5,0,5,3.3,0.9,0.8,188.51
+Jaipur,Central,Studio,Unfurnished,North,774,1,1,1,7,7,2,2,2.5,1.0,1.1,57.16
+Hyderabad,Suburban,Independent House,Unfurnished,North,1978,5,4,2,7,15,1,1,4.1,2.8,1.2,253.4
+Ahmedabad,Outskirts,Independent House,Unfurnished,South-West,2342,3,2,2,7,20,2,1,11.0,2.3,1.8,151.71
+Kolkata,Prime,Apartment,Semi-Furnished,South-West,1452,3,2,2,1,5,0,6,4.8,0.1,1.3,157.32
+Bengaluru,Outskirts,Apartment,Semi-Furnished,South-West,902,3,3,2,3,3,1,4,9.1,0.8,1.1,98.27
+Pune,Outskirts,Apartment,Unfurnished,North-West,1405,2,2,1,10,17,0,0,4.7,0.1,1.4,136.83
+Kolkata,Central,Apartment,Unfurnished,East,773,1,1,2,1,1,1,9,9.2,1.5,0.8,60.5
+Ahmedabad,Outskirts,Builder Floor,Unfurnished,North-West,1756,2,2,3,0,3,2,1,3.8,0.9,3.6,116.05
+Ahmedabad,Suburban,Villa,Unfurnished,West,2584,6,5,2,7,10,1,7,3.1,2.4,2.5,293.89
+Ahmedabad,Central,Apartment,Furnished,East,1162,2,1,1,3,12,1,12,4.2,4.8,4.0,99.57
+Mumbai,Central,Apartment,Unfurnished,North-East,988,3,3,2,5,9,0,3,6.4,2.3,2.0,255.51
+Delhi,Suburban,Builder Floor,Unfurnished,South,1307,2,2,1,2,18,1,0,8.1,0.9,2.2,270.36
+Mumbai,Central,Independent House,Unfurnished,West,1861,3,3,1,4,11,0,22,3.8,3.6,0.9,464.51
+Pune,Prime,Apartment,Semi-Furnished,West,647,1,1,0,1,18,2,5,4.9,1.6,0.8,106.46
+Lucknow,Prime,Villa,Furnished,North-East,3434,5,5,3,10,10,1,6,5.8,2.3,1.1,370.03
+Hyderabad,Prime,Apartment,Furnished,East,300,2,2,2,0,5,0,6,1.6,1.6,2.5,55.87
+Mumbai,Prime,Apartment,Unfurnished,North-West,1657,3,2,4,1,7,2,2,6.6,6.6,0.2,556.58
+Ahmedabad,Central,Apartment,Furnished,South,523,2,1,3,5,7,0,19,8.5,0.9,5.9,36.13
+Delhi,Prime,Studio,Unfurnished,West,300,1,1,2,2,15,1,1,1.4,2.9,1.9,81.82
+Hyderabad,Outskirts,Studio,Semi-Furnished,East,524,2,2,0,3,5,1,8,2.6,4.6,4.1,50.93
+Bengaluru,Outskirts,Independent House,Unfurnished,South-West,1901,2,1,1,0,5,0,7,6.3,5.7,1.6,178.93
+Pune,Outskirts,Apartment,Semi-Furnished,South,1682,3,3,3,10,13,1,3,6.6,2.7,2.9,152.76
+Chennai,Prime,Apartment,Semi-Furnished,East,1191,2,1,1,0,1,1,3,4.1,1.2,0.6,192.76
+Ahmedabad,Outskirts,Apartment,Unfurnished,North-West,1405,3,2,1,3,13,1,22,7.5,8.4,3.1,59.11
+Delhi,Central,Builder Floor,Unfurnished,North,1498,4,3,2,16,19,2,1,4.6,0.7,2.5,410.39
+Bengaluru,Prime,Apartment,Furnished,North-West,1400,4,3,2,5,8,0,4,18.4,1.3,1.8,226.2
+Hyderabad,Central,Independent House,Unfurnished,North-East,1749,3,2,1,12,14,1,2,5.2,2.4,0.7,311.1
+Ahmedabad,Suburban,Apartment,Semi-Furnished,South,1276,2,2,2,0,1,2,0,1.5,3.0,1.0,117.99
+Hyderabad,Outskirts,Builder Floor,Unfurnished,South-West,966,3,3,2,3,10,1,21,6.3,0.6,3.2,71.77
+Bengaluru,Central,Apartment,Unfurnished,South,1715,2,1,3,2,11,1,11,7.8,8.8,0.2,207.57
+Ahmedabad,Outskirts,Independent House,Furnished,North,2603,4,4,4,5,5,1,25,9.0,0.1,1.5,166.43
+Delhi,Central,Builder Floor,Unfurnished,North,1917,4,3,3,1,2,1,10,0.4,3.5,0.6,418.71
+Pune,Suburban,Independent House,Unfurnished,North-West,1636,2,2,4,0,13,1,13,16.6,2.1,2.1,130.23
+Hyderabad,Prime,Villa,Unfurnished,South-East,4110,6,5,4,3,10,2,1,6.5,1.4,3.9,893.33
+Hyderabad,Outskirts,Independent House,Unfurnished,North-East,1697,3,2,1,5,6,0,2,3.3,2.9,2.4,165.06
+Chennai,Central,Studio,Semi-Furnished,South-West,736,1,1,3,2,3,2,2,13.3,1.9,1.1,72.87
+Ahmedabad,Prime,Villa,Unfurnished,South-West,2899,5,4,4,12,18,0,19,12.3,2.3,2.1,282.89
+Ahmedabad,Prime,Independent House,Unfurnished,West,2113,3,3,2,5,19,2,28,5.8,2.9,1.2,190.36
+Mumbai,Central,Independent House,Unfurnished,South,2237,3,2,1,3,7,0,34,4.2,1.1,0.8,496.74
+Ahmedabad,Suburban,Apartment,Unfurnished,West,992,3,2,0,1,16,1,8,8.8,0.7,7.1,64.32
+Jaipur,Central,Builder Floor,Unfurnished,North,1485,4,4,1,12,18,1,4,7.4,3.6,3.1,101.32
+Delhi,Suburban,Apartment,Unfurnished,South,1636,4,3,4,3,18,0,7,13.8,1.9,0.7,256.36
+Delhi,Central,Independent House,Furnished,South-West,1293,1,1,1,1,1,0,7,0.6,2.5,1.7,372.73
+Hyderabad,Central,Apartment,Semi-Furnished,North,478,1,1,2,13,16,1,8,4.2,3.3,2.3,64.99
+Pune,Prime,Apartment,Furnished,North,1211,1,1,1,2,14,2,11,0.7,2.4,1.9,171.7
+Jaipur,Suburban,Studio,Unfurnished,South-West,575,1,1,1,6,14,1,5,3.9,1.2,3.9,31.26
+Hyderabad,Outskirts,Independent House,Unfurnished,North-East,1669,2,2,4,0,12,2,15,4.8,2.4,0.5,150.53
+Mumbai,Prime,Apartment,Unfurnished,South,1363,2,2,2,3,4,2,12,4.6,4.2,0.2,409.47
+Jaipur,Suburban,Independent House,Semi-Furnished,North-East,1722,2,2,3,1,3,1,2,4.7,1.5,3.6,133.41
+Hyderabad,Suburban,Villa,Semi-Furnished,North-West,2454,4,3,4,0,12,2,5,3.0,0.2,1.2,394.93
+Jaipur,Suburban,Villa,Unfurnished,South-West,2542,6,5,2,1,7,2,7,1.1,1.5,0.2,200.33
+Kolkata,Suburban,Builder Floor,Unfurnished,North-East,722,1,1,0,14,19,0,24,3.4,2.0,2.1,45.08
+Bengaluru,Central,Apartment,Semi-Furnished,West,1220,3,3,2,1,5,2,16,4.7,2.6,0.7,167.36
+Chennai,Central,Builder Floor,Semi-Furnished,North-West,1591,4,4,3,0,18,2,2,8.5,1.7,2.1,172.75
+Pune,Suburban,Apartment,Semi-Furnished,West,1395,3,2,3,9,20,2,8,8.9,3.6,1.8,154.15
+Hyderabad,Outskirts,Apartment,Unfurnished,West,901,1,1,1,8,16,0,2,2.3,1.4,1.0,93.82
+Kolkata,Suburban,Villa,Semi-Furnished,East,3418,6,5,1,4,11,0,4,2.3,7.0,1.1,355.77
+Bengaluru,Prime,Villa,Semi-Furnished,North-West,3321,6,5,3,7,15,2,1,2.9,1.4,1.6,964.01
+Mumbai,Prime,Builder Floor,Semi-Furnished,North-West,1459,4,3,0,1,4,2,9,10.7,4.9,0.9,477.17
+Lucknow,Suburban,Villa,Unfurnished,North-West,2868,6,5,1,1,1,0,7,2.8,2.4,2.1,202.6
+Pune,Prime,Studio,Unfurnished,North-East,300,1,1,1,2,12,1,9,3.2,8.4,0.1,35.68
+Delhi,Suburban,Apartment,Unfurnished,North,635,2,2,2,6,10,0,4,5.0,4.6,3.0,108.16
+Kolkata,Suburban,Apartment,Semi-Furnished,North-East,1372,2,1,1,2,3,1,1,8.7,4.5,2.0,108.18
+Mumbai,Suburban,Independent House,Semi-Furnished,East,863,2,2,0,19,20,1,4,2.5,1.1,2.0,281.5
+Jaipur,Suburban,Independent House,Semi-Furnished,South-West,2308,5,4,4,0,3,2,4,7.5,1.1,3.3,161.62
+Ahmedabad,Prime,Builder Floor,Unfurnished,South,1236,2,1,0,5,16,0,7,3.2,7.0,2.5,138.85
+Delhi,Outskirts,Studio,Unfurnished,North-East,436,1,1,2,4,6,0,2,10.0,0.4,0.5,60.75
+Jaipur,Suburban,Independent House,Furnished,North-East,2083,4,3,1,0,10,0,4,0.7,4.6,4.2,148.77
+Mumbai,Central,Builder Floor,Semi-Furnished,North-West,1188,2,2,3,7,17,1,2,7.4,2.5,5.0,334.55
+Mumbai,Outskirts,Independent House,Furnished,West,1808,3,3,3,8,18,0,2,4.7,1.1,2.8,464.47
+Ahmedabad,Central,Builder Floor,Semi-Furnished,North-East,1603,2,1,1,7,12,2,5,6.1,1.8,2.0,163.29
+Hyderabad,Suburban,Builder Floor,Unfurnished,South,603,1,1,0,2,7,2,4,1.1,1.3,0.8,80.96
+Mumbai,Prime,Apartment,Semi-Furnished,South-West,729,1,1,3,0,1,0,7,1.0,1.6,0.9,261.2
+Delhi,Suburban,Builder Floor,Unfurnished,North-West,825,2,1,3,18,20,2,1,6.0,2.1,1.4,182.3
+Lucknow,Prime,Apartment,Unfurnished,North,1628,4,4,1,7,18,1,6,2.5,2.4,0.8,138.54
+Mumbai,Outskirts,Apartment,Semi-Furnished,East,1122,1,1,1,3,18,0,2,3.5,4.8,2.0,241.53
+Delhi,Suburban,Apartment,Semi-Furnished,South-East,1202,1,1,0,19,19,2,2,3.1,4.6,1.9,248.28
+Ahmedabad,Prime,Apartment,Unfurnished,West,1550,4,4,3,1,2,1,3,5.6,1.5,5.8,180.07
+Mumbai,Central,Apartment,Unfurnished,West,1057,1,1,3,8,8,1,5,4.7,1.2,2.7,304.12
+Bengaluru,Outskirts,Villa,Unfurnished,West,2106,3,2,4,1,4,2,7,2.8,1.4,1.0,300.59
+Lucknow,Prime,Builder Floor,Unfurnished,West,1260,2,1,2,0,6,0,2,6.6,6.4,1.1,86.13
+Hyderabad,Suburban,Independent House,Unfurnished,North-East,1814,3,2,1,10,11,2,5,2.9,2.2,0.9,251.17
+Ahmedabad,Suburban,Villa,Semi-Furnished,North-East,3944,6,5,2,13,15,0,23,3.0,3.4,1.9,325.93
+Kolkata,Central,Independent House,Semi-Furnished,South-West,1927,3,2,3,2,14,0,16,12.3,0.5,2.8,141.13
+Jaipur,Central,Independent House,Unfurnished,West,1459,3,3,3,18,20,1,14,6.6,2.1,2.0,91.27
+Ahmedabad,Suburban,Villa,Semi-Furnished,North-East,1765,2,2,1,0,1,2,2,2.8,4.5,1.6,196.77
+Mumbai,Suburban,Apartment,Semi-Furnished,South,1083,2,1,1,7,11,0,6,3.3,4.7,0.6,255.41
+Kolkata,Central,Apartment,Unfurnished,East,1141,1,1,3,6,6,2,1,8.1,0.4,2.5,121.18
+Pune,Outskirts,Apartment,Furnished,South-East,1237,1,1,3,5,10,1,8,6.4,1.1,1.1,100.11
+Ahmedabad,Central,Builder Floor,Unfurnished,North,625,1,1,2,5,8,0,8,5.3,0.3,1.1,49.91
+Kolkata,Suburban,Builder Floor,Unfurnished,North-West,1746,3,2,2,12,15,2,1,6.5,0.3,2.8,157.6
+Pune,Suburban,Builder Floor,Semi-Furnished,South,1237,3,3,1,5,8,1,10,7.9,4.9,1.2,124.15
+Delhi,Outskirts,Studio,Furnished,North-West,478,1,1,3,14,17,0,22,7.7,0.9,1.8,52.09
+Jaipur,Suburban,Builder Floor,Semi-Furnished,South-East,741,1,1,1,0,7,2,5,0.9,3.2,1.7,53.41
+Delhi,Central,Apartment,Furnished,North-West,1579,3,3,2,7,7,2,3,9.4,1.7,0.6,398.38
+Hyderabad,Outskirts,Apartment,Semi-Furnished,South-West,1534,2,1,3,8,18,1,4,12.6,5.6,0.6,129.73
+Hyderabad,Suburban,Builder Floor,Semi-Furnished,South-East,1474,3,3,3,3,8,1,6,4.1,2.1,1.6,180.49
+Hyderabad,Suburban,Apartment,Semi-Furnished,North-East,1219,3,2,2,2,4,2,8,3.0,9.0,0.7,149.46
+Mumbai,Outskirts,Apartment,Unfurnished,North,1058,1,1,0,0,16,0,9,7.2,0.3,1.2,200.47
+Pune,Outskirts,Apartment,Unfurnished,North-East,1301,1,1,0,14,16,2,3,2.7,3.0,2.2,130.38
+Jaipur,Central,Apartment,Semi-Furnished,South,863,2,2,3,7,16,1,5,5.8,1.7,1.7,68.03
+Mumbai,Prime,Independent House,Semi-Furnished,South-West,2218,5,5,2,5,15,0,2,6.0,6.3,3.2,755.91
+Delhi,Prime,Apartment,Semi-Furnished,East,711,2,1,3,6,15,0,4,7.0,1.0,0.6,211.29
+Pune,Prime,Independent House,Semi-Furnished,South-West,1182,2,2,0,1,6,0,21,8.9,8.6,0.7,133.27
+Delhi,Outskirts,Apartment,Unfurnished,East,780,1,1,1,7,16,0,8,2.7,1.2,1.2,118.15
+Bengaluru,Outskirts,Apartment,Unfurnished,West,1060,1,1,3,13,14,1,1,3.2,1.9,3.0,122.84
+Chennai,Suburban,Apartment,Unfurnished,North-West,1106,2,2,1,0,14,0,18,2.7,0.6,4.7,85.16
+Mumbai,Central,Independent House,Unfurnished,West,2909,6,5,4,14,20,1,8,14.5,1.3,0.3,812.88
+Pune,Suburban,Apartment,Furnished,South-East,528,1,1,3,2,20,1,4,7.0,0.8,0.7,58.76
+Bengaluru,Central,Apartment,Semi-Furnished,South-East,1000,2,1,1,9,19,0,4,3.8,0.8,1.8,164.66
+Mumbai,Prime,Apartment,Semi-Furnished,South-West,1062,1,1,1,2,7,2,12,9.1,1.8,2.0,302.66
+Mumbai,Outskirts,Independent House,Furnished,South,1376,4,4,0,3,8,2,1,9.6,4.0,3.6,333.62
+Jaipur,Outskirts,Villa,Unfurnished,North-West,2592,5,4,1,1,5,2,5,3.2,3.3,1.3,160.64
+Hyderabad,Suburban,Builder Floor,Unfurnished,North,872,3,3,2,5,14,1,5,5.7,2.3,2.0,105.08
+Bengaluru,Central,Villa,Furnished,South-East,3413,6,5,2,3,3,1,8,12.2,8.6,0.9,630.63
+Hyderabad,Central,Apartment,Semi-Furnished,North-East,1842,4,4,3,3,15,1,1,7.8,1.8,0.9,268.75
+Chennai,Suburban,Apartment,Semi-Furnished,West,1280,2,1,1,4,11,1,1,4.4,3.4,1.9,150.67
+Hyderabad,Suburban,Builder Floor,Unfurnished,North,1678,2,1,4,11,13,1,13,13.6,9.8,1.7,131.15
+Delhi,Prime,Apartment,Furnished,North-West,957,1,1,3,17,19,2,5,2.6,1.5,2.3,336.52
+Mumbai,Central,Apartment,Furnished,North,1025,3,2,1,0,15,1,20,9.4,1.0,0.1,235.5
+Bengaluru,Prime,Apartment,Unfurnished,East,1274,3,2,3,6,9,0,2,4.7,3.3,1.3,254.94
+Delhi,Central,Independent House,Unfurnished,North-West,1913,4,4,4,1,5,1,10,12.3,1.1,2.3,384.55
+Lucknow,Outskirts,Villa,Unfurnished,West,1890,4,3,4,4,5,1,23,2.5,2.7,1.7,87.31
+Delhi,Suburban,Apartment,Semi-Furnished,South,1175,1,1,1,5,7,2,3,3.1,5.9,1.1,262.92
+Chennai,Prime,Villa,Unfurnished,South,3467,6,5,1,13,20,1,35,3.5,2.5,0.3,416.38
+Lucknow,Central,Studio,Semi-Furnished,North-West,512,1,1,0,4,17,0,7,7.4,1.9,0.8,30.33
+Hyderabad,Outskirts,Builder Floor,Furnished,North-East,1208,3,2,2,1,2,0,1,13.9,0.9,2.5,120.63
+Jaipur,Prime,Apartment,Furnished,East,1123,1,1,1,7,18,1,5,0.9,6.2,3.6,104.43
+Jaipur,Outskirts,Apartment,Semi-Furnished,South-East,952,2,1,0,2,4,1,0,4.9,2.1,0.5,52.6
+Pune,Suburban,Apartment,Unfurnished,North-West,1146,2,2,0,1,17,2,2,0.8,9.9,1.5,120.53
+Pune,Suburban,Independent House,Unfurnished,North-East,2660,5,4,3,2,9,0,1,4.8,1.1,2.3,307.16
+Mumbai,Suburban,Builder Floor,Furnished,South-West,1416,4,4,2,7,20,0,1,5.4,0.5,0.1,422.54
+Kolkata,Central,Apartment,Unfurnished,South,505,2,1,0,1,5,1,10,10.8,5.2,0.5,34.75
+Lucknow,Prime,Apartment,Semi-Furnished,North,336,1,1,3,11,12,2,4,18.5,3.9,1.1,21.98
+Bengaluru,Suburban,Apartment,Unfurnished,South-West,839,2,1,3,7,9,1,5,26.3,2.1,1.2,72.07
+Mumbai,Suburban,Independent House,Unfurnished,North,888,1,1,3,3,9,2,14,4.0,3.2,1.3,193.05
+Ahmedabad,Outskirts,Apartment,Unfurnished,North,920,1,1,0,7,9,0,2,9.4,3.4,1.1,62.03
+Chennai,Suburban,Builder Floor,Semi-Furnished,East,1600,4,4,4,2,10,2,1,2.7,12.4,2.2,180.9
+Pune,Prime,Apartment,Furnished,East,996,1,1,3,12,13,1,1,3.3,1.7,3.1,191.08
+Chennai,Prime,Villa,Semi-Furnished,North-East,2470,5,4,1,13,14,2,7,1.0,2.9,2.3,594.38
+Mumbai,Outskirts,Villa,Unfurnished,North-West,2721,4,4,3,10,17,0,3,2.9,1.6,1.5,673.94
+Jaipur,Prime,Apartment,Unfurnished,North-West,947,3,2,3,7,8,0,16,5.3,5.2,1.7,66.36
+Bengaluru,Central,Apartment,Unfurnished,North,1892,4,3,3,4,14,2,3,1.5,3.8,2.3,313.47
+Lucknow,Central,Independent House,Unfurnished,South-West,712,1,1,0,0,2,2,3,5.3,1.6,0.7,50.29
+Mumbai,Suburban,Builder Floor,Semi-Furnished,North-East,1374,3,2,1,8,19,0,6,4.7,2.0,0.6,326.18
+Delhi,Prime,Studio,Unfurnished,North-East,623,1,1,2,10,12,1,12,3.6,2.2,0.3,150.85
+Delhi,Central,Apartment,Unfurnished,South-East,881,2,1,0,0,4,0,3,4.8,1.4,1.8,196.47
+Mumbai,Suburban,Independent House,Semi-Furnished,West,1268,3,3,0,8,14,0,9,3.3,0.2,5.7,290.45
+Bengaluru,Central,Apartment,Unfurnished,South-East,1321,1,1,2,4,10,1,4,2.5,3.5,1.3,216.26
+Chennai,Prime,Independent House,Unfurnished,South-East,2618,4,3,3,14,19,0,13,6.3,2.7,0.7,348.25
+Kolkata,Suburban,Independent House,Furnished,East,2097,5,5,1,0,13,0,7,4.3,0.7,4.4,188.47
+Lucknow,Suburban,Apartment,Unfurnished,South,1277,3,2,2,4,5,2,7,2.1,2.2,1.0,69.91
+Mumbai,Outskirts,Apartment,Unfurnished,North-West,951,2,2,3,0,1,0,12,8.6,5.8,1.8,146.04
+Chennai,Central,Studio,Unfurnished,West,492,2,2,0,9,11,2,18,2.2,0.1,3.9,45.15
+Delhi,Suburban,Builder Floor,Semi-Furnished,West,1016,1,1,2,7,11,1,1,6.1,6.8,0.2,214.5
+Mumbai,Central,Apartment,Unfurnished,North-East,580,1,1,3,12,12,0,20,1.0,4.0,2.4,143.78
+Mumbai,Central,Apartment,Furnished,South-East,861,1,1,0,3,7,1,5,5.1,3.4,1.3,237.65
+Lucknow,Suburban,Apartment,Furnished,South-West,1027,2,2,3,16,17,1,2,22.1,0.5,1.8,51.44
+Bengaluru,Prime,Apartment,Unfurnished,South-West,629,2,2,1,7,11,2,8,7.0,1.1,1.9,109.77
+Mumbai,Central,Villa,Unfurnished,North,3062,5,5,3,14,20,1,5,2.1,2.7,2.3,1138.9
+Bengaluru,Prime,Apartment,Unfurnished,North-East,1550,4,3,3,4,4,0,2,6.7,8.5,0.6,287.01
+Kolkata,Suburban,Apartment,Furnished,North-East,593,1,1,3,3,4,2,3,4.5,6.2,2.0,53.62
+Bengaluru,Central,Builder Floor,Unfurnished,South-West,936,3,2,2,9,19,2,3,15.0,2.9,0.7,144.02
+Kolkata,Outskirts,Apartment,Furnished,North-West,900,1,1,3,5,5,2,7,1.5,2.8,2.2,64.53
+Mumbai,Central,Apartment,Unfurnished,South-West,798,1,1,2,3,12,0,13,2.0,3.3,2.9,180.56
+Kolkata,Suburban,Studio,Semi-Furnished,North-East,613,1,1,3,7,17,1,11,3.3,2.1,2.1,44.59
+Bengaluru,Suburban,Apartment,Unfurnished,West,1004,3,2,3,0,14,2,3,8.7,2.8,0.4,134.67
+Bengaluru,Suburban,Builder Floor,Unfurnished,South-West,945,2,2,0,1,2,2,1,5.6,1.3,1.2,136.63
+Pune,Prime,Builder Floor,Furnished,North-East,1443,2,1,1,1,7,2,3,2.3,3.5,3.7,257.2
+Chennai,Central,Apartment,Unfurnished,South-West,936,3,3,1,8,12,1,2,9.1,1.5,0.7,111.64
+Pune,Central,Apartment,Furnished,South-West,1482,2,1,0,17,18,0,2,4.7,0.7,1.2,208.15
+Bengaluru,Central,Builder Floor,Furnished,North,740,2,2,3,0,11,2,1,2.2,2.2,2.8,149.34
+Delhi,Suburban,Apartment,Unfurnished,West,1173,2,1,0,8,16,1,3,6.1,2.3,0.6,229.61
+Bengaluru,Suburban,Apartment,Unfurnished,East,597,1,1,2,3,17,2,7,1.9,3.5,1.2,86.21
+Ahmedabad,Outskirts,Builder Floor,Furnished,North-West,551,1,1,2,0,2,2,11,4.4,7.0,2.4,36.32
+Hyderabad,Suburban,Apartment,Semi-Furnished,North-East,1220,3,2,3,0,9,0,14,4.9,2.8,1.5,128.37
+Hyderabad,Suburban,Apartment,Unfurnished,North-East,930,2,2,1,0,6,1,4,5.4,4.0,1.1,109.12
+Pune,Suburban,Independent House,Unfurnished,West,1349,1,1,1,3,12,1,1,1.1,3.6,1.6,169.87
+Hyderabad,Outskirts,Independent House,Furnished,North-West,1716,2,2,1,17,19,2,7,10.1,0.9,2.1,185.16
+Kolkata,Central,Apartment,Unfurnished,West,905,2,2,3,0,8,1,3,7.9,7.3,2.9,63.31
+Jaipur,Suburban,Independent House,Semi-Furnished,North-East,1393,3,2,0,5,20,1,6,1.1,0.8,2.9,93.13
+Lucknow,Suburban,Apartment,Semi-Furnished,South-West,1494,4,4,3,13,18,1,1,6.9,10.8,0.6,83.3
+Bengaluru,Outskirts,Apartment,Unfurnished,East,1496,3,3,2,0,2,2,12,5.1,1.4,0.4,161.92
+Bengaluru,Outskirts,Studio,Semi-Furnished,North,472,1,1,2,3,5,2,3,4.2,0.3,0.1,63.51
+Mumbai,Central,Independent House,Unfurnished,South-West,2107,4,4,3,2,13,1,0,6.2,4.1,4.6,678.79
+Hyderabad,Central,Independent House,Unfurnished,North-East,2255,5,5,4,7,16,1,21,3.1,0.9,1.5,317.93
+Delhi,Suburban,Villa,Unfurnished,West,3054,6,5,1,3,4,0,1,4.1,4.2,2.1,731.16
+Chennai,Prime,Independent House,Semi-Furnished,West,1903,3,3,3,18,19,1,7,1.7,1.7,4.1,328.73
+Kolkata,Suburban,Studio,Unfurnished,North-West,504,1,1,0,0,2,0,6,5.2,4.9,2.0,29.58
+Pune,Suburban,Villa,Semi-Furnished,North,3238,6,5,1,2,11,2,10,12.7,6.5,1.3,393.09
+Hyderabad,Suburban,Apartment,Unfurnished,North-East,517,1,1,3,10,12,0,3,2.8,1.0,0.3,59.7
+Lucknow,Prime,Independent House,Unfurnished,South,1265,1,1,2,1,7,1,2,8.0,1.2,0.5,117.75
+Delhi,Suburban,Apartment,Furnished,South,926,1,1,0,4,14,2,13,4.6,0.4,2.2,191.32
+Kolkata,Prime,Builder Floor,Unfurnished,North-East,979,2,1,2,4,5,1,3,2.3,0.5,0.8,115.2
+Mumbai,Prime,Villa,Furnished,South,2995,5,5,4,3,15,2,23,15.2,1.4,1.7,995.69
+Hyderabad,Outskirts,Apartment,Semi-Furnished,East,1641,3,2,4,9,14,2,7,6.5,0.9,0.7,168.02
+Bengaluru,Prime,Apartment,Unfurnished,South,1333,2,1,3,10,11,2,6,2.3,5.7,3.3,263.81
+Bengaluru,Outskirts,Apartment,Unfurnished,North,1492,4,3,0,11,19,0,0,22.8,1.5,0.9,119.17
+Hyderabad,Outskirts,Builder Floor,Unfurnished,South,1530,4,4,1,8,8,1,4,5.7,1.3,0.4,153.41
+Mumbai,Suburban,Apartment,Furnished,South,1291,2,2,0,1,2,1,18,2.5,4.9,1.5,306.68
+Pune,Central,Independent House,Unfurnished,West,2299,5,4,4,4,16,0,0,4.1,5.7,1.5,285.52
+Chennai,Suburban,Studio,Unfurnished,West,496,1,1,2,8,19,2,1,1.0,1.9,1.2,51.23
+Chennai,Central,Villa,Unfurnished,West,1986,4,4,4,8,12,1,13,2.6,5.6,0.5,283.66
+Delhi,Suburban,Builder Floor,Semi-Furnished,West,1294,1,1,1,0,4,0,4,9.7,4.7,0.4,220.47
+Delhi,Outskirts,Apartment,Unfurnished,South,1334,3,2,1,0,6,2,12,7.3,1.9,5.4,190.34
+Mumbai,Prime,Apartment,Unfurnished,West,1070,2,2,1,6,8,1,9,3.5,4.0,2.1,373.36
+Bengaluru,Suburban,Builder Floor,Semi-Furnished,South-West,1848,2,1,3,2,2,1,5,0.4,4.0,0.8,316.15
+Lucknow,Suburban,Villa,Unfurnished,South,701,2,2,1,3,4,0,16,4.6,1.3,1.0,43.77
+Bengaluru,Suburban,Apartment,Unfurnished,North,300,1,1,2,1,1,0,1,6.3,2.1,3.4,42.3
+Mumbai,Central,Independent House,Semi-Furnished,South,1602,4,3,2,2,20,2,10,12.8,0.6,1.4,503.56
+Ahmedabad,Prime,Apartment,Semi-Furnished,North-West,973,2,2,3,17,17,1,16,5.2,3.6,1.5,106.95
+Kolkata,Central,Builder Floor,Furnished,North,1415,3,2,0,0,3,2,1,20.5,4.5,5.0,100.5
+Delhi,Suburban,Apartment,Unfurnished,North,788,1,1,2,5,8,2,8,15.1,0.3,6.4,134.58
+Pune,Central,Apartment,Unfurnished,West,1031,1,1,1,12,19,2,4,1.8,0.2,0.5,158.81
+Pune,Outskirts,Builder Floor,Unfurnished,North-East,1528,3,3,2,5,12,2,18,4.2,3.1,1.6,115.2
+Jaipur,Central,Apartment,Semi-Furnished,South-East,1135,3,3,3,1,14,2,5,4.8,6.6,3.2,85.29
+Delhi,Prime,Apartment,Furnished,North,1243,3,2,1,3,15,0,11,0.3,1.7,6.1,409.9
+Mumbai,Prime,Independent House,Semi-Furnished,South-West,1881,3,3,3,4,6,2,2,3.6,1.6,2.6,914.17
